@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+
+{% block main %}
+<style>
+.full-width {
+  width: 100%;
+}
+</style>
+
+<div class="mdl-grid">
+  <table class="full-width mdl-data-table mdl-js-data-table mdl-data-table--selectable mdl-shadow--2dp">
+    <tbody>
+      {% for i in range(3) %}
+      <tr>
+        <td class="mdl-data-table__cell--non-numeric">
+          <h4>TITLE {{ i+1 }}</h4>
+          <div>0700</div>
+        </td>
+        <td>59.05</td>
+        <td>1%</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+
+<div class="mdl-grid">
+  <form action="#" class="full-width" style="text-align: center;">
+    <div class="mdl-textfield mdl-js-textfield" style="width:40%;">
+      <input class="mdl-textfield__input" type="number" id="sample1">
+      <label class="mdl-textfield__label" for="sample1">Code</label>
+    </div>
+    <br>
+    <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored">
+      買入
+    </button>
+    <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored">
+      賣出
+    </button>
+  </form>
+</div>
+
+<div class="mdl-grid">
+  <h4>Stocks you may be interested in:</h4>
+  <table class="full-width mdl-data-table mdl-js-data-table mdl-data-table--selectable mdl-shadow--2dp">
+    <tbody>
+      {% for i in range(3) %}
+      <tr>
+        <td class="mdl-data-table__cell--non-numeric">
+          <h4>TITLE {{ i+1 }}</h4>
+          <div>0700</div>
+        </td>
+        <td>59.05</td>
+        <td>1%</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+
+{% endblock %}

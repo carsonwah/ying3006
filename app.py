@@ -50,6 +50,12 @@ def sell():
     session['prediction'] = model.predict()
     return 'ok'
 
+@app.route('/news_feed')
+def news_feed():
+    # remove the username from the session if it's there
+    return render_template('news_feed.html')
+
+
 # set the secret key.  keep this really secret:
 app.secret_key = 'A0Zr98j/3yX R~XHH!jmN]LWX/,?RT'
 
