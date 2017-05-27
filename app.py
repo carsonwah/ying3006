@@ -53,7 +53,7 @@ def sell():
 @app.route('/news_feed')
 def news_feed():
     # remove the username from the session if it's there
-    return render_template('news_feed.html')
+    return render_template('news_feed.html', news=db.news['0017'])
 
 
 # set the secret key.  keep this really secret:
