@@ -27,6 +27,13 @@ class LatentFactorModel():
         self.Q = numpy.random.rand(M,self.K)
         self.nP, self.nQ = self.matrix_factorization(self.R, self.P, self.Q, self.K)
 
+        # stock info
+        f = open('./stock_info.txt','r')
+        self.codes = map(lambda x: x[0:4], f.readline().strip().split('\t'))
+        self.names = f.readline().strip().split('\t')
+        self.prices = f.readline().strip().split('\t')
+        self.percentage_changes = f.readline().strip().split('\t')
+        f.close()
 
 
     """
@@ -65,7 +72,7 @@ class LatentFactorModel():
                             e = e + (beta/2) * ( pow(P[i][k],2) + pow(Q[k][j],2) )
             error = abs(previous_e - e)
     #         print(error)
-            if error < 0.01:
+            if error < 0.05:
                 break
             previous_e = e
     #     print('step to converge: ', step)
@@ -76,12 +83,18 @@ class LatentFactorModel():
         self.nQ_T = numpy.transpose(self.nQ)
         approximate_matrix = numpy.dot(self.nP, self.nQ_T)
         self.approximate_df = pd.DataFrame(approximate_matrix)
-        numpy.savetxt('approximate_matrix.csv', approximate_matrix, delimiter=',')
+        # numpy.savetxt('approximate_matrix.csv', approximate_matrix, delimiter=',')
         return P, Q.T
 
     def predict(self, i):
         return(self.approximate_df[self.df==0].iloc[i].sort_values(ascending=False, na_position = 'last').to_frame().T.iloc[:,0:5])
 
+    def update_user_by_code(self, user, code, share):
+        index = self.codes.index(code)
+        value = share * float(self.prices[index])
+        self.R[user][index] += share
+        if self.R[user][index] < 0.0:
+            self.R[user][index] = 0
 
     ###############################################################################
 
@@ -90,7 +103,7 @@ if __name__ == "__main__":
     model = LatentFactorModel()
     prediction = model.predict(1) # return top 5 with index
     print(prediction.columns.values)
-    model.R[0][10] = 1000
+    model.update_user_by_code(0, '0700', 1000)
     model.update()
     new_prediction = model.predict(1)
     print(new_prediction.columns.values)

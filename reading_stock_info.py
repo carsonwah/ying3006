@@ -1,0 +1,6 @@
+f = open('stock_info.txt','r')
+indexes = map(lambda x: x[0:4], f.readline().strip().split('\t'))
+names = f.readline().strip().split('\t')
+prices = f.readline().strip().split('\t')
+percentage_changes = f.readline().strip().split('\t')
+f.close()
