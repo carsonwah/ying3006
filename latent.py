@@ -60,6 +60,7 @@ class LatentFactorModel():
     def matrix_factorization(self, R, P, Q, K, steps=2000000, alpha=0.0002, beta=0.02):
         Q = Q.T
         previous_e = 0
+        numpy.divide(R, R.sum(axis=1)[:,None], where=R.sum(axis=1)[:,None]!=0)
         for step in range(steps):
             for i in range(len(R)):
                 for j in range(len(R[i])):
