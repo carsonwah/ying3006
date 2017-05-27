@@ -8,6 +8,7 @@
 </style>
 
 <div class="mdl-grid">
+  <h4>持有股票</h4>
   <table class="full-width mdl-data-table mdl-js-data-table mdl-data-table--selectable mdl-shadow--2dp">
     <tbody>
       {% for portfolio in portfolios %}
@@ -25,10 +26,16 @@
 </div>
 
 <div class="mdl-grid">
+  <h4>股票交易</h4>
   <form action="#" class="full-width" style="text-align: center;">
     <div class="mdl-textfield mdl-js-textfield" style="width:40%;">
-      <input class="mdl-textfield__input" type="number" id="sample1">
-      <label class="mdl-textfield__label" for="sample1">Code</label>
+      <input class="mdl-textfield__input" name="code" type="number">
+      <label class="mdl-textfield__label" name="share" for="sample1">股票代號</label>
+    </div>
+    <br>
+    <div class="mdl-textfield mdl-js-textfield" style="width:40%;">
+      <input class="mdl-textfield__input" type="number">
+      <label class="mdl-textfield__label" for="sample1">股</label>
     </div>
     <br>
     <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored">
@@ -41,7 +48,7 @@
 </div>
 
 <div class="mdl-grid">
-  <h4>Stocks     you may be interested in:</h4>
+  <h4>你可能有興趣的股票</h4>
   <table class="full-width mdl-data-table mdl-js-data-table mdl-data-table--selectable mdl-shadow--2dp">
     <tbody>
       {% for i in range(3) %}
