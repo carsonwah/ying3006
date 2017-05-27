@@ -15,26 +15,23 @@ class LatentFactorModel():
              [8.71,0,0,0,0,0,0,0,0,0,1.23,0,3.2,2.02,0,0,0.73,0.95,1.09,2,2.26,0.37,5.15,0,0,33.03,2.12,0,0,3.53,5.14,0,16.76,1.12,0,1.27,2.06,0,0,0,0,1.31,2.68,1.93,0,1.37,0,0,0,0]
             ]
         print(numpy.shape(numpy.array(self.R)))
-        df = pd.DataFrame(R)
+        self.df = pd.DataFrame(self.R)
 
-        R = numpy.array(R)
+        self.R = numpy.array(self.R)
 
-        N = len(R)
-        M = len(R[0])
-        K = 10
+        N = len(self.R)
+        M = len(self.R[0])
+        self.K = 10
 
-        P = numpy.random.rand(N,K)
-        Q = numpy.random.rand(M,K)
-
-        nP, nQ = matrix_factorization(R, P, Q, K)
-        nQ_T = numpy.transpose(nQ)
-        approximate_matrix = numpy.dot(nP, nQ_T)
-        approximate_df = pd.DataFrame(approximate_matrix)
+        self.P = numpy.random.rand(N,self.K)
+        self.Q = numpy.random.rand(M,self.K)
+        self.nP, self.nQ = self.matrix_factorization(self.R, self.P, self.Q, self.K)
+        self.nQ_T = numpy.transpose(self.nQ)
+        approximate_matrix = numpy.dot(self.nP, self.nQ_T)
+        self.approximate_df = pd.DataFrame(approximate_matrix)
 
         numpy.savetxt('approximate_matrix.csv', approximate_matrix, delimiter=',')
 
-        for i in range(len(approximate_df)):
-            print(approximate_df[df==0].iloc[i].sort_values(ascending=False, na_position = 'last').to_frame().T.iloc[:,0:5])
 
     """
     @INPUT:
@@ -48,7 +45,10 @@ class LatentFactorModel():
     @OUTPUT:
         the final matrices P and Q
     """
-    def matrix_factorization(R, P, Q, K, steps=2000000, alpha=0.0002, beta=0.02):
+    def update(self):
+        self.matrix_factorization(self.R, self.P, self.Q, self.K, steps=2000000, alpha=0.0002, beta=0.02)
+
+    def matrix_factorization(self, R, P, Q, K, steps=2000000, alpha=0.0002, beta=0.02):
         Q = Q.T
         previous_e = 0
         for step in range(steps):
@@ -75,7 +75,13 @@ class LatentFactorModel():
     #     print('step to converge: ', step)
     #     print('newest approximation error: ', e)
     #     print('last approximation error: ', previous_e)
+        self.nP = P
+        self.nQ = Q.T
         return P, Q.T
+
+    def predict(self, i):
+        print(self.approximate_df[self.df==0].iloc[i].sort_values(ascending=False, na_position = 'last').to_frame().T.iloc[:,0:5])
+
 
     ###############################################################################
 
@@ -84,4 +90,5 @@ if __name__ == "__main__":
     model = LatentFactorModel()
     prediction = model.predict(0) # return top 5 with index
     model.R[0][10] = 0.5
+    model.update()
     new_prediction = model.predict(0)
