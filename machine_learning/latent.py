@@ -6,7 +6,8 @@
 # An implementation of matrix factorization 
 # 
 try: 
-    import numpy 
+    import numpy
+    import csv
 except: 
     print("This implementation requires the numpy module.") 
     exit(0) 
@@ -46,7 +47,7 @@ def matrix_factorization(R, P, Q, K, steps=2000000, alpha=0.0002, beta=0.02):
                         e = e + (beta/2) * ( pow(P[i][k],2) + pow(Q[k][j],2) ) 
         error = abs(previous_e - e)
         print(error)
-        if error < 0.000001: 
+        if error < 0.	01: 
             break 
         previous_e = e 
     print('step to converge: ', step) 
@@ -57,21 +58,30 @@ def matrix_factorization(R, P, Q, K, steps=2000000, alpha=0.0002, beta=0.02):
 ############################################################################### 
  
 if __name__ == "__main__": 
-    R = [ 
-         [1000,20,10], 
-         [100,0,1], 
-         [0, 0, 1]
-        ] 
+    R = [
+         [0,0,0,0,21.39,0,3.2,0,0,0,0,1.22,0,0,0,0,0,0,0,0,0,0,0,5.81,0,0,0,0,0,0,0,17.82,0,0,0,0,0,0,0,16.83,9.76,0,0,0,6.65,0,3.27,4.81,1.34,7.88],
+         [0,35.2,27.08,0,0,21.37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6.56,0,0,0,0,0,9.79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+         [0,0,0,0,9.35,0,0,0,6.29,17.41,6.34,0,0,0,0,4.83,4.61,0,0,0,0,0,0,0,0,10.4,0,0,15.56,0,0,0,0,0,0,0,0,0,7.23,17.96,0,0,0,0,0,0,0,0,0,0,0],
+         [8.71,0,0,0,0,0,0,0,0,0,1.23,0,3.2,2.02,0,0,0.73,0.95,1.09,2,2.26,0.37,5.15,0,0,33.03,2.12,0,0,3.53,5.14,0,16.76,1.12,0,1.27,2.06,0,0,0,0,1.31,2.68,1.93,0,1.37,0,0,0,0]
+        ]
+    # R = [ 
+    #      [1000,20,10], 
+    #      [100,0,1], 
+    #      [0, 0, 1]
+    #     ] 
  
     R = numpy.array(R) 
  
     N = len(R) 
     M = len(R[0]) 
-    K = 3 
+    K = 10
  
     P = numpy.random.rand(N,K) 
     Q = numpy.random.rand(M,K) 
  
     nP, nQ = matrix_factorization(R, P, Q, K) 
-    nQ_T = numpy.transpose(nQ) 
-    print(numpy.dot(nP, nQ_T)) 
+    nQ_T = numpy.transpose(nQ)
+    approximate_matrix = numpy.dot(nP, nQ_T)
+    numpy.savetxt('approximate_matrix.csv', approximate_matrix, delimiter=',')
+
+    print(approximate_matrix) 
