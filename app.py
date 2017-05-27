@@ -26,6 +26,18 @@ def logout():
     session.pop('user', None)
     return redirect(url_for('index'))
 
+@app.route('/news_feed')
+def news_feed():
+    # remove the username from the session if it's there
+    return render_template('news_feed.html')
+
+@app.route('/portfolio')
+def portfolio():
+    # remove the username from the session if it's there
+    return render_template('portfolio.html')
+
+
+
 # set the secret key.  keep this really secret:
 app.secret_key = 'A0Zr98j/3yX R~XHH!jmN]LWX/,?RT'
 
