@@ -2,7 +2,7 @@ import numpy
 import csv
 import pandas as pd
 pd.set_option('display.max_columns', None)
-
+import io
 
 ###############################################################################
 class LatentFactorModel():
@@ -28,7 +28,7 @@ class LatentFactorModel():
         self.nP, self.nQ = self.matrix_factorization(self.R, self.P, self.Q, self.K)
 
         # stock info
-        f = open('./stock_info.txt','r')
+        f = io.open('./stock_info.txt','r', encoding='utf8')
         self.codes = map(lambda x: x[0:4], f.readline().strip().split('\t'))
         self.names = f.readline().strip().split('\t')
         self.prices = f.readline().strip().split('\t')

@@ -10,10 +10,10 @@
 <div class="mdl-grid">
   <table class="full-width mdl-data-table mdl-js-data-table mdl-data-table--selectable mdl-shadow--2dp">
     <tbody>
-      {% for i in range(3) %}
+      {% for portfolio in portfolios %}
       <tr>
         <td class="mdl-data-table__cell--non-numeric">
-          <h4>TITLE {{ i+1 }}</h4>
+          <h4>{{ portfolios[portfolio]['name'] }}</h4>
           <div>0700</div>
         </td>
         <td>59.05 <i class="fa {{ 'fa-arrow-up' if true else 'fa-arrow-down'}}"></i></td>
