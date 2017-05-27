@@ -1,15 +1,18 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>login</title>
-  </head>
-  <body>
-    <h1>log in</h1>
-    <form class="" action="/login" method="post">
-      <input type="text" name="username" value="">
-      <input type="password" name="password" value="">
-      <input type="submit" name="submit" value="Submit">
-    </form>
-  </body>
-</html>
+{% extends "base.html" %}
+
+{% block main %}
+<h1>log in</h1>
+<form class="" action="/login" method="post" style="text-align: center;">
+  <div class="mdl-textfield mdl-js-textfield" style="width:40%;">
+    <input class="mdl-textfield__input" name="username" type="text">
+    <label class="mdl-textfield__label">Username</label>
+  </div>
+  <br>
+  <div class="mdl-textfield mdl-js-textfield" style="width:40%;">
+    <input class="mdl-textfield__input" name="password" type="password">
+    <label class="mdl-textfield__label">Password</label>
+  </div>
+  <br>
+  <input type="submit" name="submit" value="Login" class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored">
+</form>
+{% endblock %}

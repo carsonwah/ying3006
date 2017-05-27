@@ -28,7 +28,9 @@
       <div class="mdl-layout__drawer">
         <span class="mdl-layout-title">Title</span>
         <nav class="mdl-navigation">
+          {% if user %}
           <a class="mdl-navigation__link" href="#"><i class="fa fa-user"></i> &nbsp; &nbsp;{{ user['username'] }}</a>
+          {% endif %}
           <a class="mdl-navigation__link" href="/">News Feed</a>
           <a class="mdl-navigation__link" href="/portfolio">Portfolio</a>
         </nav>
