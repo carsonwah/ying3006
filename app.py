@@ -19,7 +19,7 @@ def index():
             for code in user_portfolio:
                 result += [db.news[code][i]]
 
-        return render_template('news_feed.html', user=session['user'], news=result)
+        return render_template('news_feed.html', user=session['user'], news=result, other_news=db.news)
     else:
         return redirect(url_for('login'))
 

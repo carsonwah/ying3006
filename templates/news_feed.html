@@ -13,33 +13,72 @@
   color: #fff;
 }
 </style>
-
-  <div class="mdl-grid">
-    {% for n in news %}
-    <div class="mdl-cell">
-      <div class="demo-card-wide mdl-card mdl-shadow--2dp">
-        <div class="mdl-card__title" style="background: url('{{ n['image'] }}') center / cover;">
-          <h2 class="mdl-card__title-text" style="font-size:18px; background-color: rgba(18, 33, 0, 0.4);">{{ n['title'] }}</h2>
+  <main class="mdl-layout__content" style="width:100%;">
+     <div class="mdl-tabs mdl-js-tabs">
+        <div class="mdl-tabs__tab-bar">
+           <a href="#tab1-panel" class="mdl-tabs__tab is-active">推介</a>
+           <a href="#tab2-panel" class="mdl-tabs__tab">其他</a>
         </div>
-        <div class="mdl-card__supporting-text" style="font-size: 12px;">
-          {{ n['text']}}
-          <div style="text-align:right;">
-            {{ n['time'] }}
+        <div class="mdl-tabs__panel is-active" id="tab1-panel">
+          <div class="mdl-grid">
+            {% for n in news %}
+            <div class="mdl-cell">
+              <div class="demo-card-wide mdl-card mdl-shadow--2dp">
+                <div class="mdl-card__title" style="background: url('{{ n['image'] }}') center / cover;">
+                  <h2 class="mdl-card__title-text" style="font-size:18px; background-color: rgba(18, 33, 0, 0.4);">{{ n['title'] }}</h2>
+                </div>
+                <div class="mdl-card__supporting-text" style="font-size: 12px;">
+                  {{ n['text']}}
+                  <div style="text-align:right;">
+                    {{ n['time'] }}
+                  </div>
+                </div>
+                <div class="mdl-card__actions mdl-card--border">
+                  <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+                    Get Started
+                  </a>
+                </div>
+                <div class="mdl-card__menu">
+                  <button class="mdl-button mdl-button--icon mdl-js-button mdl-js-ripple-effect">
+                    <i class="material-icons">share</i>
+                  </button>
+                </div>
+              </div>
+            </div>
+            {% endfor %}
           </div>
         </div>
-        <div class="mdl-card__actions mdl-card--border">
-          <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
-            Get Started
-          </a>
+        <div class="mdl-tabs__panel" id="tab2-panel">
+          <div class="mdl-grid">
+            {% for code in other_news %}
+              {% for n in other_news[code] %}
+              <div class="mdl-cell">
+                <div class="demo-card-wide mdl-card mdl-shadow--2dp">
+                  <div class="mdl-card__title" style="background: url('{{ n['image'] }}') center / cover;">
+                    <h2 class="mdl-card__title-text" style="font-size:18px; background-color: rgba(18, 33, 0, 0.4);">{{ n['title'] }}</h2>
+                  </div>
+                  <div class="mdl-card__supporting-text" style="font-size: 12px;">
+                    {{ n['text']}}
+                    <div style="text-align:right;">
+                      {{ n['time'] }}
+                    </div>
+                  </div>
+                  <div class="mdl-card__actions mdl-card--border">
+                    <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+                      Get Started
+                    </a>
+                  </div>
+                  <div class="mdl-card__menu">
+                    <button class="mdl-button mdl-button--icon mdl-js-button mdl-js-ripple-effect">
+                      <i class="material-icons">share</i>
+                    </button>
+                  </div>
+                </div>
+              </div>
+              {% endfor %}
+            {% endfor %}
+          </div>
         </div>
-        <div class="mdl-card__menu">
-          <button class="mdl-button mdl-button--icon mdl-js-button mdl-js-ripple-effect">
-            <i class="material-icons">share</i>
-          </button>
-        </div>
-      </div>
-    </div>
-    {% endfor %}
-  </div>
-
+     </div>
+  </main>
 {% endblock %}
