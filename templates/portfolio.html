@@ -27,7 +27,7 @@
 
 <div class="mdl-grid">
   <h4>股票交易</h4>
-  <form action="#" class="full-width" style="text-align: center;">
+  <form action="/transaction" method="post" class="full-width" style="text-align: center;">
     <div class="mdl-textfield mdl-js-textfield" style="width:40%;">
       <input class="mdl-textfield__input" name="code" type="number">
       <label class="mdl-textfield__label" name="share" for="sample1">股票代號</label>
@@ -38,12 +38,12 @@
       <label class="mdl-textfield__label" for="sample1">股</label>
     </div>
     <br>
-    <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored">
+    <input type="submit" name="action" value="buy" class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored">
       買入
-    </button>
-    <button class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored">
+    </input>
+    <input type="submit" name="action" value="sell" class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored">
       賣出
-    </button>
+    </input>
   </form>
 </div>
 

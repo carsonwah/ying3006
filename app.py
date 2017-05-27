@@ -19,7 +19,7 @@ def index():
             for code in user_portfolio:
                 result += [db.news[code][i]]
 
-        return render_template('news_feed.html', name=session['user']['username'], news=result)
+        return render_template('news_feed.html', user=session['user'], news=result)
     else:
         return redirect(url_for('login'))
 
@@ -48,9 +48,18 @@ def portfolio():
     # return JSON: user's portfolio list, suggested top 5
     user_portfolio = get_user_portfolio(session['user']['id'])
     user_suggestion = get_user_suggestion()
-    return render_template('portfolio.html', name=session['user']['username'], portfolios=user_portfolio, suggestions=user_suggestion)
+    return render_template('portfolio.html', user=session['user'], name=session['user']['username'], portfolios=user_portfolio, suggestions=user_suggestion)
 
-@app.route('/buy', methods=['POST'])
+@app.route('/transaction', methods=['POST'])
+def transaction():
+    action = request.form['action']
+    if(action == 'buy'):
+        return buy()
+    elif(action == 'sell'):
+        return sell()
+    else:
+        return 'action not defined'
+
 def buy():
     code = request.form['code']
     share = request.form['share']
@@ -61,7 +70,6 @@ def buy():
     print 'New prediction: ', session['prediction_indexes']
     return 'ok'
 
-@app.route('/sell', methods=['POST'])
 def sell():
     code = request.form['code']
     share = request.form['share']
