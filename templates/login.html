@@ -1,18 +1,25 @@
 {% extends "base.html" %}
 
+{% block title %}股匯{% endblock %}
+
+{% block subtitle %}熱點新聞{% endblock %}
+
 {% block main %}
-<h1>log in</h1>
-<form class="" action="/login" method="post" style="text-align: center;">
-  <div class="mdl-textfield mdl-js-textfield" style="width:40%;">
-    <input class="mdl-textfield__input" name="username" type="text">
-    <label class="mdl-textfield__label">Username</label>
-  </div>
-  <br>
-  <div class="mdl-textfield mdl-js-textfield" style="width:40%;">
-    <input class="mdl-textfield__input" name="password" type="password">
-    <label class="mdl-textfield__label">Password</label>
-  </div>
-  <br>
-  <input type="submit" name="submit" value="Login" class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored">
-</form>
+<main class="mdl-layout__content" style="width:100%;">
+  <h1 style="text-indent: 40px;font-size: 80p;margin-bottom: 0;">股匯</h1>
+  <p style="text-indent: 50px;font-size: 24px;">你的個人財經主頁</p>
+  <form class="" action="/login" method="post" style="text-align: center;margin-top: 70px;">
+    <div class="mdl-textfield mdl-js-textfield" style="width:50%;">
+      <input class="mdl-textfield__input" name="username" type="text">
+      <label class="mdl-textfield__label">Username</label>
+    </div>
+    <br>
+    <div class="mdl-textfield mdl-js-textfield" style="width:50%;">
+      <input class="mdl-textfield__input" name="password" type="password">
+      <label class="mdl-textfield__label">Password</label>
+    </div>
+    <br>
+    <input type="submit" name="submit" value="Login" class="mdl-button mdl-js-button mdl-button--raised mdl-button--colored">
+  </form>
+</main>
 {% endblock %}
