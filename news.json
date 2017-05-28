@@ -1,1994 +1,2485 @@
 [
   {
     "code.i.": "0001",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00001/NOW.803697/hk-stock-news",
     "title": "新西蘭總理與李澤鉅及甘慶林會面",
-    "time": "2017/05/19 15:16",
     "text": "新西蘭總理比爾‧英格利希(Bill English)及新西蘭駐港總領事Gabrielle Rush，今早於長江集團中心與長江基建(01038.HK)兼長江生命科技(00775.HK)主席李澤鉅及長建董事總經理甘慶林會面，...",
     "image": "http://plib.aastocks.com/aafnnews/image/20150909100809803_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00001/NOW.803697/hk-stock-news"
+    "time": "2017/05/19 15:16",
+    "keywords": ["長江", "新西蘭", "駐"]
   },
   {
     "code.i.": "0001",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00001/NOW.803369/hk-stock-news",
     "title": "李嘉誠基金會捐資2,000萬英鎊建牛津大學醫療大數據研究所二期開幕",
-    "time": "2017/05/18 09:40",
     "text": "李嘉誠基金會公布，由李嘉誠基金會捐資2,000萬英鎊興建的牛津大學李嘉誠知識健康資訊及研發中心第二期，日前正式啟用，並指為全球最大醫療大數據研究所。英國財相夏文達、牛津大學校監彭定康勳爵，以及基金會主席李嘉誠先生出席了開...",
     "image": "http://plib.aastocks.com/aafnnews/image/20150227140800187_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00001/NOW.803369/hk-stock-news"
+    "time": "2017/05/18 09:40",
+    "keywords": ["嘉誠", "李", "大學"]
   },
   {
     "code.i.": "0001",
+    "sentiment": 0.9923,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00001/NOW.802742/hk-stock-news",
     "title": "報道指和電香港(00215.HK)旗下固網業務研賣盤 估值最少78億元",
-    "time": "2017/05/15 17:42",
     "text": "據《彭博通訊社》引述消息報道，長和系主席李嘉誠仿效九倉(00004.HK)去年出售九倉電訊的交易，正尋求旗下固網業務的選項，包括潛在出售。報道指，李嘉誠正收集潛在買家對和電香港(00215.HK)旗下和記環球電訊(Hut...",
     "image": "http://plib.aastocks.com/aafnnews/image/20150723092146270_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00001/NOW.802742/hk-stock-news"
+    "time": "2017/05/15 17:42",
+    "keywords": ["旗", "嘉誠", "電訊"]
   },
   {
     "code.i.": "0001",
+    "sentiment": 0.9985,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00001/NOW.802047/hk-stock-news",
     "title": "李嘉誠指可考慮回購股份 一直想增派息",
-    "time": "2017/05/11 15:46",
     "text": "長和(00001.HK)主席李嘉誠於股東會上指，雖目前未有考慮回購股份，但認為是一個值得考慮的建議。他指，一直想增加派息，個人亦會繼續買公司股票，又指自己喜歡香港，計劃在香港終老，但由於市場細，難以再大幅增加在港投資。 ...",
     "image": "http://plib.aastocks.com/aafnnews/image/20150623133535743_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00001/NOW.802047/hk-stock-news"
+    "time": "2017/05/11 15:46",
+    "keywords": ["增加", "嘉誠", "李"]
   },
   {
     "code.i.": "0001",
+    "sentiment": 0.9819,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00001/RUM.170510_112724/hk-stock-news",
     "title": "恆指升幅擴至逾200點突破25,100  騰訊聯通長和及中資金融領漲",
-    "time": "2017/05/10 11:27",
     "text": "內地4月CPI按年升幅進一步加快至1.2%略高預期。恆指三連升，承昨天高收再創逾廿一個月高勢，今早高開42點，在中資金融股及屢破頂的騰訊(00700.HK)帶動下，升幅擴至218點或近0.9%，報25,108，成交額41...",
     "image": "http://plib.aastocks.com/aafnnews/image/20160510144755341_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00001/RUM.170510_112724/hk-stock-news"
+    "time": "2017/05/10 11:27",
+    "keywords": ["升幅", "月", "點"]
   },
   {
     "code.i.": "0002",
+    "sentiment": 0.0004,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00002/NOW.803671/hk-stock-news",
     "title": "Lochard Energy就購入中電(00002.HK)澳洲燃氣廠索償9.67億澳元",
-    "time": "2017/05/19 12:22",
     "text": "中電(00002.HK)公布，非直接全資附屬EnergyAustralia及EnergyAustralia Investments收到由Lochard Energy發出的申索陳述書，以索取賠償損失約9.67億澳元，或7....",
     "image": "http://plib.aastocks.com/aafnnews/image/20150805101111048_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00002/NOW.803671/hk-stock-news"
+    "time": "2017/05/19 12:22",
+    "keywords": ["Energy", "EnergyAustralia", "Investments"]
   },
   {
     "code.i.": "0002",
+    "sentiment": 0.0038,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00002/NOW.802996/hk-stock-news",
     "title": "中華電力委任新總裁",
-    "time": "2017/05/16 17:22",
     "text": "中電(00002.HK)旗下中華電力宣佈委任蔣東強為總裁，接替退休的潘偉賢，6月1日起生效。蔣東強1988年加入中華電力為見習工程師，現為中華電力營運總裁。同時，現任輸電及供電業務部高級總監陳志誠，將會由6月1日起出任中...",
     "image": "http://plib.aastocks.com/aafnnews/image/20141020134113564_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00002/NOW.802996/hk-stock-news"
+    "time": "2017/05/16 17:22",
+    "keywords": ["中華", "電力", "部"]
   },
   {
     "code.i.": "0002",
+    "sentiment": 1.926e-06,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00002/NOW.802094/hk-stock-news",
     "title": "中電(00002.HK)首季本港售電量倒退1.8% 派第一期中期股息59仙",
-    "time": "2017/05/11 18:04",
     "text": "中電(00002.HK)公布，派第一期中期股息每股0.59元。首季本港售電量6,512百萬度，較去年同期倒退1.8%，主要由於今年供暖及抽濕負荷下降，住宅客戶售電量較去年同期大幅減少11.7%，完全抵銷商業、基建及公共服...",
     "image": "http://plib.aastocks.com/aafnnews/image/20150805101111048_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00002/NOW.802094/hk-stock-news"
+    "time": "2017/05/11 18:04",
+    "keywords": ["電量", "售", "去年"]
   },
   {
     "code.i.": "0002",
+    "sentiment": 0.8547,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00002/NOW.802087/hk-stock-news",
     "title": "*中電(00002.HK)宣派第一期中期股息每股0.59元",
-    "time": "2017/05/11 17:57",
     "text": "~阿思達克財經新聞網址: www.aastocks.com\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
     "image": "http://plib.aastocks.com/aafnnews/image/20141020134113564_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00002/NOW.802087/hk-stock-news"
+    "time": "2017/05/11 17:57",
+    "keywords": ["新聞", "財經", "網址"]
   },
   {
     "code.i.": "0002",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00002/NOW.801967/hk-stock-news",
     "title": "《大行報告》瑞銀降中電(00002.HK)評級至「沽售」 目標價上調至78元",
-    "time": "2017/05/11 10:19",
     "text": "瑞銀發表研究報告，指出儘管長債孳息率上升帶來風險，及新利潤管制協議或導致2019年每股盈利下跌，惟中電(00002.HK)股價仍不斷上試高位。正在進行的澳洲項目進展令人鼓舞，但仍不足以推動投資者買入股份，因相關利好因素自...",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F0002%2F0%2Fhk-stock-news%2F1&cb=435c259a29",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00002/NOW.801967/hk-stock-news"
+    "image": "http://plib.aastocks.com/aafnnews/image/20150805101111048_mi.jpg",
+    "time": "2017/05/11 10:19",
+    "keywords": ["仍", "導致", "2019"]
   },
   {
     "code.i.": "0003",
-    "title": "*里昂升潤燃(01193.HK)及新奧能源(02688.HK)評級至「買入」  政策風險已反映",
-    "time": "2017/05/22 10:21",
+    "sentiment": 0.8547,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00003/NOW.803919/hk-stock-news",
+    "title": "*裡昂升潤燃(01193.HK)及新奧能源(02688.HK)評級至「買入」  政策風險已反映",
     "text": "~阿思達克財經新聞網址: www.aastocks.com\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
     "image": "http://plib.aastocks.com/aafnnews/image/20160923181106905_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00003/NOW.803919/hk-stock-news"
+    "time": "2017/05/22 10:21",
+    "keywords": ["新聞", "財經", "網址"]
   },
   {
     "code.i.": "0003",
+    "sentiment": 0.7646,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00003/NOW.802636/hk-stock-news",
     "title": "《大行報告》花旗降內地燃氣股評級  投資回報或設限",
-    "time": "2017/05/15 11:14",
     "text": "花旗發表報告，對內地燃氣股轉向審慎，預期國家發改委今年第三季會削減下游分銷商的資產回報率(ROA)准許上限。新奧能源(02688.HK)、華潤燃氣(01193.HK)、中國燃氣(00384.HK)資產回報率上限由今年預測...",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F0003%2F0%2Fhk-stock-news%2F1&cb=ec5efc999b",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00003/NOW.802636/hk-stock-news"
-  },
-  {
-    "code.i.": "0003",
-    "title": "煤氣(00003.HK)中標大股東物業工程合約  涉資7,450萬",
-    "time": "2017/05/06 13:15",
-    "text": "香港中華煤氣(00003.HK)公布，成功投得為恆麗於新界青山公路古洞段粉嶺哥爾夫球會之住宅發展物業進行電氣安裝工程之分包合約，總包金額7,450萬元。恆麗為公司控股股東恆基地產(00012.HK)之全資附屬。(de/d...",
     "image": "http://plib.aastocks.com/aafnnews/image/20160212144443108_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00003/NOW.801046/hk-stock-news"
+    "time": "2017/05/15 11:14",
+    "keywords": ["燃氣", "資產", "回報率"]
   },
   {
     "code.i.": "0003",
-    "title": "《業績之後》大行對中華煤氣(00003.HK)最新評級及目標價(表)",
-    "time": "2017/03/17 14:51",
-    "text": "中華煤氣(00003.HK)昨(16日)收市後公布去年業績，期內純利按年微升約0.5%至73.41億元，每股盈利57.7仙，派末期息23仙及十送一紅股，與對上年度相同。期內收入倒退3.5%至285.57億元，營業支出亦減...",
+    "sentiment": 0.2912,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00003/NOW.801046/hk-stock-news",
+    "title": "煤氣(00003.HK)中標大股東物業工程合約  涉資7,450萬",
+    "text": "香港中華煤氣(00003.HK)公布，成功投得為恆麗於新界青山公路古洞段粉嶺哥爾夫球會之住宅發展物業進行電氣安裝工程之分包合約，總包金額7,450萬元。恆麗為公司控股股東恆基地產(00012.HK)之全資附屬。(de/d...",
     "image": "http://plib.aastocks.com/aafnnews/image/20141008135459445_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00003/NOW.790972/hk-stock-news"
+    "time": "2017/05/06 13:15",
+    "keywords": ["恆", "基", "地產"]
   },
   {
     "code.i.": "0003",
-    "title": "《大行報告》《大行報告》花旗：煤氣(00003.HK)內地業務盈利遜預期 維持「沽售」評級",
-    "time": "2017/03/17 11:00",
-    "text": "花旗發表報告，指中華煤氣(00003.HK)去年受到油價下跌、人民幣貶值及內地業務拖累，盈利增長遜預期，認為公司盈利增長低、新能源業務的盈利波動、以及估值高，維持「沽售」評級，按現金流貼現計算，目標價由12元微升至12....",
+    "sentiment": 0.9357,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00003/NOW.790972/hk-stock-news",
+    "title": "《業績之後》大行對中華煤氣(00003.HK)最新評級及目標價(表)",
+    "text": "中華煤氣(00003.HK)昨(16日)收市後公布去年業績，期內純利按年微升約0.5%至73.41億元，每股盈利57.7仙，派末期息23仙及十送一紅股，與對上年度相同。期內收入倒退3.5%至285.57億元，營業支出亦減...",
     "image": "http://plib.aastocks.com/aafnnews/image/20150409171043023_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00003/NOW.790924/hk-stock-news"
+    "time": "2017/03/17 14:51",
+    "keywords": ["仙", "收市", "(16"]
+  },
+  {
+    "code.i.": "0003",
+    "sentiment": 0.2375,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00003/NOW.790924/hk-stock-news",
+    "title": "《大行報告》《大行報告》花旗：煤氣(00003.HK)內地業務盈利遜預期 維持「沽售」評級",
+    "text": "花旗發表報告，指中華煤氣(00003.HK)去年受到油價下跌、人民幣貶值及內地業務拖累，盈利增長遜預期，認為公司盈利增長低、新能源業務的盈利波動、以及估值高，維持「沽售」評級，按現金流貼現計算，目標價由12元微升至12....",
+    "time": "2017/03/17 11:00",
+    "keywords": ["業務", "盈利", "增長"]
   },
   {
     "code.i.": "0004",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00004/NOW.803603/hk-stock-news",
     "title": "吳天海再度當選香港總商會主席",
-    "time": "2017/05/19 09:32",
     "text": "身兼九倉(00004.HK)主席的吳天海再度當選為香港總商會新一屆主席，吳天海指將致力確保香港保持競爭力，成為營商的首選地點，而總商會將繼續就與政府保持溝通，希望能凝聚共識，趕上競爭者的步伐。 總商會總裁袁莎妮指，總商會...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170519093514014_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00004/NOW.803603/hk-stock-news"
+    "time": "2017/05/19 09:32",
+    "keywords": ["總商會", "主席", "香港"]
   },
   {
     "code.i.": "0004",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00004/NOW.803519/hk-stock-news",
     "title": "吳天海：香港內耗損競爭力 冀把握「一帶一路」及大灣區發展機遇",
-    "time": "2017/05/18 18:13",
     "text": "身兼香港總商會主席的九倉(00004.HK)主席吳天海表示，近年香港內耗十分嚴重，犯了不少歐洲國家及台灣曾經犯的錯誤，讓政治騎劫經濟議題，忙於內部競爭，漠視外來挑戰，令香港情況每況愈下，經濟增長步伐亦被區內主要競爭對手追...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170511170541306_s.png",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00004/NOW.803519/hk-stock-news"
+    "time": "2017/05/18 18:13",
+    "keywords": ["香港", "競爭", "主席"]
   },
   {
     "code.i.": "0004",
+    "sentiment": 0.0078,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00004/NOW.803517/hk-stock-news",
     "title": "吳天海：難預測有線寬頻投票結果 冀有高投票率",
-    "time": "2017/05/18 18:10",
     "text": "有線寬頻(01097.HK)將於本月廿九日舉行股東大會，議決早前提出的供股集資方案，有線寬頻主席吳天海表示，暫時難以預測結果，又指自己是第一次進行拉票，希望屆時能有高投票率。他又提醒股東需要盡快過戶，因為公司過去數年均沒...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170510112855390_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00004/NOW.803517/hk-stock-news"
+    "time": "2017/05/18 18:10",
+    "keywords": ["寬帶", "股東", "提出"]
   },
   {
     "code.i.": "0004",
+    "sentiment": 0.9999,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00004/NOW.802074/hk-stock-news",
     "title": "會德豐(00020.HK)：美利道啟德地皮均有興趣 林鄭應考慮是否減辣",
-    "time": "2017/05/11 17:10",
     "text": "會德豐(00020.HK)副主席梁志堅出席股東周年大會後表示，集團一直熱衷於本港投地，對於明日截標的中環美利道地皮及啟德地皮均有興趣。對於中資發展商搶高地價，梁氏指香港是自由社會，歡迎其他投資者加入競爭，集團會按自身情況...",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F0004%2F0%2Fhk-stock-news%2F1&cb=7b2b016f43",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00004/NOW.802074/hk-stock-news"
+    "image": "http://plib.aastocks.com/aafnnews/image/20160928145920942_mi.jpg",
+    "time": "2017/05/11 17:10",
+    "keywords": ["集團", "地皮", "會"]
   },
   {
     "code.i.": "0004",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00004/NOW.801720/hk-stock-news",
     "title": "九倉(00004.HK)：兩大商場首季零售輕微增長 奢侈品表現較佳",
-    "time": "2017/05/10 12:46",
     "text": "九倉(00004.HK)主席兼常務董事吳天海在股東周年大會後表示，今年首季集團旗下海港城及時代廣場零售錄得按年輕微增長，表現優於大市，而根據商戶提供的4月初步資料，認為表現亦不錯，不過，吳氏坦言不能馬上斷言本港零售見底回...",
-    "image": "http://plib.aastocks.com/aafnnews/image/20160928145920942_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00004/NOW.801720/hk-stock-news"
+    "image": "http://plib.aastocks.com/aafnnews/image/20170426173544001_mi.jpg",
+    "time": "2017/05/10 12:46",
+    "keywords": ["零售", "表現", "天海"]
   },
   {
     "code.i.": "0005",
+    "sentiment": 5.4933e-06,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00005/NOW.805096/hk-stock-news",
     "title": "緊接渣打步伐 匯豐、中銀齊加H按息",
-    "time": "2017/05/27 10:24",
     "text": "繼渣打銀行昨日(26日)宣布下周一(29日)起上調H按息率10點子，至H加1.4厘後，匯豐銀行午夜公布，同日起，上調新造H按息率0.1厘，至H+1.4厘。該行稱，會繼續遵照該局規定，確保按揭業務審慎經營。此外，中銀香港(...",
     "image": "http://plib.aastocks.com/aafnnews/image/20160815151850908_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00005/NOW.805096/hk-stock-news"
+    "time": "2017/05/27 10:24",
+    "keywords": ["H", "銀行", "按息"]
   },
   {
     "code.i.": "0005",
+    "sentiment": 0.9887,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00005/NOW.804789/hk-stock-news",
     "title": "匯控(00005.HK)每股以股代息新股市值8.65美元",
-    "time": "2017/05/25 17:27",
     "text": "匯豐控股(00005.HK)公布，第一次股息將於7月5日派發予5月19日已登記在英國主要股東名冊、香港海外股東分冊或百慕達海外股東分冊上的股東。股息將以美元、英鎊或港元，或該三種貨幣組合之現金分派，並附有以股代息選擇。根...",
     "image": "http://plib.aastocks.com/aafnnews/image/20160715163629885_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00005/NOW.804789/hk-stock-news"
+    "time": "2017/05/25 17:27",
+    "keywords": ["月", "日", "股息"]
   },
   {
     "code.i.": "0005",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00005/NOW.804671/hk-stock-news",
     "title": "《大行報告》摩通升匯控(00005.HK)目標價至76元 評級「中性」",
-    "time": "2017/05/25 10:20",
     "text": "摩通發表研究報告，上調匯控(00005.HK)2017-2019年之每股盈利預測分別7%、8%及5%，以反映中期更好的收入前景及近期更低撥備。目標價相應自72元上調至76元。該行預期匯控下半年將會進行另一輪25億美元之回...",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F0005%2F0%2Fhk-stock-news%2F1&cb=bb68b66899",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00005/NOW.804671/hk-stock-news"
-  },
-  {
-    "code.i.": "0005",
-    "title": "*摩通升匯控(00005.HK)目標價至76元  評級「中性」",
-    "time": "2017/05/25 09:57",
-    "text": "~阿思達克財經新聞網址: www.aastocks.com\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
     "image": "http://plib.aastocks.com/aafnnews/image/20140721145615314_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00005/NOW.804658/hk-stock-news"
+    "time": "2017/05/25 10:20",
+    "keywords": ["控", "上調", "匯"]
   },
   {
     "code.i.": "0005",
-    "title": "《瑞信窩輪》騰訊調整內險整固，聯通急升中移橫行",
-    "time": "2017/05/25 09:21",
-    "text": "騰訊調整內險整固，留意騰訊購15657/平安購12722美國聯儲局公布的五月份議息會議紀錄顯示，大多數委員預計短期內可能再加息，但要先證明近期的經濟放緩只屬暫時性。美股周三向好，道指連升5日，收市再升逾70點，重上兩萬一...",
+    "sentiment": 0.8547,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00005/NOW.804658/hk-stock-news",
+    "title": "*摩通升匯控(00005.HK)目標價至76元  評級「中性」",
+    "text": "~阿思達克財經新聞網址: www.aastocks.com\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
     "image": "http://plib.aastocks.com/aafnnews/image/20151119161815690_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00005/NOW.804625/hk-stock-news"
+    "time": "2017/05/25 09:57",
+    "keywords": ["新聞", "財經", "網址"]
+  },
+  {
+    "code.i.": "0005",
+    "sentiment": 1.5916e-07,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00005/NOW.804625/hk-stock-news",
+    "title": "《瑞信窩輪》騰訊調整內險整固，聯通急升中移橫行",
+    "text": "騰訊調整內險整固，留意騰訊購15657/平安購12722美國聯儲局公布的五月份議息會議紀錄顯示，大多數委員預計短期內可能再加息，但要先證明近期的經濟放緩隻屬暫時性。美股周三向好，道指連升5日，收市再升逾70點，重上兩萬一...",
+    "image": "http://plib.aastocks.com/aafnnews/image/20141006172041905_mi.jpg",
+    "time": "2017/05/25 09:21",
+    "keywords": ["訊", "購", "議"]
   },
   {
     "code.i.": "0006",
+    "sentiment": 0.0488,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00006/NOW.803946/hk-stock-news",
     "title": "《大行報告》瑞銀降港燈(02638.HK)目標價至6.2元 市場未反映減派息風險",
-    "time": "2017/05/22 11:20",
     "text": "瑞銀發表報告，維持對港燈(02638.HK)的「沽售」評級，並把目標價由6.4元降至6.2元。報告指，新利潤管制計劃准許回報率由9.99%減至8%符預期，相信將導致每單位2019年派息較2018年減少兩成，亦不相信市場已...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170509145048089_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00006/NOW.803946/hk-stock-news"
+    "time": "2017/05/22 11:20",
+    "keywords": ["報告", "年", "9.99%"]
   },
   {
     "code.i.": "0006",
+    "sentiment": 0.3202,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00006/NOW.801772/hk-stock-news",
     "title": "長建(01038.HK)股東建議拆細買賣股數 李澤鉅指會考慮",
-    "time": "2017/05/10 16:22",
     "text": "長江基建(01038.HK)今日(10日)舉行股東會，對於有股東提議拆細股份買賣股數，主席李澤鉅表示會考慮。被問到會否再提與電能實業(00006.HK)的重組，他表示暫時無考慮。對於會不會再有海外併購計劃，他回應說，公司...",
     "image": "http://plib.aastocks.com/aafnnews/image/20160513135920897_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00006/NOW.801772/hk-stock-news"
+    "time": "2017/05/10 16:22",
+    "keywords": ["會", "電能", "提"]
   },
   {
     "code.i.": "0006",
+    "sentiment": 0.9936,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00006/NOW.801691/hk-stock-news",
     "title": "港燈(02638.HK)股東：前景穩定 不預期大增長",
-    "time": "2017/05/10 11:12",
     "text": "港燈(02638.HK)今日(10日)舉行股東會，有前年大時代後買入股票的劉先生表示，不擔心港燈在新利潤管制協議下派息會下降。認為公司前景穩定，本港市場對電力有長期需求，但他不預期公司有大增長，如果要有增長就要好似電能實...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170509145105980_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00006/NOW.801691/hk-stock-news"
+    "time": "2017/05/10 11:12",
+    "keywords": ["大", "增長", "不"]
   },
   {
     "code.i.": "0006",
+    "sentiment": 0.884,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00006/NOW.800653/hk-stock-news",
     "title": "《大行報告》野村升長實地產(01113.HK)目標價至65.3元 本月迎最少三項催化劑",
-    "time": "2017/05/04 14:27",
     "text": "野村報告指出，長實地產(01113.HK)本月最少有三項催化劑，有助推動落後的股價追上同業。集團現價較每股資產淨值折讓54%，該行將其目標價由63.4元上調至65.3元，維持「買入」評級。該行預期，中環美利道商業地招標結...",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F0006%2F0%2Fhk-stock-news%2F1&cb=8ce7048c19",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00006/NOW.800653/hk-stock-news"
+    "image": "http://plib.aastocks.com/aafnnews/image/20141008141355889_mi.jpg",
+    "time": "2017/05/04 14:27",
+    "keywords": ["價", "最少", "本月"]
   },
   {
     "code.i.": "0006",
+    "sentiment": 0.8602,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00006/NOW.799219/hk-stock-news",
     "title": "瑞信對公用股最新投資評級及目標價(表)",
-    "time": "2017/04/26 10:34",
     "text": "股份│投資評級│目標價(港元)長建(01038.HK)│跑贏大市│82元電能(00006.HK)│跑贏大市│78.5元中電(00002.HK)│跑輸大市│68元港燈(02638.HK)│跑輸大市│5.1元(ic/u)~阿...",
-    "image": "http://plib.aastocks.com/aafnnews/image/20141008141355889_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00006/NOW.799219/hk-stock-news"
+    "image": "http://plib.aastocks.com/aafnnews/image/20141008141428061_mi.jpg",
+    "time": "2017/04/26 10:34",
+    "keywords": ["元", "跑", "贏大"]
   },
   {
     "code.i.": "0011",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00011/NOW.804275/hk-stock-news",
     "title": "港銀首季貸款年度化增長18.5% 不良率僅0.7%",
-    "time": "2017/05/23 17:25",
     "text": "根據金管局文件顯示，本港首季銀行業貸款增長4.6%，年度化增長18.5%，去年全年貸款增長則為6.5%。當局指增長來自多方面，於本港境內及境外使用之貸款分別錄得16.4%及24.7%年度化增長，主要來自企業新貸款需求增加...",
     "image": "http://plib.aastocks.com/aafnnews/image/20141006172041905_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00011/NOW.804275/hk-stock-news"
+    "time": "2017/05/23 17:25",
+    "keywords": ["貸款", "增長", "錄"]
   },
   {
     "code.i.": "0011",
+    "sentiment": 0.9998,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00011/NOW.804159/hk-stock-news",
     "title": "《大行報告》摩通重申看好港銀 首選中銀香港(02388.HK)",
-    "time": "2017/05/23 10:25",
     "text": "摩根大通發表的報告指，受惠週期性及結構性因素，認為香港銀行業正處於上行軌道，特別是大型銀行，營運表現於可見將來將有改善。該行指，受惠本港經濟復甦情況好過預期，加上貿易及零售銷售表現經歷連續兩年的收縮後看似回復增長，相關因...",
     "image": "http://plib.aastocks.com/aafnnews/image/20140626141941537_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00011/NOW.804159/hk-stock-news"
+    "time": "2017/05/23 10:25",
+    "keywords": ["表現", "受惠", "指"]
   },
   {
     "code.i.": "0011",
+    "sentiment": 0.8547,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00011/NOW.804135/hk-stock-news",
     "title": "*摩通重申看好港銀  首選中銀香港(02388.HK)",
-    "time": "2017/05/23 09:47",
     "text": "~阿思達克財經新聞網址: www.aastocks.com\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
     "image": "http://plib.aastocks.com/aafnnews/image/20140902160259886_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00011/NOW.804135/hk-stock-news"
+    "time": "2017/05/23 09:47",
+    "keywords": ["新聞", "財經", "網址"]
   },
   {
     "code.i.": "0011",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00011/NOW.803932/hk-stock-news",
     "title": "《大行報告》摩通：新措施對按揭貸款增長負面 惟對港銀淨息差正面",
-    "time": "2017/05/22 10:47",
     "text": "金管局上周五(19日)公布新一輪樓市逆周期措施。摩根大通發表研究報告，指措施將打擊銀行按揭貸款之增長勢頭，惟對整體貸款增長及資本水平影響可控。同時對淨息差或有利。該行指若港銀股價下跌將是買入時機，行業之中首選中銀香港(0...",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F0011%2F0%2Fhk-stock-news%2F1&cb=ad4748815a",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00011/NOW.803932/hk-stock-news"
+    "image": "http://plib.aastocks.com/aafnnews/image/20160815153625845_mi.jpg",
+    "time": "2017/05/22 10:47",
+    "keywords": ["銀", "增長", "貸款"]
   },
   {
     "code.i.": "0011",
+    "sentiment": 0.8547,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00011/NOW.803904/hk-stock-news",
     "title": "*摩通：新措施對按揭貸款增長負面  惟對港銀淨息差正面",
-    "time": "2017/05/22 09:52",
     "text": "~阿思達克財經新聞網址: www.aastocks.com\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-    "image": "http://plib.aastocks.com/aafnnews/image/20160815153625845_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00011/NOW.803904/hk-stock-news"
+    "image": "http://plib.aastocks.com/aafnnews/image/20140626141842793_mi.jpg",
+    "time": "2017/05/22 09:52",
+    "keywords": ["新聞", "財經", "網址"]
   },
   {
     "code.i.": "0012",
+    "sentiment": 0.3361,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00012/NOW.804800/hk-stock-news",
     "title": "中原：錦上路站第一期項目入標反應符預期",
-    "time": "2017/05/25 18:24",
-    "text": "西鐵錦上路站第一期物業發展項目，順延至今日截標，共接獲8份標書。中原測量師行執行董事張競達表示，項目享鐵路站優勢，具一定的吸引力，入標反應合符預期。今次主要是本地大型發展商及財團入標，中資只佔極少數，反映國內發展商對項目...",
+    "text": "西鐵錦上路站第一期物業發展項目，順延至今日截標，共接獲8份標書。中原測量師行執行董事張競達表示，項目享鐵路站優勢，具一定的吸引力，入標反應合符預期。今次主要是本地大型發展商及財團入標，中資隻佔極少數，反映國內發展商對項目...",
     "image": "http://plib.aastocks.com/aafnnews/image/20140626141709392_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00012/NOW.804800/hk-stock-news"
+    "time": "2017/05/25 18:24",
+    "keywords": ["項目", "標", "發展"]
   },
   {
     "code.i.": "0012",
+    "sentiment": 0.0958,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00012/NOW.804792/hk-stock-news",
     "title": "港鐵(00066.HK)：錦上路站住宅項目共收8份標書",
-    "time": "2017/05/25 17:38",
     "text": "港鐵(00066.HK)公布，今日(25日)截標的西鐵錦上路站上蓋第一期住宅項目共收到8份標書。據截標現場所見，會德豐(00020.HK)、恆地(00012.HK)及新世界(00017.HK)獨資入標；信置(00083....",
     "image": "http://plib.aastocks.com/aafnnews/image/20150313145745303_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00012/NOW.804792/hk-stock-news"
+    "time": "2017/05/25 17:38",
+    "keywords": ["鐵", "截標", "標"]
   },
   {
     "code.i.": "0012",
+    "sentiment": 0.2645,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00012/NOW.804729/hk-stock-news",
     "title": "港鐵(00066.HK)錦上路站住宅項目最少收6標",
-    "time": "2017/05/25 13:58",
     "text": "港鐵(00066.HK)錦上路站上蓋第一期住宅項目今日截標，據截標現場所見，港鐵最少收到6份標書。其中，會德豐(00020.HK)、恆地(00012.HK)及新世界(00017.HK)獨資入標；信置(00083.HK)及...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170525140906491_s.JPG",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00012/NOW.804729/hk-stock-news"
+    "time": "2017/05/25 13:58",
+    "keywords": ["標", "鐵", "期"]
   },
   {
     "code.i.": "0012",
+    "sentiment": 0.2468,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00012/NOW.804724/hk-stock-news",
     "title": "會德豐(00020.HK)及潤地(01109.HK)等入標港鐵錦上路站住宅項目",
-    "time": "2017/05/25 13:11",
     "text": "港鐵(00066.HK)錦上路站上蓋第一期住宅項目今日截標，據截標現場所見，港鐵暫收到5份標書。其中，會德豐(00020.HK)、恆地(00012.HK)及新世界(00017.HK)獨資入標；華潤置地(01109.HK)...",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F0012%2F0%2Fhk-stock-news%2F1&cb=bd781768b7",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00012/NOW.804724/hk-stock-news"
+    "image": "http://plib.aastocks.com/aafnnews/image/20160412163213044_mi.jpg",
+    "time": "2017/05/25 13:11",
+    "keywords": ["標", "鐵", "期"]
   },
   {
     "code.i.": "0012",
+    "sentiment": 0.8971,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00012/NOW.804721/hk-stock-news",
     "title": "恆地(00012.HK)：美利道項目總投資料260億 回報率逾3%",
-    "time": "2017/05/25 13:04",
     "text": "恆地(00012.HK)副主席林高演於出席香港小輪(00050.HK)股東會後指，預期中環美利道項目的總投資額為260億元，按現時IFC項目租金每呎超過185元計，回報率已有3厘，相信項目建成後，租金會更高。他指，公司會...",
-    "image": "http://plib.aastocks.com/aafnnews/image/20160412163213044_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00012/NOW.804721/hk-stock-news"
-  },
-  {
-    "code.i.": "0016",
-    "title": "《專題》大摩、高盛及摩通對地產股評級及目標價(表)",
-    "time": "2017/05/24 18:18",
-    "text": "據摩根士丹利報告，列出對香港地產股投資評級及目標價：股份│投資評級│目標價(港元)發展商：新地(00016.HK)│增持│134元恆地(00012.HK)│減持│39元信和置業(00083.HK)│與大市同步│14元新世...",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F0016%2F0%2Fhk-stock-news%2F1&cb=ca24b9d333",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00016/NOW.804555/hk-stock-news"
-  },
-  {
-    "code.i.": "0016",
-    "title": "《專題》券商對地產股淨負債比率及估值預測(表)",
-    "time": "2017/05/24 18:16",
-    "text": "摩根大通早前發表報告表示，列出各地產股的淨負債比率預測：股份│淨負債比率預測新世界發展(00017.HK)│40.9%嘉里建設(00683.HK)│34.9%會德豐(00020.HK)│23.7%恆地(00012.HK)...",
     "image": "http://plib.aastocks.com/aafnnews/image/20140807153354582_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00016/NOW.804554/hk-stock-news"
+    "time": "2017/05/25 13:04",
+    "keywords": ["項目", "高", "租金"]
   },
   {
     "code.i.": "0016",
-    "title": "《專題》券商在香港樓市前景預測(表)",
-    "time": "2017/05/24 18:16",
-    "text": "港府繼4月中收緊印花稅機制，對一約多伙徵稅15%，金管局上周出招遏發展商高槓桿購地及高成數樓按，本網綜合各券商近數月對本港樓市前景預測：券商│對香港樓市前景預測花旗│樓價或已見頂，重申料今年按年跌15%德銀│進入加息周期...",
+    "sentiment": 0.9999,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00016/NOW.804555/hk-stock-news",
+    "title": "《專題》大摩、高盛及摩通對地產股評級及目標價(表)",
+    "text": "據摩根士丹利報告，列出對香港地產股投資評級及目標價：股份│投資評級│目標價(港元)發展商：新地(00016.HK)│增持│134元恆地(00012.HK)│減持│39元信和置業(00083.HK)│與大市同步│14元新世...",
+    "image": "http://plib.aastocks.com/aafnnews/image/20140807153354582_mi.jpg",
+    "time": "2017/05/24 18:18",
+    "keywords": ["新", "目標", "價"]
+  },
+  {
+    "code.i.": "0016",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00016/NOW.804554/hk-stock-news",
+    "title": "《專題》券商對地產股淨負債比率及估值預測(表)",
+    "text": "摩根大通早前發表報告表示，列出各地產股的淨負債比率預測：股份│淨負債比率預測新世界發展(00017.HK)│40.9%嘉裡建設(00683.HK)│34.9%會德豐(00020.HK)│23.7%恆地(00012.HK)...",
     "image": "http://plib.aastocks.com/aafnnews/image/20141008140021004_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00016/NOW.804553/hk-stock-news"
+    "time": "2017/05/24 18:16",
+    "keywords": ["比率", "預測", "負債"]
   },
   {
     "code.i.": "0016",
-    "title": "《專題》本港樓價創新高惟不明朗增 大摩料下半年將回落",
-    "time": "2017/05/24 18:12",
-    "text": "港府雖自去年11月再「加辣」，將住宅物業交易從價印花稅稅率劃一提高至15%，但本港樓價持續攀升，近月更出現價量齊升。差餉物業估價署私人住宅售價指數，於3月份升至319.8點歷史新高，按年升17.8%，較1997年10月最...",
+    "sentiment": 0.9822,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00016/NOW.804553/hk-stock-news",
+    "title": "《專題》券商在香港樓市前景預測(表)",
+    "text": "港府繼4月中收緊印花稅機制，對一約多伙徵稅15%，金管局上周出招遏發展商高槓桿購地及高成數樓按，本網綜合各券商近數月對本港樓市前景預測：券商│對香港樓市前景預測花旗│樓價或已見頂，重申料今年按年跌15%德銀│進入加息周期...",
     "image": "http://plib.aastocks.com/aafnnews/image/20160412182412199_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00016/NOW.804550/hk-stock-news"
+    "time": "2017/05/24 18:16",
+    "keywords": ["│", "月", "15%"]
   },
   {
     "code.i.": "0016",
-    "title": "《專題》金管局連番出招收緊按揭 料減中資進取投地",
-    "time": "2017/05/24 18:11",
-    "text": "本地樓價升勢不斷，差估署今年3月份私樓售價指數報319.8點創新高，按月漲2%，已連升第十二個月，按年升17.8%。就不少中資地產發展商近年積極來港高價「搶地」，兼且有發展商提供高成數按揭，金管局本月連番出招，繼本月12...",
+    "sentiment": 0.0027,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00016/NOW.804550/hk-stock-news",
+    "title": "《專題》本港樓價創新高惟不明朗增 大摩料下半年將回落",
+    "text": "港府雖自去年11月再「加辣」，將住宅物業交易從價印花稅稅率劃一提高至15%，但本港樓價持續攀升，近月更出現價量齊升。差餉物業估價署私人住宅售價指數，於3月份升至319.8點歷史新高，按年升17.8%，較1997年10月最...",
     "image": "http://plib.aastocks.com/aafnnews/image/20160602153556358_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00016/NOW.804549/hk-stock-news"
+    "time": "2017/05/24 18:12",
+    "keywords": ["月", "升", "住宅"]
+  },
+  {
+    "code.i.": "0016",
+    "sentiment": 0.0612,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00016/NOW.804549/hk-stock-news",
+    "title": "《專題》金管局連番出招收緊按揭 料減中資進取投地",
+    "text": "本地樓價升勢不斷，差估署今年3月份私樓售價指數報319.8點創新高，按月漲2%，已連升第十二個月，按年升17.8%。就不少中資地產發展商近年積極來港高價「搶地」，兼且有發展商提供高成數按揭，金管局本月連番出招，繼本月12...",
+    "image": "http://plib.aastocks.com/aafnnews/image/20140812181418415_mi.jpg",
+    "time": "2017/05/24 18:11",
+    "keywords": ["升", "本月", "港"]
   },
   {
     "code.i.": "0017",
+    "sentiment": 0.9977,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00017/NOW.804989/hk-stock-news",
     "title": "新世界(00017.HK)：金管局收緊發展商貸款影響不大 樓市審慎樂觀",
-    "time": "2017/05/26 12:22",
-    "text": "新世界發展(00017.HK)副主席鄭志剛出席股東周年大會前表示，雖然金管局早前收緊發展商的借貸比率，但由於公司現金流良好，沒受大影響。至於金管局收緊按揭比例，鄭志剛認為措施只針對「公司客」及非本地買家，認為現時自住及首...",
+    "text": "新世界發展(00017.HK)副主席鄭志剛出席股東周年大會前表示，雖然金管局早前收緊發展商的借貸比率，但由於公司現金流良好，沒受大影響。至於金管局收緊按揭比例，鄭志剛認為措施隻針對「公司客」及非本地買家，認為現時自住及首...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170526131540406_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00017/NOW.804989/hk-stock-news"
+    "time": "2017/05/26 12:22",
+    "keywords": ["收緊", "前", "志剛"]
   },
   {
     "code.i.": "0017",
+    "sentiment": 0.1006,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00017/NOW.804877/hk-stock-news",
     "title": "前新世界中心重建成「Victoria Dockside」 投資200億元後年啟用",
-    "time": "2017/05/26 09:10",
     "text": "新世界發展(00017.HK)公布，前尖沙咀新世界中心重建項目將命名為「Victoria Dockside」，預計將在2019年全面落成啟用。項目投資200億元，項目總樓面面積達300萬平方呎，將提供包括甲級商廈、酒店等...",
     "image": "http://plib.aastocks.com/aafnnews/image/20160928144542473_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00017/NOW.804877/hk-stock-news"
+    "time": "2017/05/26 09:10",
+    "keywords": ["項目", "中心", "重建"]
   },
   {
     "code.i.": "0017",
+    "sentiment": 0.3361,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00017/NOW.804800/hk-stock-news",
     "title": "中原：錦上路站第一期項目入標反應符預期",
-    "time": "2017/05/25 18:24",
-    "text": "西鐵錦上路站第一期物業發展項目，順延至今日截標，共接獲8份標書。中原測量師行執行董事張競達表示，項目享鐵路站優勢，具一定的吸引力，入標反應合符預期。今次主要是本地大型發展商及財團入標，中資只佔極少數，反映國內發展商對項目...",
+    "text": "西鐵錦上路站第一期物業發展項目，順延至今日截標，共接獲8份標書。中原測量師行執行董事張競達表示，項目享鐵路站優勢，具一定的吸引力，入標反應合符預期。今次主要是本地大型發展商及財團入標，中資隻佔極少數，反映國內發展商對項目...",
     "image": "http://plib.aastocks.com/aafnnews/image/20140626141709392_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00017/NOW.804800/hk-stock-news"
+    "time": "2017/05/25 18:24",
+    "keywords": ["項目", "標", "發展"]
   },
   {
     "code.i.": "0017",
+    "sentiment": 0.0958,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00017/NOW.804792/hk-stock-news",
     "title": "港鐵(00066.HK)：錦上路站住宅項目共收8份標書",
-    "time": "2017/05/25 17:38",
     "text": "港鐵(00066.HK)公布，今日(25日)截標的西鐵錦上路站上蓋第一期住宅項目共收到8份標書。據截標現場所見，會德豐(00020.HK)、恆地(00012.HK)及新世界(00017.HK)獨資入標；信置(00083....",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F0017%2F0%2Fhk-stock-news%2F1&cb=cffd094055",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00017/NOW.804792/hk-stock-news"
+    "image": "http://plib.aastocks.com/aafnnews/image/20150313145745303_mi.jpg",
+    "time": "2017/05/25 17:38",
+    "keywords": ["鐵", "截標", "標"]
   },
   {
     "code.i.": "0017",
+    "sentiment": 0.2645,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00017/NOW.804729/hk-stock-news",
     "title": "港鐵(00066.HK)錦上路站住宅項目最少收6標",
-    "time": "2017/05/25 13:58",
     "text": "港鐵(00066.HK)錦上路站上蓋第一期住宅項目今日截標，據截標現場所見，港鐵最少收到6份標書。其中，會德豐(00020.HK)、恆地(00012.HK)及新世界(00017.HK)獨資入標；信置(00083.HK)及...",
-    "image": "http://plib.aastocks.com/aafnnews/image/20150313145745303_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00017/NOW.804729/hk-stock-news"
+    "image": "http://plib.aastocks.com/aafnnews/image/20160412163213044_mi.jpg",
+    "time": "2017/05/25 13:58",
+    "keywords": ["標", "鐵", "期"]
   },
   {
     "code.i.": "0019",
+    "sentiment": 0.9999,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00019/NOW.804555/hk-stock-news",
     "title": "《專題》大摩、高盛及摩通對地產股評級及目標價(表)",
-    "time": "2017/05/24 18:18",
     "text": "據摩根士丹利報告，列出對香港地產股投資評級及目標價：股份│投資評級│目標價(港元)發展商：新地(00016.HK)│增持│134元恆地(00012.HK)│減持│39元信和置業(00083.HK)│與大市同步│14元新世...",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F0019%2F0%2Fhk-stock-news%2F1&cb=fb715f560f",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00019/NOW.804555/hk-stock-news"
-  },
-  {
-    "code.i.": "0019",
-    "title": "《專題》券商對地產股淨負債比率及估值預測(表)",
-    "time": "2017/05/24 18:16",
-    "text": "摩根大通早前發表報告表示，列出各地產股的淨負債比率預測：股份│淨負債比率預測新世界發展(00017.HK)│40.9%嘉里建設(00683.HK)│34.9%會德豐(00020.HK)│23.7%恆地(00012.HK)...",
     "image": "http://plib.aastocks.com/aafnnews/image/20150515111908323_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00019/NOW.804554/hk-stock-news"
+    "time": "2017/05/24 18:18",
+    "keywords": ["新", "目標", "價"]
   },
   {
     "code.i.": "0019",
-    "title": "《專題》券商在香港樓市前景預測(表)",
-    "time": "2017/05/24 18:16",
-    "text": "港府繼4月中收緊印花稅機制，對一約多伙徵稅15%，金管局上周出招遏發展商高槓桿購地及高成數樓按，本網綜合各券商近數月對本港樓市前景預測：券商│對香港樓市前景預測花旗│樓價或已見頂，重申料今年按年跌15%德銀│進入加息周期...",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00019/NOW.804554/hk-stock-news",
+    "title": "《專題》券商對地產股淨負債比率及估值預測(表)",
+    "text": "摩根大通早前發表報告表示，列出各地產股的淨負債比率預測：股份│淨負債比率預測新世界發展(00017.HK)│40.9%嘉裡建設(00683.HK)│34.9%會德豐(00020.HK)│23.7%恆地(00012.HK)...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170509145827901_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00019/NOW.804553/hk-stock-news"
+    "time": "2017/05/24 18:16",
+    "keywords": ["比率", "預測", "負債"]
   },
   {
     "code.i.": "0019",
-    "title": "《專題》本港樓價創新高惟不明朗增 大摩料下半年將回落",
-    "time": "2017/05/24 18:12",
-    "text": "港府雖自去年11月再「加辣」，將住宅物業交易從價印花稅稅率劃一提高至15%，但本港樓價持續攀升，近月更出現價量齊升。差餉物業估價署私人住宅售價指數，於3月份升至319.8點歷史新高，按年升17.8%，較1997年10月最...",
+    "sentiment": 0.9822,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00019/NOW.804553/hk-stock-news",
+    "title": "《專題》券商在香港樓市前景預測(表)",
+    "text": "港府繼4月中收緊印花稅機制，對一約多伙徵稅15%，金管局上周出招遏發展商高槓桿購地及高成數樓按，本網綜合各券商近數月對本港樓市前景預測：券商│對香港樓市前景預測花旗│樓價或已見頂，重申料今年按年跌15%德銀│進入加息周期...",
     "image": "http://plib.aastocks.com/aafnnews/image/20150520102418465_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00019/NOW.804550/hk-stock-news"
+    "time": "2017/05/24 18:16",
+    "keywords": ["│", "月", "15%"]
   },
   {
     "code.i.": "0019",
-    "title": "《專題》金管局連番出招收緊按揭 料減中資進取投地",
-    "time": "2017/05/24 18:11",
-    "text": "本地樓價升勢不斷，差估署今年3月份私樓售價指數報319.8點創新高，按月漲2%，已連升第十二個月，按年升17.8%。就不少中資地產發展商近年積極來港高價「搶地」，兼且有發展商提供高成數按揭，金管局本月連番出招，繼本月12...",
+    "sentiment": 0.0027,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00019/NOW.804550/hk-stock-news",
+    "title": "《專題》本港樓價創新高惟不明朗增 大摩料下半年將回落",
+    "text": "港府雖自去年11月再「加辣」，將住宅物業交易從價印花稅稅率劃一提高至15%，但本港樓價持續攀升，近月更出現價量齊升。差餉物業估價署私人住宅售價指數，於3月份升至319.8點歷史新高，按年升17.8%，較1997年10月最...",
     "image": "http://plib.aastocks.com/aafnnews/image/20150527133248776_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00019/NOW.804549/hk-stock-news"
+    "time": "2017/05/24 18:12",
+    "keywords": ["月", "升", "住宅"]
+  },
+  {
+    "code.i.": "0019",
+    "sentiment": 0.0612,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00019/NOW.804549/hk-stock-news",
+    "title": "《專題》金管局連番出招收緊按揭 料減中資進取投地",
+    "text": "本地樓價升勢不斷，差估署今年3月份私樓售價指數報319.8點創新高，按月漲2%，已連升第十二個月，按年升17.8%。就不少中資地產發展商近年積極來港高價「搶地」，兼且有發展商提供高成數按揭，金管局本月連番出招，繼本月12...",
+    "image": "http://plib.aastocks.com/aafnnews/image/20140812181239962_mi.jpg",
+    "time": "2017/05/24 18:11",
+    "keywords": ["升", "本月", "港"]
   },
   {
     "code.i.": "0023",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00023/NOW.804275/hk-stock-news",
     "title": "港銀首季貸款年度化增長18.5% 不良率僅0.7%",
-    "time": "2017/05/23 17:25",
     "text": "根據金管局文件顯示，本港首季銀行業貸款增長4.6%，年度化增長18.5%，去年全年貸款增長則為6.5%。當局指增長來自多方面，於本港境內及境外使用之貸款分別錄得16.4%及24.7%年度化增長，主要來自企業新貸款需求增加...",
     "image": "http://plib.aastocks.com/aafnnews/image/20141006172041905_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00023/NOW.804275/hk-stock-news"
+    "time": "2017/05/23 17:25",
+    "keywords": ["貸款", "增長", "錄"]
   },
   {
     "code.i.": "0023",
+    "sentiment": 0.294,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00023/NOW.804228/hk-stock-news",
     "title": "東亞(00023.HK)：視乎市場情況決定是否上調按息",
-    "time": "2017/05/23 15:21",
     "text": "對於金管局再次推出收緊按揭的措施，東亞銀行(00023.HK)總經理兼個人銀行處主管許文森表示，措施令使用內評法計算資本充足率的銀行，新造住宅按揭貸款的風險權重下限由15%提高至25%，相信將對銀行資金成本造成壓力。被問...",
     "image": "http://plib.aastocks.com/aafnnews/image/20160408152522301_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00023/NOW.804228/hk-stock-news"
+    "time": "2017/05/23 15:21",
+    "keywords": ["銀行", "按揭", "措施"]
   },
   {
     "code.i.": "0023",
+    "sentiment": 0.9998,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00023/NOW.804159/hk-stock-news",
     "title": "《大行報告》摩通重申看好港銀 首選中銀香港(02388.HK)",
-    "time": "2017/05/23 10:25",
     "text": "摩根大通發表的報告指，受惠週期性及結構性因素，認為香港銀行業正處於上行軌道，特別是大型銀行，營運表現於可見將來將有改善。該行指，受惠本港經濟復甦情況好過預期，加上貿易及零售銷售表現經歷連續兩年的收縮後看似回復增長，相關因...",
     "image": "http://plib.aastocks.com/aafnnews/image/20140626141941537_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00023/NOW.804159/hk-stock-news"
+    "time": "2017/05/23 10:25",
+    "keywords": ["表現", "受惠", "指"]
   },
   {
     "code.i.": "0023",
+    "sentiment": 0.8547,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00023/NOW.804135/hk-stock-news",
     "title": "*摩通重申看好港銀  首選中銀香港(02388.HK)",
-    "time": "2017/05/23 09:47",
     "text": "~阿思達克財經新聞網址: www.aastocks.com\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
     "image": "http://plib.aastocks.com/aafnnews/image/20140902160259886_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00023/NOW.804135/hk-stock-news"
+    "time": "2017/05/23 09:47",
+    "keywords": ["新聞", "財經", "網址"]
   },
   {
     "code.i.": "0023",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00023/NOW.803932/hk-stock-news",
     "title": "《大行報告》摩通：新措施對按揭貸款增長負面 惟對港銀淨息差正面",
-    "time": "2017/05/22 10:47",
     "text": "金管局上周五(19日)公布新一輪樓市逆周期措施。摩根大通發表研究報告，指措施將打擊銀行按揭貸款之增長勢頭，惟對整體貸款增長及資本水平影響可控。同時對淨息差或有利。該行指若港銀股價下跌將是買入時機，行業之中首選中銀香港(0...",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F0023%2F0%2Fhk-stock-news%2F1&cb=8634682d98",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00023/NOW.803932/hk-stock-news"
+    "image": "http://plib.aastocks.com/aafnnews/image/20140626141842793_mi.jpg",
+    "time": "2017/05/22 10:47",
+    "keywords": ["銀", "增長", "貸款"]
   },
   {
     "code.i.": "0027",
+    "sentiment": 0.9999,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00027/NOW.804960/hk-stock-news",
     "title": "《大行報告》瑞信對濠賭股最新評級及目標價(表)",
-    "time": "2017/05/26 11:13",
     "text": "瑞信發表報告表示，更新了對濠賭股投資評級及目標價，表列如下。股份│投資評級│目標價(港元)銀河娛樂(00027.HK)│跑贏大市│49->58.5元新濠國際(00200.HK)│跑贏大市│18.2->25.5...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170117160518685_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00027/NOW.804960/hk-stock-news"
+    "time": "2017/05/26 11:13",
+    "keywords": ["濠", "跑", "贏大"]
   },
   {
     "code.i.": "0027",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00027/NOW.804965/hk-stock-news",
     "title": "《大行報告》瑞信料澳門今明兩年賭收可升18%及15% 上調濠賭股目標價",
-    "time": "2017/05/26 11:12",
     "text": "瑞信發表報告表示，濠賭股股價自早前頂部已回落4%至9%，估值沒有之前般高，認為是時候對相關股份重新審視。從基本面而言，澳門博彩收入已連續九個月呈現復甦(料澳門今年第二季賭收可如期達到20%增長)，同時對行業高毛利中場業務...",
     "image": "http://plib.aastocks.com/aafnnews/image/20150527095611809_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00027/NOW.804965/hk-stock-news"
+    "time": "2017/05/26 11:12",
+    "keywords": ["已", "高", "澳門"]
   },
   {
     "code.i.": "0027",
+    "sentiment": 0.9919,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00027/NOW.804503/hk-stock-news",
     "title": "《瑞銀窩輪》憧憬五月賭收高增長   留意銀娛購15471、金沙購15480",
-    "time": "2017/05/24 15:12",
     "text": "有券商為澳門的博彩業做了統計，指過去一星期日均收入按週大升26%，主要是澳門賭場及娛樂場所在全國人大委員長張德江訪問後開始回復正常，而近期的增長更加多來自貴賓廳收入，假如趨勢持續，本月的日均賭收有機會上升至6.9億元澳門...",
     "image": "http://plib.aastocks.com/aafnnews/image/20140626155835564_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00027/NOW.804503/hk-stock-news"
+    "time": "2017/05/24 15:12",
+    "keywords": ["澳門", "收入", "機會"]
   },
   {
     "code.i.": "0027",
+    "sentiment": 0.9978,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00027/NOW.804490/hk-stock-news",
     "title": "《大行報告》花旗引述銀娛(00027.HK)管理層：或考慮重建澳門百老匯",
-    "time": "2017/05/24 14:25",
     "text": "花旗發表報告，昨天舉行澳門博彩業投資者日，邀請了多間濠賭營運商的管理層參加，該行亦整理了相關股份管理層的最新看法。就銀河娛樂(00027.HK)管理層指，料旗下澳門新一期項目(包括酒店、博彩、會展等原素)建築工程快將啟動...",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F0027%2F0%2Fhk-stock-news%2F1&cb=87738a9595",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00027/NOW.804490/hk-stock-news"
+    "image": "http://plib.aastocks.com/aafnnews/image/20140626155752277_mi.jpg",
+    "time": "2017/05/24 14:25",
+    "keywords": ["管理層", "博彩", "澳門"]
   },
   {
     "code.i.": "0027",
+    "sentiment": 0.0245,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00027/NOW.804408/hk-stock-news",
     "title": "澳門首四月博彩稅收入按年升11.5%",
-    "time": "2017/05/24 09:58",
     "text": "澳門財政局日前公布今年首四個月公共財政帳目，公共財政收入359億澳門元(下同)，按年升10.6%；當中博彩稅收入達299億元，按年升11.5%，該項稅收佔總收入83%。首四月，澳門公共財政開支為168.2億元，按年減4....",
-    "image": "http://plib.aastocks.com/aafnnews/image/20140626155752277_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00027/NOW.804408/hk-stock-news"
+    "image": "http://plib.aastocks.com/aafnnews/image/20150527095637215_mi.jpg",
+    "time": "2017/05/24 09:58",
+    "keywords": ["按年", "億", "公共"]
   },
   {
     "code.i.": "0066",
+    "sentiment": 0.7533,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00066/NOW.805071/hk-stock-news",
     "title": "中原張競達：錦上路站項目中標價理想  料日後出售呎價1.6萬",
-    "time": "2017/05/26 18:30",
     "text": "港鐵錦上路站第一期物業發展項目獲信置(00083.HK)、嘉華(00173.HK)及中海外(00688.HK)以合組財團形式，以83.3億元成功投得，折合每呎樓面地價6,734元。中原測量師行執行董事張競達表示，錦上路站...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170509140915136_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00066/NOW.805071/hk-stock-news"
+    "time": "2017/05/26 18:30",
+    "keywords": ["元", "執行", "期"]
   },
   {
     "code.i.": "0066",
+    "sentiment": 0.8567,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00066/NOW.805056/hk-stock-news",
     "title": "信置財團逾83億元奪錦上路站項目 屆估值上限",
-    "time": "2017/05/26 17:05",
     "text": "港鐵(00066.HK)宣布，西鐵錦上路站第一期務業發展項目由信和置業(00083.HK)、中國海外發展(00688.HK)及嘉華國際(00173.HK)合組之宏鍵有限公司，以83.3億元一筆過預繳付款出價投得。宏鍵須按...",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F0066%2F0%2Fhk-stock-news%2F1&cb=d126c9ad11",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00066/NOW.805056/hk-stock-news"
-  },
-  {
-    "code.i.": "0066",
-    "title": "*信置財團83.3億奪錦上路站第一期物業發展項目  出價高預期",
-    "time": "2017/05/26 16:56",
-    "text": "~阿思達克財經新聞網址: www.aastocks.com\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
     "image": "http://plib.aastocks.com/aafnnews/image/20140626141709392_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00066/NOW.805053/hk-stock-news"
+    "time": "2017/05/26 17:05",
+    "keywords": ["發展", "預", "宏鍵"]
   },
   {
     "code.i.": "0066",
-    "title": "中原：錦上路站第一期項目入標反應符預期",
-    "time": "2017/05/25 18:24",
-    "text": "西鐵錦上路站第一期物業發展項目，順延至今日截標，共接獲8份標書。中原測量師行執行董事張競達表示，項目享鐵路站優勢，具一定的吸引力，入標反應合符預期。今次主要是本地大型發展商及財團入標，中資只佔極少數，反映國內發展商對項目...",
+    "sentiment": 0.8547,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00066/NOW.805053/hk-stock-news",
+    "title": "*信置財團83.3億奪錦上路站第一期物業發展項目  出價高預期",
+    "text": "~阿思達克財經新聞網址: www.aastocks.com\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
     "image": "http://plib.aastocks.com/aafnnews/image/20150313145745303_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00066/NOW.804800/hk-stock-news"
+    "time": "2017/05/26 16:56",
+    "keywords": ["新聞", "財經", "網址"]
   },
   {
     "code.i.": "0066",
-    "title": "港鐵(00066.HK)：錦上路站住宅項目共收8份標書",
-    "time": "2017/05/25 17:38",
-    "text": "港鐵(00066.HK)公布，今日(25日)截標的西鐵錦上路站上蓋第一期住宅項目共收到8份標書。據截標現場所見，會德豐(00020.HK)、恆地(00012.HK)及新世界(00017.HK)獨資入標；信置(00083....",
+    "sentiment": 0.3361,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00066/NOW.804800/hk-stock-news",
+    "title": "中原：錦上路站第一期項目入標反應符預期",
+    "text": "西鐵錦上路站第一期物業發展項目，順延至今日截標，共接獲8份標書。中原測量師行執行董事張競達表示，項目享鐵路站優勢，具一定的吸引力，入標反應合符預期。今次主要是本地大型發展商及財團入標，中資隻佔極少數，反映國內發展商對項目...",
     "image": "http://plib.aastocks.com/aafnnews/image/20160412163213044_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00066/NOW.804792/hk-stock-news"
+    "time": "2017/05/25 18:24",
+    "keywords": ["項目", "標", "發展"]
+  },
+  {
+    "code.i.": "0066",
+    "sentiment": 0.0958,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00066/NOW.804792/hk-stock-news",
+    "title": "港鐵(00066.HK)：錦上路站住宅項目共收8份標書",
+    "text": "港鐵(00066.HK)公布，今日(25日)截標的西鐵錦上路站上蓋第一期住宅項目共收到8份標書。據截標現場所見，會德豐(00020.HK)、恆地(00012.HK)及新世界(00017.HK)獨資入標；信置(00083....",
+    "image": "http://plib.aastocks.com/aafnnews/image/20140626141450198_mi.jpg",
+    "time": "2017/05/25 17:38",
+    "keywords": ["鐵", "截標", "標"]
   },
   {
     "code.i.": "0083",
+    "sentiment": 0.7533,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00083/NOW.805071/hk-stock-news",
     "title": "中原張競達：錦上路站項目中標價理想  料日後出售呎價1.6萬",
-    "time": "2017/05/26 18:30",
     "text": "港鐵錦上路站第一期物業發展項目獲信置(00083.HK)、嘉華(00173.HK)及中海外(00688.HK)以合組財團形式，以83.3億元成功投得，折合每呎樓面地價6,734元。中原測量師行執行董事張競達表示，錦上路站...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170509140915136_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00083/NOW.805071/hk-stock-news"
+    "time": "2017/05/26 18:30",
+    "keywords": ["元", "執行", "期"]
   },
   {
     "code.i.": "0083",
+    "sentiment": 0.8567,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00083/NOW.805056/hk-stock-news",
     "title": "信置財團逾83億元奪錦上路站項目 屆估值上限",
-    "time": "2017/05/26 17:05",
     "text": "港鐵(00066.HK)宣布，西鐵錦上路站第一期務業發展項目由信和置業(00083.HK)、中國海外發展(00688.HK)及嘉華國際(00173.HK)合組之宏鍵有限公司，以83.3億元一筆過預繳付款出價投得。宏鍵須按...",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F0083%2F0%2Fhk-stock-news%2F1&cb=8970a028a9",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00083/NOW.805056/hk-stock-news"
-  },
-  {
-    "code.i.": "0083",
-    "title": "*信置財團83.3億奪錦上路站第一期物業發展項目  出價高預期",
-    "time": "2017/05/26 16:56",
-    "text": "~阿思達克財經新聞網址: www.aastocks.com\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
     "image": "http://plib.aastocks.com/aafnnews/image/20140626141709392_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00083/NOW.805053/hk-stock-news"
+    "time": "2017/05/26 17:05",
+    "keywords": ["發展", "預", "宏鍵"]
   },
   {
     "code.i.": "0083",
-    "title": "中原：錦上路站第一期項目入標反應符預期",
-    "time": "2017/05/25 18:24",
-    "text": "西鐵錦上路站第一期物業發展項目，順延至今日截標，共接獲8份標書。中原測量師行執行董事張競達表示，項目享鐵路站優勢，具一定的吸引力，入標反應合符預期。今次主要是本地大型發展商及財團入標，中資只佔極少數，反映國內發展商對項目...",
+    "sentiment": 0.8547,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00083/NOW.805053/hk-stock-news",
+    "title": "*信置財團83.3億奪錦上路站第一期物業發展項目  出價高預期",
+    "text": "~阿思達克財經新聞網址: www.aastocks.com\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
     "image": "http://plib.aastocks.com/aafnnews/image/20170525140957366_mi.JPG",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00083/NOW.804800/hk-stock-news"
+    "time": "2017/05/26 16:56",
+    "keywords": ["新聞", "財經", "網址"]
   },
   {
     "code.i.": "0083",
-    "title": "港鐵(00066.HK)：錦上路站住宅項目共收8份標書",
-    "time": "2017/05/25 17:38",
-    "text": "港鐵(00066.HK)公布，今日(25日)截標的西鐵錦上路站上蓋第一期住宅項目共收到8份標書。據截標現場所見，會德豐(00020.HK)、恆地(00012.HK)及新世界(00017.HK)獨資入標；信置(00083....",
+    "sentiment": 0.3361,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00083/NOW.804800/hk-stock-news",
+    "title": "中原：錦上路站第一期項目入標反應符預期",
+    "text": "西鐵錦上路站第一期物業發展項目，順延至今日截標，共接獲8份標書。中原測量師行執行董事張競達表示，項目享鐵路站優勢，具一定的吸引力，入標反應合符預期。今次主要是本地大型發展商及財團入標，中資隻佔極少數，反映國內發展商對項目...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170525105614905_mi.JPG",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00083/NOW.804792/hk-stock-news"
+    "time": "2017/05/25 18:24",
+    "keywords": ["項目", "標", "發展"]
+  },
+  {
+    "code.i.": "0083",
+    "sentiment": 0.0958,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00083/NOW.804792/hk-stock-news",
+    "title": "港鐵(00066.HK)：錦上路站住宅項目共收8份標書",
+    "text": "港鐵(00066.HK)公布，今日(25日)截標的西鐵錦上路站上蓋第一期住宅項目共收到8份標書。據截標現場所見，會德豐(00020.HK)、恆地(00012.HK)及新世界(00017.HK)獨資入標；信置(00083....",
+    "image": "http://plib.aastocks.com/aafnnews/image/20170525140552194_mi.JPG",
+    "time": "2017/05/25 17:38",
+    "keywords": ["鐵", "截標", "標"]
   },
   {
     "code.i.": "0101",
+    "sentiment": 0.9999,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00101/NOW.804555/hk-stock-news",
     "title": "《專題》大摩、高盛及摩通對地產股評級及目標價(表)",
-    "time": "2017/05/24 18:18",
     "text": "據摩根士丹利報告，列出對香港地產股投資評級及目標價：股份│投資評級│目標價(港元)發展商：新地(00016.HK)│增持│134元恆地(00012.HK)│減持│39元信和置業(00083.HK)│與大市同步│14元新世...",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F0101%2F0%2Fhk-stock-news%2F1&cb=6ed28a8bc3",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00101/NOW.804555/hk-stock-news"
-  },
-  {
-    "code.i.": "0101",
-    "title": "《專題》券商對地產股淨負債比率及估值預測(表)",
-    "time": "2017/05/24 18:16",
-    "text": "摩根大通早前發表報告表示，列出各地產股的淨負債比率預測：股份│淨負債比率預測新世界發展(00017.HK)│40.9%嘉里建設(00683.HK)│34.9%會德豐(00020.HK)│23.7%恆地(00012.HK)...",
     "image": "http://plib.aastocks.com/aafnnews/image/20140807153354582_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00101/NOW.804554/hk-stock-news"
+    "time": "2017/05/24 18:18",
+    "keywords": ["新", "目標", "價"]
   },
   {
     "code.i.": "0101",
-    "title": "《專題》券商在香港樓市前景預測(表)",
-    "time": "2017/05/24 18:16",
-    "text": "港府繼4月中收緊印花稅機制，對一約多伙徵稅15%，金管局上周出招遏發展商高槓桿購地及高成數樓按，本網綜合各券商近數月對本港樓市前景預測：券商│對香港樓市前景預測花旗│樓價或已見頂，重申料今年按年跌15%德銀│進入加息周期...",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00101/NOW.804554/hk-stock-news",
+    "title": "《專題》券商對地產股淨負債比率及估值預測(表)",
+    "text": "摩根大通早前發表報告表示，列出各地產股的淨負債比率預測：股份│淨負債比率預測新世界發展(00017.HK)│40.9%嘉裡建設(00683.HK)│34.9%會德豐(00020.HK)│23.7%恆地(00012.HK)...",
     "image": "http://plib.aastocks.com/aafnnews/image/20141008140021004_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00101/NOW.804553/hk-stock-news"
+    "time": "2017/05/24 18:16",
+    "keywords": ["比率", "預測", "負債"]
   },
   {
     "code.i.": "0101",
-    "title": "《專題》本港樓價創新高惟不明朗增 大摩料下半年將回落",
-    "time": "2017/05/24 18:12",
-    "text": "港府雖自去年11月再「加辣」，將住宅物業交易從價印花稅稅率劃一提高至15%，但本港樓價持續攀升，近月更出現價量齊升。差餉物業估價署私人住宅售價指數，於3月份升至319.8點歷史新高，按年升17.8%，較1997年10月最...",
+    "sentiment": 0.9822,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00101/NOW.804553/hk-stock-news",
+    "title": "《專題》券商在香港樓市前景預測(表)",
+    "text": "港府繼4月中收緊印花稅機制，對一約多伙徵稅15%，金管局上周出招遏發展商高槓桿購地及高成數樓按，本網綜合各券商近數月對本港樓市前景預測：券商│對香港樓市前景預測花旗│樓價或已見頂，重申料今年按年跌15%德銀│進入加息周期...",
     "image": "http://plib.aastocks.com/aafnnews/image/20160412182858246_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00101/NOW.804550/hk-stock-news"
+    "time": "2017/05/24 18:16",
+    "keywords": ["│", "月", "15%"]
   },
   {
     "code.i.": "0101",
-    "title": "《專題》金管局連番出招收緊按揭 料減中資進取投地",
-    "time": "2017/05/24 18:11",
-    "text": "本地樓價升勢不斷，差估署今年3月份私樓售價指數報319.8點創新高，按月漲2%，已連升第十二個月，按年升17.8%。就不少中資地產發展商近年積極來港高價「搶地」，兼且有發展商提供高成數按揭，金管局本月連番出招，繼本月12...",
+    "sentiment": 0.0027,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00101/NOW.804550/hk-stock-news",
+    "title": "《專題》本港樓價創新高惟不明朗增 大摩料下半年將回落",
+    "text": "港府雖自去年11月再「加辣」，將住宅物業交易從價印花稅稅率劃一提高至15%，但本港樓價持續攀升，近月更出現價量齊升。差餉物業估價署私人住宅售價指數，於3月份升至319.8點歷史新高，按年升17.8%，較1997年10月最...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170509142645151_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00101/NOW.804549/hk-stock-news"
+    "time": "2017/05/24 18:12",
+    "keywords": ["月", "升", "住宅"]
+  },
+  {
+    "code.i.": "0101",
+    "sentiment": 0.0612,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00101/NOW.804549/hk-stock-news",
+    "title": "《專題》金管局連番出招收緊按揭 料減中資進取投地",
+    "text": "本地樓價升勢不斷，差估署今年3月份私樓售價指數報319.8點創新高，按月漲2%，已連升第十二個月，按年升17.8%。就不少中資地產發展商近年積極來港高價「搶地」，兼且有發展商提供高成數按揭，金管局本月連番出招，繼本月12...",
+    "image": "http://plib.aastocks.com/aafnnews/image/20170509145827901_mi.jpg",
+    "time": "2017/05/24 18:11",
+    "keywords": ["升", "本月", "港"]
   },
   {
     "code.i.": "0135",
+    "sentiment": 0.6031,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00135/NOW.805021/hk-stock-news",
     "title": "惠譽：進一步放寬非住宅燃氣價格限制利分銷商",
-    "time": "2017/05/26 15:16",
     "text": "評級機構惠譽發表報告，認為內地進一步放寬非住宅燃氣價格限制，容許第三方參與管網，增加競爭，可擴大氣源及降低營運商油氣成本，推動終端需求，對下游天然氣分銷商有利。報告提到，新奧能源(02688.HK)和華潤燃氣(01193...",
     "image": "http://plib.aastocks.com/aafnnews/image/20160926094327479_s.JPG",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00135/NOW.805021/hk-stock-news"
+    "time": "2017/05/26 15:16",
+    "keywords": ["商", "燃氣", "報告"]
   },
   {
     "code.i.": "0135",
+    "sentiment": 0.9861,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00135/NOW.803409/hk-stock-news",
     "title": "發改委：4月原油產量同比降3.3% 天然氣產量增14.4%",
-    "time": "2017/05/18 10:49",
     "text": "國家發改委公布2017年4月天然氣、成品油運行快報統計顯示，4月份，原油產量1,588萬噸，同比降3.3%；原油加工量4,490萬噸，增1.9%，成品油產量2,704萬噸，降0.5%；成品油消費量2,578萬噸，增3.8...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170117154406811_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00135/NOW.803409/hk-stock-news"
+    "time": "2017/05/18 10:49",
+    "keywords": ["成品油", "萬", "噸"]
   },
   {
     "code.i.": "0135",
+    "sentiment": 0.761,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00135/NOW.803316/hk-stock-news",
     "title": "昆侖能源(00135.HK)獲中國銀行間市場交易商協會通過發中期票據",
-    "time": "2017/05/18 08:26",
     "text": "昆侖能源(00135.HK)宣布，已收到中國銀行間市場交易商協會發出的接受註冊通知書並獲悉中期票據已在協會獲得註冊。公司將適時就中期票據發行的詳細安排另行刊發公告。(ta/w)~阿思達克財經新聞網址: www.aasto...",
     "image": "http://plib.aastocks.com/aafnnews/image/20160926094319291_s.JPG",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00135/NOW.803316/hk-stock-news"
+    "time": "2017/05/18 08:26",
+    "keywords": ["票據", "中期", "協會"]
   },
   {
     "code.i.": "0135",
+    "sentiment": 0.0695,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00135/NOW.803093/hk-stock-news",
     "title": "據報發改委將對配氣價格監管徵求意見  准許收益率或設限",
-    "time": "2017/05/17 08:52",
     "text": "據《中國證券報》從知情人士處獲悉，國家發改委起草的《關於加強配氣價格監管推進非居民用氣銷售價格改革的主導意見》徵求意見稿將於近期發布，意見旨在對天然氣產業鏈終端進行規範。其中，對地方燃氣公司稅後6%收益率的規定，將對天然...",
     "image": "http://plib.aastocks.com/aafnnews/image/20160923181106905_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00135/NOW.803093/hk-stock-news"
+    "time": "2017/05/17 08:52",
+    "keywords": ["價格", "意見", "報"]
   },
   {
     "code.i.": "0135",
+    "sentiment": 0.7646,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00135/NOW.802636/hk-stock-news",
     "title": "《大行報告》花旗降內地燃氣股評級  投資回報或設限",
-    "time": "2017/05/15 11:14",
     "text": "花旗發表報告，對內地燃氣股轉向審慎，預期國家發改委今年第三季會削減下游分銷商的資產回報率(ROA)准許上限。新奧能源(02688.HK)、華潤燃氣(01193.HK)、中國燃氣(00384.HK)資產回報率上限由今年預測...",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F0135%2F0%2Fhk-stock-news%2F1&cb=c617bfaa70",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00135/NOW.802636/hk-stock-news"
+    "time": "2017/05/15 11:14",
+    "keywords": ["燃氣", "資產", "回報率"]
   },
   {
     "code.i.": "0144",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00144/NOW.803189/hk-stock-news",
     "title": "瑞銀指「一帶一路」論壇成果利好內地建築及港口行業",
-    "time": "2017/05/17 12:40",
     "text": "瑞銀證券就剛舉辦的「一帶一路」論壇發表報告，指該論壇部分目標和成果令人鼓舞，包括中國給予的額外資金支持，以及未來五年的進口目標。該行還注意到，中國政府與其他國家就建設基礎設施以及推進貿易簽署了不同協定。此外，國內主要承包...",
     "image": "http://plib.aastocks.com/aafnnews/image/20160816151455346_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00144/NOW.803189/hk-stock-news"
+    "time": "2017/05/17 12:40",
+    "keywords": ["論壇", "目標", "中國"]
   },
   {
     "code.i.": "0144",
+    "sentiment": 0.6426,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00144/NOW.798532/hk-stock-news",
     "title": "招商局港口(00144.HK)發25億人幣中期融資券 票面息4.89厘",
-    "time": "2017/04/21 16:40",
     "text": "招商局港口(00144.HK)發行25億元人民幣中期融資券，票面利率為4.89厘，期限為五年。(vi/a)~阿思達克財經新聞網址: www.aastocks.com\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
     "image": "http://plib.aastocks.com/aafnnews/image/20150723091957176_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00144/NOW.798532/hk-stock-news"
+    "time": "2017/04/21 16:40",
+    "keywords": ["25", "億", "財經"]
   },
   {
     "code.i.": "0144",
+    "sentiment": 0.629,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00144/RUM.170419_103349/hk-stock-news",
     "title": "恆指跌幅擴至近200點  瑞聲(02018.HK)逆升近4%再破頂",
-    "time": "2017/04/19 10:33",
     "text": "恆指繼昨天急挫失守50天線後，今早跟隨外圍低開48點，進一步回補3月16日上升裂口，現造23,730，續跌194點或0.8%。藍籌股普遍下跌，尤其是中銀(02388.HK)、新地(00016.HK)、新世界(00017....",
     "image": "http://plib.aastocks.com/aafnnews/image/20150925095125507_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00144/RUM.170419_103349/hk-stock-news"
+    "time": "2017/04/19 10:33",
+    "keywords": ["點", "月", "急"]
   },
   {
     "code.i.": "0144",
+    "sentiment": 0.0612,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00144/NOW.796715/hk-stock-news",
     "title": "《大行報告》大摩降招商局港口(00144.HK)目標價至25.47元 汕頭港務交易估值過高",
-    "time": "2017/04/11 11:18",
     "text": "招商局港口(00144.HK)公布認購汕頭港務集團股權，總代價54.31億元人民幣，交易完成後，公司將持有汕頭港務集團60%股權。摩根士丹利發表研究報告，指交易估值過高，對公司屬負面，削減公司目標價4.5%，由26.68...",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F0144%2F0%2Fhk-stock-news%2F1&cb=ccbf2e8c04",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00144/NOW.796715/hk-stock-news"
+    "image": "http://plib.aastocks.com/aafnnews/image/20160815153726970_mi.jpg",
+    "time": "2017/04/11 11:18",
+    "keywords": ["公司", "汕頭", "交易"]
   },
   {
     "code.i.": "0144",
+    "sentiment": 0.8547,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00144/NOW.796691/hk-stock-news",
     "title": "*大摩降招商局港口(00144.HK)目標價至25.47元  汕頭港務交易估值過高  ",
-    "time": "2017/04/11 10:31",
     "text": "~阿思達克財經新聞網址: www.aastocks.com\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-    "image": "http://plib.aastocks.com/aafnnews/image/20160815153726970_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00144/NOW.796691/hk-stock-news"
+    "image": "http://plib.aastocks.com/aafnnews/image/20160105175504567_mi.jpg",
+    "time": "2017/04/11 10:31",
+    "keywords": ["新聞", "財經", "網址"]
   },
   {
     "code.i.": "0151",
+    "sentiment": 0.0073,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00151/NOW.798308/hk-stock-news",
     "title": "中國旺旺(00151.HK)發5億美元有擔保無抵押高級債 年息2.875厘",
-    "time": "2017/04/21 08:01",
     "text": "中國旺旺(00151.HK)公布，發行2022年到期的5億美元有擔保無抵押高級債券，年息2.875厘，並尋求於聯交所上市。債券發行的所得款項淨額目前擬用作對集團的若干現有借款進行再融資及一般公司用途。(ta/t)~阿思達...",
     "image": "http://plib.aastocks.com/aafnnews/image/20160204175524714_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00151/NOW.798308/hk-stock-news"
+    "time": "2017/04/21 08:01",
+    "keywords": ["發行", "借款", "現有"]
   },
   {
     "code.i.": "0151",
+    "sentiment": 0.629,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00151/RUM.170419_103349/hk-stock-news",
     "title": "恆指跌幅擴至近200點  瑞聲(02018.HK)逆升近4%再破頂",
-    "time": "2017/04/19 10:33",
     "text": "恆指繼昨天急挫失守50天線後，今早跟隨外圍低開48點，進一步回補3月16日上升裂口，現造23,730，續跌194點或0.8%。藍籌股普遍下跌，尤其是中銀(02388.HK)、新地(00016.HK)、新世界(00017....",
     "image": "http://plib.aastocks.com/aafnnews/image/20150723091957176_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00151/RUM.170419_103349/hk-stock-news"
+    "time": "2017/04/19 10:33",
+    "keywords": ["點", "月", "急"]
   },
   {
     "code.i.": "0151",
+    "sentiment": 0.3824,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00151/NOW.797148/hk-stock-news",
     "title": "中國旺旺(00151.HK)擬發公司擔保債",
-    "time": "2017/04/13 07:51",
     "text": "中國旺旺(00151.HK)公布，就建議債券發行，公司擬向專業投資者展開連串路演推介會。債券將由直接全資附屬Want Want China Finance Limited發行及由公司擔保。債券的定價將透過聯席全球協調人、...",
     "image": "http://plib.aastocks.com/aafnnews/image/20140626142141046_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00151/NOW.797148/hk-stock-news"
+    "time": "2017/04/13 07:51",
+    "keywords": ["債券", "公司", "發行"]
   },
   {
     "code.i.": "0151",
+    "sentiment": 0.8723,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00151/NOW.790259/hk-stock-news",
     "title": "《大行報告》麥格理重申旺旺(00151.HK)「跑贏大市」評級 惟目標價降至5.9元",
-    "time": "2017/03/15 10:50",
     "text": "麥格理發表報告表示，中國旺旺(00151.HK)去年業績符預期，相信旺旺可於原材料成本上升，及易變的客戶需求下維持其盈利。該行持續看好旺旺具充足現金流，可於具挑戰性的經營環境下提供緩衝。該行指，重申對中國旺旺「跑贏大市」...",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F0151%2F0%2Fhk-stock-news%2F1&cb=044b8cf995",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00151/NOW.790259/hk-stock-news"
+    "image": "http://plib.aastocks.com/aafnnews/image/20160204175524714_mi.jpg",
+    "time": "2017/03/15 10:50",
+    "keywords": ["旺", "下", "具"]
   },
   {
     "code.i.": "0151",
-    "title": "《大行報告》里昂：旺旺(00151.HK)面臨周期性成本壓力 維持「跑輸大市」評級",
+    "sentiment": 0.9999,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00151/NOW.790251/hk-stock-news",
+    "title": "《大行報告》裡昂：旺旺(00151.HK)面臨周期性成本壓力 維持「跑輸大市」評級",
+    "text": "裡昂發表研究報告，指中國旺旺(00151.HK)2016年業績大致符合該行預期，但下半年銷售較市場預期低4%，毛利率於去年見頂，2017年將面對周期性成本上升壓力。該行續指，全脂奶粉價格自去年第四季起回升，令旺旺毛利率受...",
+    "image": "http://plib.aastocks.com/aafnnews/image/20160204175511401_mi.jpg",
     "time": "2017/03/15 10:48",
-    "text": "里昂發表研究報告，指中國旺旺(00151.HK)2016年業績大致符合該行預期，但下半年銷售較市場預期低4%，毛利率於去年見頂，2017年將面對周期性成本上升壓力。該行續指，全脂奶粉價格自去年第四季起回升，令旺旺毛利率受...",
-    "image": "http://plib.aastocks.com/aafnnews/image/20160204175524714_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00151/NOW.790251/hk-stock-news"
+    "keywords": ["年", "旺", "去年"]
   },
   {
     "code.i.": "0175",
+    "sentiment": 0.9987,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00175/NOW.804804/hk-stock-news",
     "title": "吉利(00175.HK)：冀2020年銷售可達200萬輛",
-    "time": "2017/05/25 18:46",
     "text": "吉利(00175.HK)行政總裁桂生悅於出席股東會後指，根據市場報告，預期中國汽車銷量於2020年可達4,000萬至5,000萬輛，目前為3,000萬，故相信市場需求仍存，但增長不會像以往般快，公司會繼續做好產品，以增加...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170526094725668_s.JPG",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00175/NOW.804804/hk-stock-news"
+    "time": "2017/05/25 18:46",
+    "keywords": ["會", "市場", "年"]
   },
   {
     "code.i.": "0175",
+    "sentiment": 0.9851,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00175/NOW.804802/hk-stock-news",
     "title": "吉利(00175.HK)：或會與寶騰合作於馬國生產汽車",
-    "time": "2017/05/25 18:36",
     "text": "吉利(00175.HK)行政總裁桂生悅於出席股東會後指，收購寶騰49%股份一事是母公司層面進行，現在仍在談細節，但在上市公司層面，可期待藉助寶騰於馬來西亞的廠房生產，並打入當地市場，雙方或會簽訂諒解備忘錄，及於合適時間注...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170526100013567_s.JPG",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00175/NOW.804802/hk-stock-news"
+    "time": "2017/05/25 18:36",
+    "keywords": ["寶騰", "層面", "悅"]
   },
   {
     "code.i.": "0175",
+    "sentiment": 0.2051,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00175/NOW.804534/hk-stock-news",
     "title": "吉利汽車(00175.HK)澄清 非收購寶騰及路特斯之訂約方",
-    "time": "2017/05/24 16:49",
     "text": "吉利汽車(00175.HK)表示，持有公司44.02%權益的主要股東吉利控股刊發新聞發布指，吉利控股與馬來西亞的DRB-HICOM集團就收購寶騰汽車(PROTON)49.9%股權及路特斯(Lotus Advance Te...",
     "image": "http://plib.aastocks.com/aafnnews/image/20160712180608113_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00175/NOW.804534/hk-stock-news"
+    "time": "2017/05/24 16:49",
+    "keywords": ["吉利", "控股", "汽車"]
   },
   {
     "code.i.": "0175",
+    "sentiment": 0.6685,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00175/NOW.804496/hk-stock-news",
     "title": "馬來西亞集團證實向吉利控股售寶騰汽車49.9%股權",
-    "time": "2017/05/24 14:44",
     "text": "《路透》引述馬來西亞集團公司DRB-HICOM聲明文本，證實該公司將向浙江吉利控股出售其在寶騰汽車(Proton)49.9%股份，協議料於7月份簽署，文本未透露交易金額。預計馬來西亞第二財政部長Johari Abdul ...",
     "image": "http://plib.aastocks.com/aafnnews/image/20160712180558660_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00175/NOW.804496/hk-stock-news"
+    "time": "2017/05/24 14:44",
+    "keywords": ["馬來西亞", "文本", "控股"]
   },
   {
     "code.i.": "0175",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00175/NOW.804396/hk-stock-news",
     "title": "傳吉利控股取得Lotus控股權",
-    "time": "2017/05/24 09:35",
     "text": "據《金融時報》引述知情人事透露，吉利(00175.HK)母公司同意投資陷入困境的馬來西亞汽車製造商寶騰(Proton)49%股權。作為協議的一部分，吉利將取得寶騰旗下英國著名跑車品牌蓮花汽車(Lotus)控股權，持股比例...",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F0175%2F0%2Fhk-stock-news%2F1&cb=2bbe72b904",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00175/NOW.804396/hk-stock-news"
+    "image": "http://plib.aastocks.com/aafnnews/image/20170509142056495_mi.jpg",
+    "time": "2017/05/24 09:35",
+    "keywords": ["汽車", "寶騰", "蓮花"]
   },
   {
     "code.i.": "0267",
+    "sentiment": 0.8224,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00267/NOW.805115/hk-stock-news",
     "title": "中信股份(00267.HK)附屬中信出版建議分拆  深交所創板上市",
-    "time": "2017/05/27 16:06",
     "text": "中信股份(00267.HK)公布，附屬中信出版已向中國證券監督管理委員會提交其股份在深圳證券交易所創業板獨立上市申請，並於本月26日收到受理通知。目前，中信出版於全國中小企業股份轉讓系統掛牌。(de/d)~阿思達克財經新...",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F0267%2F0%2Fhk-stock-news%2F1&cb=c4c1f61f2e",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00267/NOW.805115/hk-stock-news"
-  },
-  {
-    "code.i.": "0267",
-    "title": "《瑞銀窩輪》國指檢討結果公佈    尋找潛力「新貴」",
-    "time": "2017/05/24 15:11",
-    "text": "過去數月恆生指數有限公司諮詢巿場不同人士關於擴大恆生中國企業指數的成份股範疇，普遍回應都支持加入紅籌股及民營企業於該指數內。在5月19日的公告中，決定將紅籌股及民營企業加入恆生中國企業指數，同時將根據公司的業務覆蓋範圍以...",
     "image": "http://plib.aastocks.com/aafnnews/image/20140806101552445_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00267/NOW.804500/hk-stock-news"
+    "time": "2017/05/27 16:06",
+    "keywords": ["股份", "証券", "中信"]
   },
   {
     "code.i.": "0267",
+    "sentiment": 0.2291,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00267/NOW.804500/hk-stock-news",
+    "title": "《瑞銀窩輪》國指檢討結果公佈    尋找潛力「新貴」",
+    "text": "過去數月恆生指數有限公司諮詢巿場不同人士關於擴大恆生中國企業指數的成份股範疇，普遍回應都支持加入紅籌股及民營企業於該指數內。在5月19日的公告中，決定將紅籌股及民營企業加入恆生中國企業指數，同時將根據公司的業務覆蓋範圍以...",
+    "time": "2017/05/24 15:11",
+    "keywords": ["指數", "恆生", "企業"]
+  },
+  {
+    "code.i.": "0267",
+    "sentiment": 0.7254,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00267/RUM.170516_153838/hk-stock-news",
     "title": "《異動股》中信股份(00267.HK)股價及成交分別創5個月及11個月高",
-    "time": "2017/05/16 15:38",
     "text": "中信股份(00267.HK)價量齊呈異動，股價六連升，最高見12元，創逾五個月高，現造11.98元，續升4%，暫為最強藍籌；成交激增至3,913萬股，為十一個月來最多。(sz/ca)~阿思達克財經新聞網址: www.aa...",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00267/RUM.170516_153838/hk-stock-news"
+    "time": "2017/05/16 15:38",
+    "keywords": ["元", "最", "財經"]
   },
   {
     "code.i.": "0267",
+    "sentiment": 0.9834,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00267/NOW.800137/hk-stock-news",
     "title": "《公司業績》中信股份(00267.HK)附屬中國中信首季純利按年升54.5%",
-    "time": "2017/05/02 08:03",
     "text": "中信股份(00267.HK)公布附屬中國中信有限公司截至3月底止首季業績顯示，錄得純利117億元人民幣(下同)，按年升54.5%；營業總收入為617.58億元，按年升5.44%。(ta/w)~阿思達克財經新聞網址: ww...",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00267/NOW.800137/hk-stock-news"
+    "time": "2017/05/02 08:03",
+    "keywords": ["億", "元", "中信"]
   },
   {
     "code.i.": "0267",
+    "sentiment": 0.9999,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00267/NOW.799793/hk-stock-news",
     "title": "中信股份(00267.HK)旗下中信重工(601608.SH)首季轉虧231萬人幣",
-    "time": "2017/04/28 09:29",
     "text": "中信股份(00267.HK)旗下中信重工機械(601608.SH)第一季業績轉盈為虧，蝕231.58萬元人民幣(下同)，期內收入10.97億元，按年上升4.14%。(ay/t)~阿思達克財經新聞網址: www.aasto...",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00267/NOW.799793/hk-stock-news"
+    "time": "2017/04/28 09:29",
+    "keywords": ["元", "中信", "季"]
   },
   {
     "code.i.": "0293",
+    "sentiment": 0.9998,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00293/NOW.804688/hk-stock-news",
     "title": "《大行報告》麥格理降國泰(00293.HK)目標價至7.4元 料今年虧損擴至23億元",
-    "time": "2017/05/25 10:53",
     "text": "麥格理發表報告，指國泰航空(00293.HK)新任行政總裁何杲在爭取扭虧為盈上面對艱巨挑戰。該行指，旅客消費模式結構性改變，令行業利潤率受壓，而國泰仍未擺脫燃油對沖失利的陰霾。該行料國泰2017財年將虧損擴至23億元，顯...",
     "image": "http://plib.aastocks.com/aafnnews/image/20151126161700871_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00293/NOW.804688/hk-stock-news"
+    "time": "2017/05/25 10:53",
+    "keywords": ["國泰", "財年", "虧損"]
   },
   {
     "code.i.": "0293",
+    "sentiment": 0.8547,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00293/NOW.804666/hk-stock-news",
     "title": "*麥格理降國泰(00293.HK)目標價至7.4元  料今年虧損擴至23億元",
-    "time": "2017/05/25 10:08",
     "text": "~阿思達克財經新聞網址: www.aastocks.com\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
     "image": "http://plib.aastocks.com/aafnnews/image/20160128163426591_s.JPG",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00293/NOW.804666/hk-stock-news"
+    "time": "2017/05/25 10:08",
+    "keywords": ["新聞", "財經", "網址"]
   },
   {
     "code.i.": "0293",
+    "sentiment": 0.6979,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00293/NOW.804499/hk-stock-news",
     "title": "《瑞銀窩輪》國泰升穿12港元   留意認購14923",
-    "time": "2017/05/24 15:09",
     "text": "國泰(0293)宣佈裁員，並重組架構，期望可節省近20億港元的成本，而航空運輸業務開始見改善，有利航空業務。燃油對沖虧損正逐步收窄，亦有利國泰營運更具彈性。 週三該股急升，主要因為有大行將國泰由沽售評級轉至中性，刺激股價...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170522150934852_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00293/NOW.804499/hk-stock-news"
+    "time": "2017/05/24 15:09",
+    "keywords": ["國泰", "20", "億"]
   },
   {
     "code.i.": "0293",
+    "sentiment": 0.0662,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00293/NOW.804449/hk-stock-news",
     "title": "《大行報告》高盛升國泰(00293.HK)評級至「中性」 指股價已反映面臨挑戰",
-    "time": "2017/05/24 11:14",
     "text": "高盛發表報告上調對國泰航空(00293.HK)投資評級，由「沽售」升至「中性」，標價由9.8元上調至10.9元，相當於2018財年預測市賬率0.76倍。該行指自去年4月降國泰評級後，其股價累跌12%(同期恆指累升26%)...",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F0293%2F0%2Fhk-stock-news%2F1&cb=d082fffb4e",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00293/NOW.804449/hk-stock-news"
+    "image": "http://plib.aastocks.com/aafnnews/image/20170109144519178_mi.jpg",
+    "time": "2017/05/24 11:14",
+    "keywords": ["國泰", "上調", "升"]
   },
   {
     "code.i.": "0293",
+    "sentiment": 0.9905,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00293/RUM.170524_105934/hk-stock-news",
     "title": "國泰(00293.HK)漲逾4%曾重越12元  獲高盛上調目標價及評級",
-    "time": "2017/05/24 10:59",
     "text": "日前宣布大幅裁員國泰(00293.HK)獲高盛升價11%至10.9元，並將評級由「沽售」上調至「中性」。該股繼昨天整固後，今天重拾升勢，再度觸及3月初所造高位12.06元，惟暫未能成功突破，現造11.96元，回升4.2%...",
-    "image": "http://plib.aastocks.com/aafnnews/image/20170109144519178_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00293/RUM.170524_105934/hk-stock-news"
+    "image": "http://plib.aastocks.com/aafnnews/image/20160715163913526_mi.jpg",
+    "time": "2017/05/24 10:59",
+    "keywords": ["元", "初", "(00293.HK)"]
   },
   {
     "code.i.": "0386",
+    "sentiment": 0.6036,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00386/NOW.805020/hk-stock-news",
     "title": "《大行報告》大摩最新中港股票焦點股名單(表)",
-    "time": "2017/05/26 15:00",
     "text": "摩根士丹利發表報告，更新了該行的中港股票焦點股名單：股份│投資評級友邦(01299.HK)│增持中銀香港(02388.HK)│增持華晨中國(01114.HK)│增持 建設銀行(00939.HK)│增持中石化(00386....",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F0386%2F0%2Fhk-stock-news%2F1&cb=2cb272cb84",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00386/NOW.805020/hk-stock-news"
-  },
-  {
-    "code.i.": "0386",
-    "title": "《匯豐輪證》 國際油價急挫    欲搏油股反彈可留意中油購14406/中化購28804",
-    "time": "2017/05/26 11:39",
-    "text": "昨日石油輸出國組織(OPEC)與俄羅斯等其他產油國將減產協議延長9個月，未有加大減產規模，國際油價急挫，創超過兩個月以來最大單日跌幅。石油石化股早段個別發展，中海油裂口向下，回試20天線支持。今年3月以來，中海油股價一直...",
     "image": "http://plib.aastocks.com/aafnnews/image/20140730140612530_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00386/NOW.804968/hk-stock-news"
+    "time": "2017/05/26 15:00",
+    "keywords": ["增持", "焦點", "股"]
   },
   {
     "code.i.": "0386",
-    "title": "發改委：國內汽柴油價每噸分別提高140元及135元人幣",
-    "time": "2017/05/25 17:11",
-    "text": "國家發改委公布，自5月25日24時起，國內汽、柴油價格(標準品)每噸分別提高140元人民幣(下同)和135元。(lf/da)~阿思達克財經新聞網址: www.aastocks.com\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "sentiment": 0.0008,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00386/NOW.804968/hk-stock-news",
+    "title": "《匯豐輪證》 國際油價急挫    欲搏油股反彈可留意中油購14406/中化購28804",
+    "text": "昨日石油輸出國組織(OPEC)與俄羅斯等其他產油國將減產協議延長9個月，未有加大減產規模，國際油價急挫，創超過兩個月以來最大單日跌幅。石油石化股早段個別發展，中海油裂口向下，回試20天線支持。今年3月以來，中海油股價一直...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170117154406811_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00386/NOW.804783/hk-stock-news"
+    "time": "2017/05/26 11:39",
+    "keywords": ["月", "減產", "油"]
   },
   {
     "code.i.": "0386",
-    "title": "《匯豐輪證》 油價創一個月高  欲追落後留意中石化牛60584",
-    "time": "2017/05/23 10:56",
-    "text": "美國總統特朗普與沙特簽署高達1,100億美元的軍售協議，美股連升三天，美元匯價偏軟油價及金價向上。市場預期產油國周四會議，可能延長減產協議最多9個月，支持油價造好，紐約期油升0.8%至50.73美元，創一個月新高。三大油...",
+    "sentiment": 0.2262,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00386/NOW.804783/hk-stock-news",
+    "title": "發改委：國內汽柴油價每噸分別提高140元及135元人幣",
+    "text": "國家發改委公布，自5月25日24時起，國內汽、柴油價格(標準品)每噸分別提高140元人民幣(下同)和135元。(lf/da)~阿思達克財經新聞網址: www.aastocks.com\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
     "image": "http://plib.aastocks.com/aafnnews/image/20170511153855496_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00386/NOW.804161/hk-stock-news"
+    "time": "2017/05/25 17:11",
+    "keywords": ["標准", "140", "提高"]
   },
   {
     "code.i.": "0386",
-    "title": "亞洲最大海底輸油管線在茂名石化投產",
-    "time": "2017/05/23 09:34",
-    "text": "據《中國石化新聞網》報道，茂名石化30萬噸級單點系泊輸油終端海底管線安全隱患治理工程竣工，意味亞洲最大海底輸油管線一次投產成功。該工程主要內容是鋪設15.425公里48寸海底輸油管線和更換一個新海底管匯。新鋪設的管線與原...",
+    "sentiment": 0.1168,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00386/NOW.804161/hk-stock-news",
+    "title": "《匯豐輪證》 油價創一個月高  欲追落後留意中石化牛60584",
+    "text": "美國總統特朗普與沙特簽署高達1,100億美元的軍售協議，美股連升三天，美元匯價偏軟油價及金價向上。市場預期產油國周四會議，可能延長減產協議最多9個月，支持油價造好，紐約期油升0.8%至50.73美元，創一個月新高。三大油...",
     "image": "http://plib.aastocks.com/aafnnews/image/20140729140557477_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00386/NOW.804130/hk-stock-news"
+    "time": "2017/05/23 10:56",
+    "keywords": ["美元", "高", "三"]
+  },
+  {
+    "code.i.": "0386",
+    "sentiment": 0.066,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00386/NOW.804130/hk-stock-news",
+    "title": "亞洲最大海底輸油管線在茂名石化投產",
+    "text": "據《中國石化新聞網》報道，茂名石化30萬噸級單點系泊輸油終端海底管線安全隱患治理工程竣工，意味亞洲最大海底輸油管線一次投產成功。該工程主要內容是鋪設15.425公裡48寸海底輸油管線和更換一個新海底管匯。新鋪設的管線與原...",
+    "image": "http://plib.aastocks.com/aafnnews/image/20140729140610805_mi.jpg",
+    "time": "2017/05/23 09:34",
+    "keywords": ["海底", "輸油管線", "管線"]
   },
   {
     "code.i.": "0388",
+    "sentiment": 0.9516,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00388/NOW.805003/hk-stock-news",
     "title": "《中銀窩輪》港股高位整固，留意騰訊購16077 /港交購13143 /中移購13111",
-    "time": "2017/05/26 14:13",
     "text": "中銀國際股票衍生產品聯席董事葉匯豪：本港股市今早曾升至25700點以上，見22個月新高，下午在高位整固。騰訊(0700)今個星期再升約3%。如看好騰訊，可留意年期較長的騰訊認購證(16077)，行使價300元，2018年...",
     "image": "http://plib.aastocks.com/aafnnews/image/20150722170155920_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00388/NOW.805003/hk-stock-news"
+    "time": "2017/05/26 14:13",
+    "keywords": ["訊", "年", "長"]
   },
   {
     "code.i.": "0388",
+    "sentiment": 0.3907,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00388/NOW.804944/hk-stock-news",
     "title": "港交所(00388.HK)下月推出新板及創業板諮詢 待上市架構諮詢結果",
-    "time": "2017/05/26 10:38",
     "text": "港交所(00388.HK)行政總裁李小加於活動上表示，新板及創業板的諮詢將於下月推出，較早前公布的5月底推遲。李小加表示由於希望可以與上市架構諮詢結果同時推出，目前正與證監會討論。他又指，穆迪下調中國評級對債券通的推出沒...",
     "image": "http://plib.aastocks.com/aafnnews/image/20160620133024330_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00388/NOW.804944/hk-stock-news"
+    "time": "2017/05/26 10:38",
+    "keywords": ["推出", "李", "債券"]
   },
   {
     "code.i.": "0388",
+    "sentiment": 0.0489,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00388/NOW.804510/hk-stock-news",
     "title": "陳家強：債券通操作安排正進行預備工作",
-    "time": "2017/05/24 15:39",
     "text": "財經事務及庫務局局長陳家強於上海出席滬港金融合作工作會議後指，會上有談及「債券通」的問題，最主要是有些事務單位就債券通的操作安排正進行預備工作，目前工作正在進行。被問到有關穆迪下調中國的評級至「A1」會否影響香港時，他指...",
     "image": "http://plib.aastocks.com/aafnnews/image/20141205113550087_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00388/NOW.804510/hk-stock-news"
+    "time": "2017/05/24 15:39",
+    "keywords": ["通", "債券", "工作"]
   },
   {
     "code.i.": "0388",
+    "sentiment": 0.5063,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00388/NOW.804453/hk-stock-news",
     "title": "天文台發出黑色暴雨警告  港交所(00388.HK)：今日交易市場如常運作",
-    "time": "2017/05/24 11:38",
     "text": "香港天文台於11時30分發出有關黑色暴雨警告信號的特別報告。港交所(00388.HK)表示，黑色暴雨警告並不影響證券及衍生產品市場交易，兩個市場均如常運作。根據有關規則，市場交易將繼續，直至今天所有交易時段完結。(vi/...",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F0388%2F0%2Fhk-stock-news%2F1&cb=be15c83df3",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00388/NOW.804453/hk-stock-news"
+    "image": "http://plib.aastocks.com/aafnnews/image/20141008142203355_mi.jpg",
+    "time": "2017/05/24 11:38",
+    "keywords": ["警告", "暴雨", "市場"]
   },
   {
     "code.i.": "0388",
+    "sentiment": 0.0019,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00388/NOW.804362/hk-stock-news",
     "title": "《瑞信窩輪》騰訊倒跌內險強勢，匯豐、中移動持續整固",
-    "time": "2017/05/24 09:16",
     "text": "騰訊倒跌內險強勢，留意騰訊購15657/平安購12722 美股持續向好，道指周二收市再升逾40點至20,900點以上，是連續第4個交易日上升。港股周二則走勢反覆，恆指高位曾升近100點，一度升至25,486點，再升至約2...",
-    "image": "http://plib.aastocks.com/aafnnews/image/20141008142203355_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00388/NOW.804362/hk-stock-news"
+    "image": "http://plib.aastocks.com/aafnnews/image/20170508132920502_mi.jpg",
+    "time": "2017/05/24 09:16",
+    "keywords": ["點", "再升", "周"]
   },
   {
     "code.i.": "0688",
+    "sentiment": 0.7533,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00688/NOW.805071/hk-stock-news",
     "title": "中原張競達：錦上路站項目中標價理想  料日後出售呎價1.6萬",
-    "time": "2017/05/26 18:30",
     "text": "港鐵錦上路站第一期物業發展項目獲信置(00083.HK)、嘉華(00173.HK)及中海外(00688.HK)以合組財團形式，以83.3億元成功投得，折合每呎樓面地價6,734元。中原測量師行執行董事張競達表示，錦上路站...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170509140915136_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00688/NOW.805071/hk-stock-news"
+    "time": "2017/05/26 18:30",
+    "keywords": ["元", "執行", "期"]
   },
   {
     "code.i.": "0688",
+    "sentiment": 0.8567,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00688/NOW.805056/hk-stock-news",
     "title": "信置財團逾83億元奪錦上路站項目 屆估值上限",
-    "time": "2017/05/26 17:05",
     "text": "港鐵(00066.HK)宣布，西鐵錦上路站第一期務業發展項目由信和置業(00083.HK)、中國海外發展(00688.HK)及嘉華國際(00173.HK)合組之宏鍵有限公司，以83.3億元一筆過預繳付款出價投得。宏鍵須按...",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F0688%2F0%2Fhk-stock-news%2F1&cb=0a5c737f32",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00688/NOW.805056/hk-stock-news"
-  },
-  {
-    "code.i.": "0688",
-    "title": "*信置財團83.3億奪錦上路站第一期物業發展項目  出價高預期",
-    "time": "2017/05/26 16:56",
-    "text": "~阿思達克財經新聞網址: www.aastocks.com\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
     "image": "http://plib.aastocks.com/aafnnews/image/20170117162218185_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00688/NOW.805053/hk-stock-news"
+    "time": "2017/05/26 17:05",
+    "keywords": ["發展", "預", "宏鍵"]
   },
   {
     "code.i.": "0688",
-    "title": "《大行報告》大摩最新中港股票焦點股名單(表)",
-    "time": "2017/05/26 15:00",
-    "text": "摩根士丹利發表報告，更新了該行的中港股票焦點股名單：股份│投資評級友邦(01299.HK)│增持中銀香港(02388.HK)│增持華晨中國(01114.HK)│增持 建設銀行(00939.HK)│增持中石化(00386....",
+    "sentiment": 0.8547,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00688/NOW.805053/hk-stock-news",
+    "title": "*信置財團83.3億奪錦上路站第一期物業發展項目  出價高預期",
+    "text": "~阿思達克財經新聞網址: www.aastocks.com\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
     "image": "http://plib.aastocks.com/aafnnews/image/20170525143515100_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00688/NOW.805020/hk-stock-news"
+    "time": "2017/05/26 16:56",
+    "keywords": ["新聞", "財經", "網址"]
   },
   {
     "code.i.": "0688",
-    "title": "啟德商業地最少收12標",
-    "time": "2017/05/26 12:04",
-    "text": "啟德第1F區2號商業地皮今午截標，據截標現場所見，政府最少收到12份標書。其中，華懋、華置(00127.HK)、會德豐(00020.HK)、長實地產(01113.HK)及南豐獨資入標；億京就夥拍資本策略(00497.HK...",
-    "image": "http://plib.aastocks.com/aafnnews/image/20140625181433937_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00688/NOW.804978/hk-stock-news"
-  },
-  {
-    "code.i.": "0700",
+    "sentiment": 0.6036,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00688/NOW.805020/hk-stock-news",
     "title": "《大行報告》大摩最新中港股票焦點股名單(表)",
-    "time": "2017/05/26 15:00",
     "text": "摩根士丹利發表報告，更新了該行的中港股票焦點股名單：股份│投資評級友邦(01299.HK)│增持中銀香港(02388.HK)│增持華晨中國(01114.HK)│增持 建設銀行(00939.HK)│增持中石化(00386....",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F0700%2F0%2Fhk-stock-news%2F1&cb=8d02c9d99e",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00700/NOW.805020/hk-stock-news"
+    "image": "http://plib.aastocks.com/aafnnews/image/20140625181433937_mi.jpg",
+    "time": "2017/05/26 15:00",
+    "keywords": ["增持", "焦點", "股"]
+  },
+  {
+    "code.i.": "0688",
+    "sentiment": 0.0043,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00688/NOW.804978/hk-stock-news",
+    "title": "啟德商業地最少收12標",
+    "text": "啟德第1F區2號商業地皮今午截標，據截標現場所見，政府最少收到12份標書。其中，華懋、華置(00127.HK)、會德豐(00020.HK)、長實地產(01113.HK)及南豐獨資入標；億京就夥拍資本策略(00497.HK...",
+    "image": "http://plib.aastocks.com/aafnnews/image/20170117162228810_mi.jpg",
+    "time": "2017/05/26 12:04",
+    "keywords": ["號", "標", "截標"]
   },
   {
     "code.i.": "0700",
-    "title": "《中銀窩輪》港股高位整固，留意騰訊購16077 /港交購13143 /中移購13111",
-    "time": "2017/05/26 14:13",
-    "text": "中銀國際股票衍生產品聯席董事葉匯豪：本港股市今早曾升至25700點以上，見22個月新高，下午在高位整固。騰訊(0700)今個星期再升約3%。如看好騰訊，可留意年期較長的騰訊認購證(16077)，行使價300元，2018年...",
+    "sentiment": 0.6036,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00700/NOW.805020/hk-stock-news",
+    "title": "《大行報告》大摩最新中港股票焦點股名單(表)",
+    "text": "摩根士丹利發表報告，更新了該行的中港股票焦點股名單：股份│投資評級友邦(01299.HK)│增持中銀香港(02388.HK)│增持華晨中國(01114.HK)│增持 建設銀行(00939.HK)│增持中石化(00386....",
     "image": "http://plib.aastocks.com/aafnnews/image/20170511160535499_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00700/NOW.805003/hk-stock-news"
+    "time": "2017/05/26 15:00",
+    "keywords": ["增持", "焦點", "股"]
   },
   {
     "code.i.": "0700",
-    "title": "《瑞信窩輪》騰訊整固、聯想回套，留意騰訊購16096 / 聯想購15877",
-    "time": "2017/05/26 10:41",
-    "text": "有報道指，廣電總局要求騰訊（0700）對違反國家規定的節目，以及騰訊微信公眾號、移動客戶端播放視聽節目管理中存在的問題，進行深入整改。騰訊周五早段未見明顯方向，高位曾觸及279元水平，但及後又有所回落，維持在高位整固。即...",
+    "sentiment": 0.9516,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00700/NOW.805003/hk-stock-news",
+    "title": "《中銀窩輪》港股高位整固，留意騰訊購16077 /港交購13143 /中移購13111",
+    "text": "中銀國際股票衍生產品聯席董事葉匯豪：本港股市今早曾升至25700點以上，見22個月新高，下午在高位整固。騰訊(0700)今個星期再升約3%。如看好騰訊，可留意年期較長的騰訊認購證(16077)，行使價300元，2018年...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170324105000945_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00700/NOW.804946/hk-stock-news"
+    "time": "2017/05/26 14:13",
+    "keywords": ["訊", "年", "長"]
   },
   {
     "code.i.": "0700",
+    "sentiment": 0.0772,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00700/NOW.804946/hk-stock-news",
+    "title": "《瑞信窩輪》騰訊整固、聯想回套，留意騰訊購16096 / 聯想購15877",
+    "text": "有報道指，廣電總局要求騰訊（0700）對違反國家規定的節目，以及騰訊微信公眾號、移動客戶端播放視聽節目管理中存在的問題，進行深入整改。騰訊周五早段未見明顯方向，高位曾觸及279元水平，但及後又有所回落，維持在高位整固。即...",
+    "time": "2017/05/26 10:41",
+    "keywords": ["訊", "節目", "播放"]
+  },
+  {
+    "code.i.": "0700",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00700/NOW.804938/hk-stock-news",
     "title": "《高盛認股證牛熊證》騰訊早段挑戰280元關口後升幅收窄 看好可考慮高槓桿購16003、14965；看淡可留意高槓桿沽15664、貼價沽16100",
-    "time": "2017/05/26 10:26",
     "text": "騰訊控股(0700)今早最高見279元，現報275.6元，下跌1.6元或0.57%。資金流方面，在過去五個交易日，騰訊認購證錄得6,703萬元資金流入，是該段時期最大資金流入的相關產品。在貼價的認購證選擇中，投資者可考慮...",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00700/NOW.804938/hk-stock-news"
+    "time": "2017/05/26 10:26",
+    "keywords": ["元", "資金", "認購"]
   },
   {
     "code.i.": "0700",
+    "sentiment": 0.1242,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00700/NOW.804939/hk-stock-news",
     "title": "廣電總局責令騰訊網視聽節目深入整改",
-    "time": "2017/05/26 10:25",
     "text": "國家新聞出版廣電總局相關業務司局表示，去年至今年4月底，先後四次約談了騰訊公司相關負責人，指出其行為已嚴重違反《互聯網視聽節目服務管理規定》相關規定，擾亂了互聯網視聽節目服務秩序。在約談的同時，國家新聞出版廣電總局要求騰...",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00700/NOW.804939/hk-stock-news"
+    "time": "2017/05/26 10:25",
+    "keywords": ["相關", "視聽", "因特網"]
   },
   {
     "code.i.": "0762",
+    "sentiment": 0.2607,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00762/NOW.804888/hk-stock-news",
     "title": "《瑞信窩輪》騰訊回勇內險強勢，聯想績優內房抽升",
-    "time": "2017/05/26 09:24",
     "text": "騰訊回勇內險強勢，留意騰訊購15657/中壽購27782美股近期轉趨強勢，道指連升5個交易日，周四高位曾升至21,100點以上，收市仍升約70點。標準普爾500指數及納斯達克指數更創收市新高。評級機構穆迪宣布，下調香港本...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170405164342727_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00762/NOW.804888/hk-stock-news"
+    "time": "2017/05/26 09:24",
+    "keywords": ["高", "點", "指數"]
   },
   {
     "code.i.": "0762",
+    "sentiment": 0.9904,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00762/NOW.804725/hk-stock-news",
     "title": "《瑞信窩輪》電訊股憧憬混改，留意中聯購24793 / 國信購12178 / 中移購13127",
-    "time": "2017/05/25 13:19",
     "text": "發改委近日表示，兩批近20家中央企業混改試點正在順利實施，早前已表明母公司正進行混改的中國聯通（0762），周四一度再觸及11.34元的近期高位，但其後倒跌，險守11元水平，暫時結束過去4日的升勢。向上阻力留意11.50...",
     "image": "http://plib.aastocks.com/aafnnews/image/20140819155755419_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00762/NOW.804725/hk-stock-news"
+    "time": "2017/05/25 13:19",
+    "keywords": ["元", "混", "家"]
   },
   {
     "code.i.": "0762",
+    "sentiment": 1.5916e-07,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00762/NOW.804625/hk-stock-news",
     "title": "《瑞信窩輪》騰訊調整內險整固，聯通急升中移橫行",
-    "time": "2017/05/25 09:21",
-    "text": "騰訊調整內險整固，留意騰訊購15657/平安購12722美國聯儲局公布的五月份議息會議紀錄顯示，大多數委員預計短期內可能再加息，但要先證明近期的經濟放緩只屬暫時性。美股周三向好，道指連升5日，收市再升逾70點，重上兩萬一...",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F0762%2F0%2Fhk-stock-news%2F1&cb=e0c66847f6",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00762/NOW.804625/hk-stock-news"
-  },
-  {
-    "code.i.": "0762",
-    "title": "中資電訊股逆升  聯通(00762.HK)續漲半成創逾年半高",
-    "time": "2017/05/24 15:15",
-    "text": "穆迪下調中國主權信貸評級至「A1」，藍籌中資金融及油股受壓，拖累恆指扭三連漲，由近廿二個月高位回落至接近10天線邊獲支持，現造25,378，微吐0.1%。不過，中資電訊股逆市造好，尤其是聯通(00762.HK)四連升，午...",
+    "text": "騰訊調整內險整固，留意騰訊購15657/平安購12722美國聯儲局公布的五月份議息會議紀錄顯示，大多數委員預計短期內可能再加息，但要先證明近期的經濟放緩隻屬暫時性。美股周三向好，道指連升5日，收市再升逾70點，重上兩萬一...",
     "image": "http://plib.aastocks.com/aafnnews/image/20141006142936425_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00762/RUM.170524_151555/hk-stock-news"
+    "time": "2017/05/25 09:21",
+    "keywords": ["訊", "購", "議"]
   },
   {
     "code.i.": "0762",
-    "title": "今年首季內地移動寬帶用戶數累計達10.4億戶  按季升4.2%",
-    "time": "2017/05/24 14:33",
-    "text": "由工信部電信研究院、三大電信運營商等單位組成的中國寬帶發展聯盟日前發布報告顯示，今年首季內地移動寬帶包括3G及4G用戶數累計達到10.43億戶，較去年四季度升4.2%，移動寬帶普及率達到75.4%。從區域的移動寬帶普及狀...",
+    "sentiment": 0.9781,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00762/RUM.170524_151555/hk-stock-news",
+    "title": "中資電訊股逆升  聯通(00762.HK)續漲半成創逾年半高",
+    "text": "穆迪下調中國主權信貸評級至「A1」，藍籌中資金融及油股受壓，拖累恆指扭三連漲，由近廿二個月高位回落至接近10天線邊獲支持，現造25,378，微吐0.1%。不過，中資電訊股逆市造好，尤其是聯通(00762.HK)四連升，午...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170511154930761_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00762/NOW.804491/hk-stock-news"
+    "time": "2017/05/24 15:15",
+    "keywords": ["中資", "回落", "接近"]
+  },
+  {
+    "code.i.": "0762",
+    "sentiment": 0.0186,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00762/NOW.804491/hk-stock-news",
+    "title": "今年首季內地移動寬帶用戶數累計達10.4億戶  按季升4.2%",
+    "text": "由工信部電信研究院、三大電信運營商等單位組成的中國寬帶發展聯盟日前發布報告顯示，今年首季內地移動寬帶包括3G及4G用戶數累計達到10.43億戶，較去年四季度升4.2%，移動寬帶普及率達到75.4%。從區域的移動寬帶普及狀...",
+    "image": "http://plib.aastocks.com/aafnnews/image/20170511154942043_mi.jpg",
+    "time": "2017/05/24 14:33",
+    "keywords": ["寬帶", "電信", "數"]
   },
   {
     "code.i.": "0823",
+    "sentiment": 0.9947,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00823/RUM.170525_134531/hk-stock-news",
     "title": "恆指升幅擴至逾200點逼近25,700  中資金融內房股領漲",
-    "time": "2017/05/25 13:45",
     "text": "恆指在中資金融及地產股帶動午後升幅擴至249點或近1%，報25,678，成交額501億元。中金建議內房股逢低吸納，分別給予潤地(01109.HK)及中國海外(00688.HK)目標價30.03元及31.62元，兩者股價續...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170525143515100_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00823/RUM.170525_134531/hk-stock-news"
+    "time": "2017/05/25 13:45",
+    "keywords": ["元", "價", "海外"]
   },
   {
     "code.i.": "0823",
+    "sentiment": 0.9999,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00823/NOW.804555/hk-stock-news",
     "title": "《專題》大摩、高盛及摩通對地產股評級及目標價(表)",
-    "time": "2017/05/24 18:18",
     "text": "據摩根士丹利報告，列出對香港地產股投資評級及目標價：股份│投資評級│目標價(港元)發展商：新地(00016.HK)│增持│134元恆地(00012.HK)│減持│39元信和置業(00083.HK)│與大市同步│14元新世...",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F0823%2F0%2Fhk-stock-news%2F1&cb=5a645ece69",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00823/NOW.804555/hk-stock-news"
-  },
-  {
-    "code.i.": "0823",
-    "title": "《專題》券商對地產股淨負債比率及估值預測(表)",
-    "time": "2017/05/24 18:16",
-    "text": "摩根大通早前發表報告表示，列出各地產股的淨負債比率預測：股份│淨負債比率預測新世界發展(00017.HK)│40.9%嘉里建設(00683.HK)│34.9%會德豐(00020.HK)│23.7%恆地(00012.HK)...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170517152737086_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00823/NOW.804554/hk-stock-news"
+    "time": "2017/05/24 18:18",
+    "keywords": ["新", "目標", "價"]
   },
   {
     "code.i.": "0823",
-    "title": "《專題》券商在香港樓市前景預測(表)",
-    "time": "2017/05/24 18:16",
-    "text": "港府繼4月中收緊印花稅機制，對一約多伙徵稅15%，金管局上周出招遏發展商高槓桿購地及高成數樓按，本網綜合各券商近數月對本港樓市前景預測：券商│對香港樓市前景預測花旗│樓價或已見頂，重申料今年按年跌15%德銀│進入加息周期...",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00823/NOW.804554/hk-stock-news",
+    "title": "《專題》券商對地產股淨負債比率及估值預測(表)",
+    "text": "摩根大通早前發表報告表示，列出各地產股的淨負債比率預測：股份│淨負債比率預測新世界發展(00017.HK)│40.9%嘉裡建設(00683.HK)│34.9%會德豐(00020.HK)│23.7%恆地(00012.HK)...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170509145827901_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00823/NOW.804553/hk-stock-news"
+    "time": "2017/05/24 18:16",
+    "keywords": ["比率", "預測", "負債"]
   },
   {
     "code.i.": "0823",
-    "title": "《專題》本港樓價創新高惟不明朗增 大摩料下半年將回落",
-    "time": "2017/05/24 18:12",
-    "text": "港府雖自去年11月再「加辣」，將住宅物業交易從價印花稅稅率劃一提高至15%，但本港樓價持續攀升，近月更出現價量齊升。差餉物業估價署私人住宅售價指數，於3月份升至319.8點歷史新高，按年升17.8%，較1997年10月最...",
+    "sentiment": 0.9822,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00823/NOW.804553/hk-stock-news",
+    "title": "《專題》券商在香港樓市前景預測(表)",
+    "text": "港府繼4月中收緊印花稅機制，對一約多伙徵稅15%，金管局上周出招遏發展商高槓桿購地及高成數樓按，本網綜合各券商近數月對本港樓市前景預測：券商│對香港樓市前景預測花旗│樓價或已見頂，重申料今年按年跌15%德銀│進入加息周期...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170410164327100_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00823/NOW.804550/hk-stock-news"
+    "time": "2017/05/24 18:16",
+    "keywords": ["│", "月", "15%"]
+  },
+  {
+    "code.i.": "0823",
+    "sentiment": 0.0027,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00823/NOW.804550/hk-stock-news",
+    "title": "《專題》本港樓價創新高惟不明朗增 大摩料下半年將回落",
+    "text": "港府雖自去年11月再「加辣」，將住宅物業交易從價印花稅稅率劃一提高至15%，但本港樓價持續攀升，近月更出現價量齊升。差餉物業估價署私人住宅售價指數，於3月份升至319.8點歷史新高，按年升17.8%，較1997年10月最...",
+    "time": "2017/05/24 18:12",
+    "keywords": ["月", "升", "住宅"]
   },
   {
     "code.i.": "0836",
+    "sentiment": 0.8472,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00836/NOW.804410/hk-stock-news",
     "title": "《大行報告》麥格理對內地火電股最新評級及目標價(表)",
-    "time": "2017/05/24 10:11",
     "text": "股份｜評級｜目標價(港元)中國電力(02380.HK)｜跑贏大市｜3.20元華潤電力(00836.HK)｜跑贏大市｜17.20元大唐發電(00991.HK)｜中性｜2.80元華電國際(01071.HK)｜跑贏大市｜4.3...",
     "image": "http://plib.aastocks.com/aafnnews/image/20150401093350781_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00836/NOW.804410/hk-stock-news"
+    "time": "2017/05/24 10:11",
+    "keywords": ["跑", "贏大", "市"]
   },
   {
     "code.i.": "0836",
+    "sentiment": 0.0019,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00836/NOW.804413/hk-stock-news",
     "title": "《大行報告》麥格理對內地火電股看法轉正面 看好華電(01071.HK)及潤電(00836.HK)",
-    "time": "2017/05/24 10:06",
     "text": "麥格理發表報告，對內地火力發電股看法轉為正面，預期2018年標桿電價上升，煤價由今年首季高位回落，而276天煤炭限產放鬆，該行相信火電股最壞時間已過去，料2018年將出現改善及反彈。該行認為，華電國際(01071.HK)...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170117161704731_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00836/NOW.804413/hk-stock-news"
+    "time": "2017/05/24 10:06",
+    "keywords": ["股", "電", "2018"]
   },
   {
     "code.i.": "0836",
+    "sentiment": 0.8547,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00836/NOW.804386/hk-stock-news",
     "title": "*麥格理對內地火電股看法轉正面  看好華電(01071.HK)及潤電(00836.HK)",
-    "time": "2017/05/24 09:35",
     "text": "~阿思達克財經新聞網址: www.aastocks.com\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F0836%2F0%2Fhk-stock-news%2F1&cb=87cc701f4e",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00836/NOW.804386/hk-stock-news"
-  },
-  {
-    "code.i.": "0836",
-    "title": "大唐(00991.HK)升幅擴至9%創年半高成交急增  瑞信升價至3.4元",
-    "time": "2017/05/16 14:03",
-    "text": "中資電力板塊今天逆市全面造好，尤其是獲瑞信大幅上調目標價至3.4%兼獲MSCI納入中國A股指數組合的大唐發電(00991.HK)午後升幅擴至9%，報2.9元，創逾年半高，成交急增至9,198萬股。同獲瑞信升價至4.2元的...",
     "image": "http://plib.aastocks.com/aafnnews/image/20151125161444029_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00836/RUM.170516_140352/hk-stock-news"
+    "time": "2017/05/24 09:35",
+    "keywords": ["新聞", "財經", "網址"]
   },
   {
     "code.i.": "0836",
-    "title": "《大行報告》瑞信升大唐(00991.HK)及華電(01071.HK)評級至「跑贏大市」 升潤電(00836.HK)及神華(01088.HK)至「中性」",
-    "time": "2017/05/16 10:59",
-    "text": "瑞信發表的報告指，減少由國資委控制的能源企業數目屬中央政策方向，而整合大型能源企業將能令市場份額更集中，在開放電力市場同時，亦令定價行為變得理性。瑞信對燃煤的發電廠取態轉趨正面，料股本回報率今年有可能見底回升，並由今年的...",
+    "sentiment": 0.9982,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00836/RUM.170516_140352/hk-stock-news",
+    "title": "大唐(00991.HK)升幅擴至9%創年半高成交急增  瑞信升價至3.4元",
+    "text": "中資電力板塊今天逆市全面造好，尤其是獲瑞信大幅上調目標價至3.4%兼獲MSCI納入中國A股指數組合的大唐發電(00991.HK)午後升幅擴至9%，報2.9元，創逾年半高，成交急增至9,198萬股。同獲瑞信升價至4.2元的...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170509161549091_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00836/NOW.802889/hk-stock-news"
+    "time": "2017/05/16 14:03",
+    "keywords": ["獲", "價", "股"]
+  },
+  {
+    "code.i.": "0836",
+    "sentiment": 0.0003,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00836/NOW.802889/hk-stock-news",
+    "title": "《大行報告》瑞信升大唐(00991.HK)及華電(01071.HK)評級至「跑贏大市」 升潤電(00836.HK)及神華(01088.HK)至「中性」",
+    "text": "瑞信發表的報告指，減少由國資委控制的能源企業數目屬中央政策方向，而整合大型能源企業將能令市場份額更集中，在開放電力市場同時，亦令定價行為變得理性。瑞信對燃煤的發電廠取態轉趨正面，料股本回報率今年有可能見底回升，並由今年的...",
+    "image": "http://plib.aastocks.com/aafnnews/image/20150401093350781_mi.jpg",
+    "time": "2017/05/16 10:59",
+    "keywords": ["企業", "能源", "令"]
   },
   {
     "code.i.": "0857",
+    "sentiment": 0,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00857/NOW.805059/hk-stock-news",
     "title": "中石油(00857.HK)控股股東無償劃轉股份予鞍鋼集團",
-    "time": "2017/05/26 17:40",
     "text": "中石油(00857.HK)公布，於今日(26日)獲控股股東中石油集團通知，為加強中石油集團與鞍鋼集團戰略合作，優化公司股權結構，中石油集團擬將其持有之4.4億股A股(約佔公司總股本0.24%)，無償劃轉給鞍鋼集團。是次無...",
     "image": "http://plib.aastocks.com/aafnnews/image/20140730140535327_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00857/NOW.805059/hk-stock-news"
+    "time": "2017/05/26 17:40",
+    "keywords": ["集團", "石油", "中"]
   },
   {
     "code.i.": "0857",
+    "sentiment": 0.0008,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00857/NOW.804968/hk-stock-news",
     "title": "《匯豐輪證》 國際油價急挫    欲搏油股反彈可留意中油購14406/中化購28804",
-    "time": "2017/05/26 11:39",
     "text": "昨日石油輸出國組織(OPEC)與俄羅斯等其他產油國將減產協議延長9個月，未有加大減產規模，國際油價急挫，創超過兩個月以來最大單日跌幅。石油石化股早段個別發展，中海油裂口向下，回試20天線支持。今年3月以來，中海油股價一直...",
     "image": "http://plib.aastocks.com/aafnnews/image/20140730140612530_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00857/NOW.804968/hk-stock-news"
-  },
-  {
-    "code.i.": "0857",
-    "title": "發改委：國內汽柴油價每噸分別提高140元及135元人幣",
-    "time": "2017/05/25 17:11",
-    "text": "國家發改委公布，自5月25日24時起，國內汽、柴油價格(標準品)每噸分別提高140元人民幣(下同)和135元。(lf/da)~阿思達克財經新聞網址: www.aastocks.com\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F0857%2F0%2Fhk-stock-news%2F1&cb=684c25051f",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00857/NOW.804783/hk-stock-news"
-  },
-  {
-    "code.i.": "0857",
-    "title": "中石油及中鋁訂戰略合作框架協議",
-    "time": "2017/05/24 10:51",
-    "text": "中石油集團與中國鋁業公司在北京簽署《中國石油天然氣股份有限公司與中國鋁業股份有限公司戰略合作框架協議》。雙方將緊密圍繞未來發展戰略，充分發揮各自優勢，按照自願、平等、互惠互利的原則，建立雙贏、可持續發展的戰略合作，開展全...",
-    "image": "http://plib.aastocks.com/aafnnews/image/20170117154406811_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00857/NOW.804432/hk-stock-news"
-  },
-  {
-    "code.i.": "0857",
-    "title": "中石油、中石化、神華及鞍鋼等11家央企人事調整",
-    "time": "2017/05/22 08:18",
-    "text": "國資委官方微信號「國資小新」消息，部分中央企業人事進行調整，共涉及中石油、中海油、中石化、一汽、東風等11家央企。經研究，免去沈殿成、趙政璋中石油黨組成員職務，同意侯啟軍、段良偉、覃偉中為中石油副總經理人選，試用期一年；...",
-    "image": "http://plib.aastocks.com/aafnnews/image/20140730140556749_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00857/NOW.803845/hk-stock-news"
-  },
-  {
-    "code.i.": "0883",
-    "title": "《大行報告》大摩最新中港股票焦點股名單(表)",
-    "time": "2017/05/26 15:00",
-    "text": "摩根士丹利發表報告，更新了該行的中港股票焦點股名單：股份│投資評級友邦(01299.HK)│增持中銀香港(02388.HK)│增持華晨中國(01114.HK)│增持 建設銀行(00939.HK)│增持中石化(00386....",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F0883%2F0%2Fhk-stock-news%2F1&cb=dbae7b14f2",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00883/NOW.805020/hk-stock-news"
-  },
-  {
-    "code.i.": "0883",
-    "title": "《匯豐輪證》 國際油價急挫    欲搏油股反彈可留意中油購14406/中化購28804",
     "time": "2017/05/26 11:39",
-    "text": "昨日石油輸出國組織(OPEC)與俄羅斯等其他產油國將減產協議延長9個月，未有加大減產規模，國際油價急挫，創超過兩個月以來最大單日跌幅。石油石化股早段個別發展，中海油裂口向下，回試20天線支持。今年3月以來，中海油股價一直...",
-    "image": "http://plib.aastocks.com/aafnnews/image/20140730140612530_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00883/NOW.804968/hk-stock-news"
+    "keywords": ["月", "減產", "油"]
   },
   {
-    "code.i.": "0883",
+    "code.i.": "0857",
+    "sentiment": 0.2262,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00857/NOW.804783/hk-stock-news",
     "title": "發改委：國內汽柴油價每噸分別提高140元及135元人幣",
-    "time": "2017/05/25 17:11",
     "text": "國家發改委公布，自5月25日24時起，國內汽、柴油價格(標準品)每噸分別提高140元人民幣(下同)和135元。(lf/da)~阿思達克財經新聞網址: www.aastocks.com\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
     "image": "http://plib.aastocks.com/aafnnews/image/20170117154406811_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00883/NOW.804783/hk-stock-news"
+    "time": "2017/05/25 17:11",
+    "keywords": ["標准", "140", "提高"]
+  },
+  {
+    "code.i.": "0857",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00857/NOW.804432/hk-stock-news",
+    "title": "中石油及中鋁訂戰略合作框架協議",
+    "text": "中石油集團與中國鋁業公司在北京簽署《中國石油天然氣股份有限公司與中國鋁業股份有限公司戰略合作框架協議》。雙方將緊密圍繞未來發展戰略，充分發揮各自優勢，按照自願、平等、互惠互利的原則，建立雙贏、可持續發展的戰略合作，開展全...",
+    "image": "http://plib.aastocks.com/aafnnews/image/20140730140556749_mi.jpg",
+    "time": "2017/05/24 10:51",
+    "keywords": ["戰略", "鋁業", "中國"]
+  },
+  {
+    "code.i.": "0857",
+    "sentiment": 0.0242,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00857/NOW.803845/hk-stock-news",
+    "title": "中石油、中石化、神華及鞍鋼等11家央企人事調整",
+    "text": "國資委官方微信號「國資小新」消息，部分中央企業人事進行調整，共涉及中石油、中海油、中石化、一汽、東風等11家央企。經研究，免去沈殿成、趙政璋中石油黨組成員職務，同意侯啟軍、段良偉、覃偉中為中石油副總經理人選，試用期一年；...",
+    "image": "http://plib.aastocks.com/aafnnews/image/20170117161144216_mi.jpg",
+    "time": "2017/05/22 08:18",
+    "keywords": ["中", "石油", "國資"]
   },
   {
     "code.i.": "0883",
-    "title": "《瑞銀窩輪》國指檢討結果公佈    尋找潛力「新貴」",
-    "time": "2017/05/24 15:11",
-    "text": "過去數月恆生指數有限公司諮詢巿場不同人士關於擴大恆生中國企業指數的成份股範疇，普遍回應都支持加入紅籌股及民營企業於該指數內。在5月19日的公告中，決定將紅籌股及民營企業加入恆生中國企業指數，同時將根據公司的業務覆蓋範圍以...",
-    "image": "http://plib.aastocks.com/aafnnews/image/20170117154723561_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00883/NOW.804500/hk-stock-news"
-  },
-  {
-    "code.i.": "0883",
-    "title": "《匯豐輪證》 油價創一個月高  欲追落後留意中石化牛60584",
-    "time": "2017/05/23 10:56",
-    "text": "美國總統特朗普與沙特簽署高達1,100億美元的軍售協議，美股連升三天，美元匯價偏軟油價及金價向上。市場預期產油國周四會議，可能延長減產協議最多9個月，支持油價造好，紐約期油升0.8%至50.73美元，創一個月新高。三大油...",
-    "image": "http://plib.aastocks.com/aafnnews/image/20140730140535327_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00883/NOW.804161/hk-stock-news"
-  },
-  {
-    "code.i.": "0939",
-    "title": "《瑞銀窩輪》資金追捧內銀認購證  留意建行購15021中行購11865",
-    "time": "2017/05/26 16:30",
-    "text": "內地股市上週四出現突破，上證指數上試3100點水平，主要受內銀和內險等金融股所帶動，而本港上市的內地金融股走勢亦強勁，平保(2318)上週五一度高見50.9港元的近兩年高位，建行(0939)週五亦一度上試本年的阻力位6....",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F0939%2F0%2Fhk-stock-news%2F1&cb=39248b529b",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00939/NOW.805038/hk-stock-news"
-  },
-  {
-    "code.i.": "0939",
+    "sentiment": 0.6036,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00883/NOW.805020/hk-stock-news",
     "title": "《大行報告》大摩最新中港股票焦點股名單(表)",
-    "time": "2017/05/26 15:00",
     "text": "摩根士丹利發表報告，更新了該行的中港股票焦點股名單：股份│投資評級友邦(01299.HK)│增持中銀香港(02388.HK)│增持華晨中國(01114.HK)│增持 建設銀行(00939.HK)│增持中石化(00386....",
+    "image": "http://plib.aastocks.com/aafnnews/image/20140730140612530_mi.jpg",
+    "time": "2017/05/26 15:00",
+    "keywords": ["增持", "焦點", "股"]
+  },
+  {
+    "code.i.": "0883",
+    "sentiment": 0.0008,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00883/NOW.804968/hk-stock-news",
+    "title": "《匯豐輪證》 國際油價急挫    欲搏油股反彈可留意中油購14406/中化購28804",
+    "text": "昨日石油輸出國組織(OPEC)與俄羅斯等其他產油國將減產協議延長9個月，未有加大減產規模，國際油價急挫，創超過兩個月以來最大單日跌幅。石油石化股早段個別發展，中海油裂口向下，回試20天線支持。今年3月以來，中海油股價一直...",
+    "image": "http://plib.aastocks.com/aafnnews/image/20170117154406811_mi.jpg",
+    "time": "2017/05/26 11:39",
+    "keywords": ["月", "減產", "油"]
+  },
+  {
+    "code.i.": "0883",
+    "sentiment": 0.2262,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00883/NOW.804783/hk-stock-news",
+    "title": "發改委：國內汽柴油價每噸分別提高140元及135元人幣",
+    "text": "國家發改委公布，自5月25日24時起，國內汽、柴油價格(標準品)每噸分別提高140元人民幣(下同)和135元。(lf/da)~阿思達克財經新聞網址: www.aastocks.com\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "image": "http://plib.aastocks.com/aafnnews/image/20170117154723561_mi.jpg",
+    "time": "2017/05/25 17:11",
+    "keywords": ["標准", "140", "提高"]
+  },
+  {
+    "code.i.": "0883",
+    "sentiment": 0.2291,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00883/NOW.804500/hk-stock-news",
+    "title": "《瑞銀窩輪》國指檢討結果公佈    尋找潛力「新貴」",
+    "text": "過去數月恆生指數有限公司諮詢巿場不同人士關於擴大恆生中國企業指數的成份股範疇，普遍回應都支持加入紅籌股及民營企業於該指數內。在5月19日的公告中，決定將紅籌股及民營企業加入恆生中國企業指數，同時將根據公司的業務覆蓋範圍以...",
+    "image": "http://plib.aastocks.com/aafnnews/image/20140730140535327_mi.jpg",
+    "time": "2017/05/24 15:11",
+    "keywords": ["指數", "恆生", "企業"]
+  },
+  {
+    "code.i.": "0883",
+    "sentiment": 0.1168,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00883/NOW.804161/hk-stock-news",
+    "title": "《匯豐輪證》 油價創一個月高  欲追落後留意中石化牛60584",
+    "text": "美國總統特朗普與沙特簽署高達1,100億美元的軍售協議，美股連升三天，美元匯價偏軟油價及金價向上。市場預期產油國周四會議，可能延長減產協議最多9個月，支持油價造好，紐約期油升0.8%至50.73美元，創一個月新高。三大油...",
+    "image": "http://plib.aastocks.com/aafnnews/image/20151124163457081_mi.jpg",
+    "time": "2017/05/23 10:56",
+    "keywords": ["美元", "高", "三"]
+  },
+  {
+    "code.i.": "0939",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00939/NOW.805038/hk-stock-news",
+    "title": "《瑞銀窩輪》資金追捧內銀認購證  留意建行購15021中行購11865",
+    "text": "內地股市上週四出現突破，上證指數上試3100點水平，主要受內銀和內險等金融股所帶動，而本港上市的內地金融股走勢亦強勁，平保(2318)上週五一度高見50.9港元的近兩年高位，建行(0939)週五亦一度上試本年的阻力位6....",
     "image": "http://plib.aastocks.com/aafnnews/image/20140627170521671_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00939/NOW.805020/hk-stock-news"
+    "time": "2017/05/26 16:30",
+    "keywords": ["試", "上", "金融"]
   },
   {
     "code.i.": "0939",
-    "title": "《高盛認股證牛熊證》內銀股急起追落後 看好可留意低街貨高槓桿建行購14375、中行購15606；平保創兩年新高，看好可考慮熱門條款平安購14875",
-    "time": "2017/05/26 11:16",
-    "text": "今早恆指窄幅上落，反觀內銀股走勢比較突出，普遍跑贏大市，建設銀行(0939)現報6.48元，上升0.06元或0.94%，成交金額約6.48億元。另一隻內銀股中國銀行(3988)現報3.9元，升0.02元或0.52%，成交...",
+    "sentiment": 0.6036,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00939/NOW.805020/hk-stock-news",
+    "title": "《大行報告》大摩最新中港股票焦點股名單(表)",
+    "text": "摩根士丹利發表報告，更新了該行的中港股票焦點股名單：股份│投資評級友邦(01299.HK)│增持中銀香港(02388.HK)│增持華晨中國(01114.HK)│增持 建設銀行(00939.HK)│增持中石化(00386....",
     "image": "http://plib.aastocks.com/aafnnews/image/20170525143515100_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00939/NOW.804959/hk-stock-news"
+    "time": "2017/05/26 15:00",
+    "keywords": ["增持", "焦點", "股"]
   },
   {
     "code.i.": "0939",
-    "title": "《中銀窩輪》內銀發力，留意建行購15585 /工行購14651 /中行購15586",
-    "time": "2017/05/26 10:08",
-    "text": "中銀國際股票衍生產品聯席董事葉匯豪：美股繼續造好，標準普爾500指數與納斯達克指數創新高。本港股市今早承接升勢，恆生指數突破25700點水平，再向兩年高位進發。如繼續看好恆指，可留意恆指認購證(29637)，行使價258...",
+    "sentiment": 0.0006,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00939/NOW.804959/hk-stock-news",
+    "title": "《高盛認股證牛熊證》內銀股急起追落後 看好可留意低街貨高槓桿建行購14375、中行購15606；平保創兩年新高，看好可考慮熱門條款平安購14875",
+    "text": "今早恆指窄幅上落，反觀內銀股走勢比較突出，普遍跑贏大市，建設銀行(0939)現報6.48元，上升0.06元或0.94%，成交金額約6.48億元。另一隻內銀股中國銀行(3988)現報3.9元，升0.02元或0.52%，成交...",
     "image": "http://plib.aastocks.com/aafnnews/image/20140626141918156_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00939/NOW.804925/hk-stock-news"
+    "time": "2017/05/26 11:16",
+    "keywords": ["元", "現報", "6.48"]
   },
   {
     "code.i.": "0939",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00939/NOW.804925/hk-stock-news",
+    "title": "《中銀窩輪》內銀發力，留意建行購15585 /工行購14651 /中行購15586",
+    "text": "中銀國際股票衍生產品聯席董事葉匯豪：美股繼續造好，標準普爾500指數與納斯達克指數創新高。本港股市今早承接升勢，恆生指數突破25700點水平，再向兩年高位進發。如繼續看好恆指，可留意恆指認購證(29637)，行使價258...",
+    "time": "2017/05/26 10:08",
+    "keywords": ["指數", "指", "恆"]
+  },
+  {
+    "code.i.": "0939",
+    "sentiment": 0.2607,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00939/NOW.804888/hk-stock-news",
     "title": "《瑞信窩輪》騰訊回勇內險強勢，聯想績優內房抽升",
-    "time": "2017/05/26 09:24",
     "text": "騰訊回勇內險強勢，留意騰訊購15657/中壽購27782美股近期轉趨強勢，道指連升5個交易日，周四高位曾升至21,100點以上，收市仍升約70點。標準普爾500指數及納斯達克指數更創收市新高。評級機構穆迪宣布，下調香港本...",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00939/NOW.804888/hk-stock-news"
+    "time": "2017/05/26 09:24",
+    "keywords": ["高", "點", "指數"]
   },
   {
     "code.i.": "0941",
+    "sentiment": 0.9516,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00941/NOW.805003/hk-stock-news",
     "title": "《中銀窩輪》港股高位整固，留意騰訊購16077 /港交購13143 /中移購13111",
-    "time": "2017/05/26 14:13",
     "text": "中銀國際股票衍生產品聯席董事葉匯豪：本港股市今早曾升至25700點以上，見22個月新高，下午在高位整固。騰訊(0700)今個星期再升約3%。如看好騰訊，可留意年期較長的騰訊認購證(16077)，行使價300元，2018年...",
     "image": "http://plib.aastocks.com/aafnnews/image/20140721155049396_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00941/NOW.805003/hk-stock-news"
+    "time": "2017/05/26 14:13",
+    "keywords": ["訊", "年", "長"]
   },
   {
     "code.i.": "0941",
+    "sentiment": 0.1648,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00941/NOW.804898/hk-stock-news",
     "title": "惠譽重申中移動(00941.HK)A+評級 展望穩定",
-    "time": "2017/05/26 09:27",
     "text": "評級機構惠譽發表報告，重申中國移動(00941.HK)「A+」的發行人違約評級，單獨信用評級(standalone rating)維持「AA-」，為內地電訊商中最高，展望穩定。該行指，評級反映其相信公司可以於中長期維持市...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170324105000945_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00941/NOW.804898/hk-stock-news"
+    "time": "2017/05/26 09:27",
+    "keywords": ["評級", "指", "穩定"]
   },
   {
     "code.i.": "0941",
+    "sentiment": 0.1336,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00941/NOW.804883/hk-stock-news",
     "title": "《中銀窩輪》港股上試兩年高位，留意騰訊購16077 /平保購15718",
-    "time": "2017/05/26 09:21",
     "text": "中銀國際股票衍生產品聯席董事葉匯豪：評級機構穆迪調低中國主權信貸評級對大市的影響短暫。美股回升，標準普爾500指數創收市新高；港股承接升勢升至廿二個月新高。恆生指數收報25630點，升202點。全日大市成交822億元。如...",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F0941%2F0%2Fhk-stock-news%2F1&cb=fe98cb8c3d",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00941/NOW.804883/hk-stock-news"
-  },
-  {
-    "code.i.": "0941",
-    "title": "《瑞信窩輪》電訊股憧憬混改，留意中聯購24793 / 國信購12178 / 中移購13127",
-    "time": "2017/05/25 13:19",
-    "text": "發改委近日表示，兩批近20家中央企業混改試點正在順利實施，早前已表明母公司正進行混改的中國聯通（0762），周四一度再觸及11.34元的近期高位，但其後倒跌，險守11元水平，暫時結束過去4日的升勢。向上阻力留意11.50...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170324104949258_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00941/NOW.804725/hk-stock-news"
+    "time": "2017/05/26 09:21",
+    "keywords": ["市", "評級", "指數"]
   },
   {
     "code.i.": "0941",
-    "title": "中移動(00941.HK)：冀與互聯網企業合作 帶動流量增長",
-    "time": "2017/05/25 13:08",
-    "text": "中移動(00941.HK)首席執行官李躍指，雖然現時騰訊(00700.HK)用戶增至逾八億，趕上中移動用戶數目，但大家收費模式不同，無論對那家互聯網企業均抱合作態度，認為互聯網企業發展亦可帶動流量增長，相信加強合作可改善...",
+    "sentiment": 0.9904,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00941/NOW.804725/hk-stock-news",
+    "title": "《瑞信窩輪》電訊股憧憬混改，留意中聯購24793 / 國信購12178 / 中移購13127",
+    "text": "發改委近日表示，兩批近20家中央企業混改試點正在順利實施，早前已表明母公司正進行混改的中國聯通（0762），周四一度再觸及11.34元的近期高位，但其後倒跌，險守11元水平，暫時結束過去4日的升勢。向上阻力留意11.50...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170525113557108_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00941/NOW.804722/hk-stock-news"
+    "time": "2017/05/25 13:19",
+    "keywords": ["元", "混", "家"]
+  },
+  {
+    "code.i.": "0941",
+    "sentiment": 0.1934,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00941/NOW.804722/hk-stock-news",
+    "title": "中移動(00941.HK)：冀與互聯網企業合作 帶動流量增長",
+    "text": "中移動(00941.HK)首席執行官李躍指，雖然現時騰訊(00700.HK)用戶增至逾八億，趕上中移動用戶數目，但大家收費模式不同，無論對那家互聯網企業均抱合作態度，認為互聯網企業發展亦可帶動流量增長，相信加強合作可改善...",
+    "image": "http://plib.aastocks.com/aafnnews/image/20170405164342727_mi.jpg",
+    "time": "2017/05/25 13:08",
+    "keywords": ["企業", "用戶", "合作"]
   },
   {
     "code.i.": "0992",
+    "sentiment": 0.986,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00992/NOW.805023/hk-stock-news",
     "title": "楊元慶：聯想集團(00992.HK)已完成基礎性建設中最艱難轉型工作",
-    "time": "2017/05/26 15:23",
     "text": "聯想集團(00992.HK)昨日公布截至3月底止全年業績由虧轉盈賺5.35億美元，公司行政總裁楊元慶於個人微博上表示，在過去的一年裡，完成了基礎性建設中最艱難的轉型工作。楊元慶指，聯想集團將繼續穩扎穩打，相信在戰鬥力夠強...",
     "image": "http://plib.aastocks.com/aafnnews/image/20150120164405660_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00992/NOW.805023/hk-stock-news"
+    "time": "2017/05/26 15:23",
+    "keywords": ["元慶", "楊", "公布"]
   },
   {
     "code.i.": "0992",
+    "sentiment": 0.0017,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00992/NOW.804976/hk-stock-news",
     "title": "《業績之後》大行對聯想集團(00992.HK)最新評級及目標價(表)",
-    "time": "2017/05/26 12:04",
     "text": "聯想集團(00992.HK)昨(25日)午公布截至3月底全年業績，全年虧轉盈賺5.35億美元，上年同期虧損1.28億元；期內每股盈利4.86美仙，維持派末期息20.5仙。期內營業額430.35億美元，按年跌4.2%，撇除...",
     "image": "http://plib.aastocks.com/aafnnews/image/20140729141232475_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00992/NOW.804976/hk-stock-news"
+    "time": "2017/05/26 12:04",
+    "keywords": ["億", "內", "全年"]
   },
   {
     "code.i.": "0992",
+    "sentiment": 0.9708,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00992/NOW.804964/hk-stock-news",
     "title": "《大行報告》高盛降聯想集團(00992.HK)目標價至4.7元 上季業績遜",
-    "time": "2017/05/26 11:07",
     "text": "高盛報告指出，聯想集團(00992.HK)上季業績遜預期，營運成本上升，因新智能手機型號推出，移動業務集團(MBG)及數據中心業務(DCG)正在重組。期內銷售額(按季跌21%)亦較高盛預期低出4%。該行指，三大業務季內表...",
     "image": "http://plib.aastocks.com/aafnnews/image/20160712181145738_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00992/NOW.804964/hk-stock-news"
+    "time": "2017/05/26 11:07",
+    "keywords": ["業務", "季", "內"]
   },
   {
     "code.i.": "0992",
+    "sentiment": 0.0772,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00992/NOW.804946/hk-stock-news",
     "title": "《瑞信窩輪》騰訊整固、聯想回套，留意騰訊購16096 / 聯想購15877",
-    "time": "2017/05/26 10:41",
     "text": "有報道指，廣電總局要求騰訊（0700）對違反國家規定的節目，以及騰訊微信公眾號、移動客戶端播放視聽節目管理中存在的問題，進行深入整改。騰訊周五早段未見明顯方向，高位曾觸及279元水平，但及後又有所回落，維持在高位整固。即...",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F0992%2F0%2Fhk-stock-news%2F1&cb=c5bc7987b9",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00992/NOW.804946/hk-stock-news"
+    "image": "http://plib.aastocks.com/aafnnews/image/20170525181106396_mi.jpg",
+    "time": "2017/05/26 10:41",
+    "keywords": ["訊", "節目", "播放"]
   },
   {
     "code.i.": "0992",
-    "title": "《大行報告》里昂升聯想集團(00992.HK)目標價至4.88元 維持「沽售」評級",
+    "sentiment": 0.0948,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00992/NOW.804948/hk-stock-news",
+    "title": "《大行報告》裡昂升聯想集團(00992.HK)目標價至4.88元 維持「沽售」評級",
+    "text": "裡昂發表研究報告，指聯想集團(00992.HK)至3月底季度錄經營虧損，但有出售收益及稅務退款，以達至盈利效果，三項主要項目利潤惡化，管理層維持手機業務收支平衡、數據業務轉盈的目標，但主要現金來源，中國及個人電腦市場利潤...",
+    "image": "http://plib.aastocks.com/aafnnews/image/20140729141137725_mi.jpg",
     "time": "2017/05/26 10:38",
-    "text": "里昂發表研究報告，指聯想集團(00992.HK)至3月底季度錄經營虧損，但有出售收益及稅務退款，以達至盈利效果，三項主要項目利潤惡化，管理層維持手機業務收支平衡、數據業務轉盈的目標，但主要現金來源，中國及個人電腦市場利潤...",
-    "image": "http://plib.aastocks.com/aafnnews/image/20170525181106396_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/00992/NOW.804948/hk-stock-news"
+    "keywords": ["利潤", "底", "3"]
   },
   {
     "code.i.": "1038",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01038/NOW.803697/hk-stock-news",
     "title": "新西蘭總理與李澤鉅及甘慶林會面",
-    "time": "2017/05/19 15:16",
     "text": "新西蘭總理比爾‧英格利希(Bill English)及新西蘭駐港總領事Gabrielle Rush，今早於長江集團中心與長江基建(01038.HK)兼長江生命科技(00775.HK)主席李澤鉅及長建董事總經理甘慶林會面，...",
     "image": "http://plib.aastocks.com/aafnnews/image/20150909100809803_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01038/NOW.803697/hk-stock-news"
+    "time": "2017/05/19 15:16",
+    "keywords": ["長江", "新西蘭", "駐"]
   },
   {
     "code.i.": "1038",
+    "sentiment": 0.3202,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01038/NOW.801772/hk-stock-news",
     "title": "長建(01038.HK)股東建議拆細買賣股數 李澤鉅指會考慮",
-    "time": "2017/05/10 16:22",
     "text": "長江基建(01038.HK)今日(10日)舉行股東會，對於有股東提議拆細股份買賣股數，主席李澤鉅表示會考慮。被問到會否再提與電能實業(00006.HK)的重組，他表示暫時無考慮。對於會不會再有海外併購計劃，他回應說，公司...",
     "image": "http://plib.aastocks.com/aafnnews/image/20160513135920897_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01038/NOW.801772/hk-stock-news"
+    "time": "2017/05/10 16:22",
+    "keywords": ["會", "電能", "提"]
   },
   {
     "code.i.": "1038",
+    "sentiment": 0.884,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01038/NOW.800653/hk-stock-news",
     "title": "《大行報告》野村升長實地產(01113.HK)目標價至65.3元 本月迎最少三項催化劑",
-    "time": "2017/05/04 14:27",
     "text": "野村報告指出，長實地產(01113.HK)本月最少有三項催化劑，有助推動落後的股價追上同業。集團現價較每股資產淨值折讓54%，該行將其目標價由63.4元上調至65.3元，維持「買入」評級。該行預期，中環美利道商業地招標結...",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F1038%2F0%2Fhk-stock-news%2F1&cb=ba8665c083",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01038/NOW.800653/hk-stock-news"
-  },
-  {
-    "code.i.": "1038",
-    "title": "傳長江基建(01038.HK)斥資148億購西班牙天然氣分銷商",
-    "time": "2017/04/28 09:22",
-    "text": "西班牙媒體《西班牙經濟學家報》(El Economista)消息指，長江基建(01038.HK)擬斥資17.5億歐元(約148億港元)，洽購西班牙第三大天然氣分銷商Redexis。報道指出，目前Redexis的估值達到1...",
     "image": "http://plib.aastocks.com/aafnnews/image/20141008141355889_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01038/NOW.799789/hk-stock-news"
+    "time": "2017/05/04 14:27",
+    "keywords": ["價", "最少", "本月"]
   },
   {
     "code.i.": "1038",
-    "title": "瑞信對公用股最新投資評級及目標價(表)",
-    "time": "2017/04/26 10:34",
-    "text": "股份│投資評級│目標價(港元)長建(01038.HK)│跑贏大市│82元電能(00006.HK)│跑贏大市│78.5元中電(00002.HK)│跑輸大市│68元港燈(02638.HK)│跑輸大市│5.1元(ic/u)~阿...",
+    "sentiment": 0.9988,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01038/NOW.799789/hk-stock-news",
+    "title": "傳長江基建(01038.HK)斥資148億購西班牙天然氣分銷商",
+    "text": "西班牙媒體《西班牙經濟學家報》(El Economista)消息指，長江基建(01038.HK)擬斥資17.5億歐元(約148億港元)，洽購西班牙第三大天然氣分銷商Redexis。報道指出，目前Redexis的估值達到1...",
     "image": "http://plib.aastocks.com/aafnnews/image/20150911173043051_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01038/NOW.799219/hk-stock-news"
+    "time": "2017/04/28 09:22",
+    "keywords": ["西班牙", "大", "億"]
+  },
+  {
+    "code.i.": "1038",
+    "sentiment": 0.8602,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01038/NOW.799219/hk-stock-news",
+    "title": "瑞信對公用股最新投資評級及目標價(表)",
+    "text": "股份│投資評級│目標價(港元)長建(01038.HK)│跑贏大市│82元電能(00006.HK)│跑贏大市│78.5元中電(00002.HK)│跑輸大市│68元港燈(02638.HK)│跑輸大市│5.1元(ic/u)~阿...",
+    "image": "http://plib.aastocks.com/aafnnews/image/20150409171043023_mi.jpg",
+    "time": "2017/04/26 10:34",
+    "keywords": ["元", "跑", "贏大"]
   },
   {
     "code.i.": "1044",
+    "sentiment": 0.9815,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01044/NOW.803175/hk-stock-news",
     "title": "恆安(01044.HK)料木漿價格7月回落",
-    "time": "2017/05/17 11:47",
     "text": "恆安國際(01044.HK)行政總裁兼副主席許連捷在股東會後表示，木漿價格首季持續上升，3月後每個月每噸上升10-20美元，持續至5月份，料6月份持平，7月有望回落。他表示，新的小團隊經營模式5月已全面實施，成效有代觀察...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170517111629846_s.JPG",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01044/NOW.803175/hk-stock-news"
+    "time": "2017/05/17 11:47",
+    "keywords": ["月", "5", "后"]
   },
   {
     "code.i.": "1044",
+    "sentiment": 0.1732,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01044/NOW.802243/hk-stock-news",
     "title": "《大行報告》德銀：恆安(01044.HK)前景艱巨 市場期望過高",
-    "time": "2017/05/12 10:25",
     "text": "德銀發表研究報告，預期恆安(01044.HK)2016至2019年收入複合年增長率將放緩至3.3%，同期純利將持平於約33億元人民幣水平，料低於國際同業的純利複合年增長率(料有高單位數升幅)。該行認為市場對恆安(0104...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170321151933776_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01044/NOW.802243/hk-stock-news"
+    "time": "2017/05/12 10:25",
+    "keywords": ["復合年", "增長率", "純利"]
   },
   {
     "code.i.": "1044",
+    "sentiment": 0.8547,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01044/NOW.802227/hk-stock-news",
     "title": "*德銀：恆安(01044.HK)前景艱巨  市場期望過高",
-    "time": "2017/05/12 10:01",
     "text": "~阿思達克財經新聞網址: www.aastocks.com\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F1044%2F0%2Fhk-stock-news%2F1&cb=d2ba58be60",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01044/NOW.802227/hk-stock-news"
-  },
-  {
-    "code.i.": "1044",
-    "title": "《大行報告》高盛料優化國企指數或8月季檢時公布 料納入10間紅籌/民企",
-    "time": "2017/05/04 11:16",
-    "text": "高盛發表研究報告，料恆指公司最快8月公布優化國企指數結果，10月實施，10間紅籌及民企有望納入國指，料新成員比重上限5%。該行認為，金融股特別是保險股、券商股在指數中的比重將下跌15%，科技股、電訊股及地產股比重料分別上...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170321152105011_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01044/NOW.800595/hk-stock-news"
+    "time": "2017/05/12 10:01",
+    "keywords": ["新聞", "財經", "網址"]
   },
   {
     "code.i.": "1044",
-    "title": "*高盛料優化國企指數或8月季檢時公布  料納入10間紅籌/民企",
-    "time": "2017/05/04 10:38",
-    "text": "~阿思達克財經新聞網址: www.aastocks.com\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "sentiment": 0.999,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01044/NOW.800595/hk-stock-news",
+    "title": "《大行報告》高盛料優化國企指數或8月季檢時公布 料納入10間紅籌/民企",
+    "text": "高盛發表研究報告，料恆指公司最快8月公布優化國企指數結果，10月實施，10間紅籌及民企有望納入國指，料新成員比重上限5%。該行認為，金融股特別是保險股、券商股在指數中的比重將下跌15%，科技股、電訊股及地產股比重料分別上...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170321152115558_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01044/NOW.800566/hk-stock-news"
+    "time": "2017/05/04 11:16",
+    "keywords": ["比重", "股", "料"]
+  },
+  {
+    "code.i.": "1044",
+    "sentiment": 0.8547,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01044/NOW.800566/hk-stock-news",
+    "title": "*高盛料優化國企指數或8月季檢時公布  料納入10間紅籌/民企",
+    "text": "~阿思達克財經新聞網址: www.aastocks.com\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "image": "http://plib.aastocks.com/aafnnews/image/20170321151955120_mi.jpg",
+    "time": "2017/05/04 10:38",
+    "keywords": ["新聞", "財經", "網址"]
   },
   {
     "code.i.": "1088",
+    "sentiment": 0.0245,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01088/NOW.804909/hk-stock-news",
     "title": "惠譽上調神華(01088.HK)評級展望至「穩定」",
-    "time": "2017/05/26 09:41",
     "text": "評級機構惠譽發表報告，重申中國神華(01088.HK)「A+」的發行人違約評級，但上調評級展望，由「負面」升至「穩定」，主因相信其信用狀況較去年有轉好，並相信今年去槓桿過程持續。該行指，國際煤價復甦、運輸量增加，及成本下...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170117161704731_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01088/NOW.804909/hk-stock-news"
+    "time": "2017/05/26 09:41",
+    "keywords": ["評級", "(01088.HK)「A+」", "華"]
   },
   {
     "code.i.": "1088",
+    "sentiment": 0.9955,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01088/NOW.804420/hk-stock-news",
     "title": "《大行報告》野村首予神華(01088.HK)「買入」評級 目標價21.94元",
-    "time": "2017/05/24 10:19",
     "text": "野村發表研究報告，首予中國神華(01088.HK)「買入」評級。該行指，今、明兩財年神華每股盈利料按年分別升28%及降4%，主要受煤炭收入帶動，另料2019財年按年升5%，歸因發電產能貢獻。野村估算，神華2017至201...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170117161654169_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01088/NOW.804420/hk-stock-news"
+    "time": "2017/05/24 10:19",
+    "keywords": ["財年", "按年", "神華"]
   },
   {
     "code.i.": "1088",
+    "sentiment": 0.8547,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01088/NOW.804398/hk-stock-news",
     "title": "*野村首予神華(01088.HK)「買入」評級 目標價21.94元",
-    "time": "2017/05/24 09:49",
     "text": "~阿思達克財經新聞網址: www.aastocks.com",
     "image": "http://plib.aastocks.com/aafnnews/image/20140730140612530_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01088/NOW.804398/hk-stock-news"
+    "time": "2017/05/24 09:49",
+    "keywords": ["新聞", "財經", "網址"]
   },
   {
     "code.i.": "1088",
+    "sentiment": 0.0242,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01088/NOW.803845/hk-stock-news",
     "title": "中石油、中石化、神華及鞍鋼等11家央企人事調整",
-    "time": "2017/05/22 08:18",
     "text": "國資委官方微信號「國資小新」消息，部分中央企業人事進行調整，共涉及中石油、中海油、中石化、一汽、東風等11家央企。經研究，免去沈殿成、趙政璋中石油黨組成員職務，同意侯啟軍、段良偉、覃偉中為中石油副總經理人選，試用期一年；...",
     "image": "http://plib.aastocks.com/aafnnews/image/20151125161546966_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01088/NOW.803845/hk-stock-news"
+    "time": "2017/05/22 08:18",
+    "keywords": ["中", "石油", "國資"]
   },
   {
     "code.i.": "1088",
+    "sentiment": 0.4138,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01088/NOW.803452/hk-stock-news",
     "title": "據報內地或推新政限制煤炭進口",
-    "time": "2017/05/18 13:57",
     "text": "據《證券日報》報道，內地有關部門正在討論修改《關於嚴格控制劣質煤炭進口有關措施》，要求限制進口煤同比下降5%-10%(每月進口約1,500萬噸)；同時繼續引導市場煤價下行，力爭夏季高峰期前每噸回落到570元人民幣以內。(...",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F1088%2F0%2Fhk-stock-news%2F1&cb=646e1c8968",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01088/NOW.803452/hk-stock-news"
+    "image": "http://plib.aastocks.com/aafnnews/image/20170117161704731_mi.jpg",
+    "time": "2017/05/18 13:57",
+    "keywords": ["進口", "噸", "回落"]
   },
   {
     "code.i.": "1109",
+    "sentiment": 0.9666,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01109/NOW.804971/hk-stock-news",
     "title": "《大行報告》瑞信：熱錢於內房派息除淨前炒作 可能不會長久",
-    "time": "2017/05/26 11:41",
-    "text": "瑞信報告指出，相信近期內房股反彈，部份原因是熱錢於內房派息除淨前炒作，惟只是短期催化劑，可能不會長久。該行指，看到不少內地投資者喜愛銷量增幅最強的發展商，如碧桂園(02007.HK)、中國恆大(03333.HK)及融創(...",
+    "text": "瑞信報告指出，相信近期內房股反彈，部份原因是熱錢於內房派息除淨前炒作，惟隻是短期催化劑，可能不會長久。該行指，看到不少內地投資者喜愛銷量增幅最強的發展商，如碧桂園(02007.HK)、中國恆大(03333.HK)及融創(...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170117162218185_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01109/NOW.804971/hk-stock-news"
+    "time": "2017/05/26 11:41",
+    "keywords": ["內房", "銷量", "恆"]
   },
   {
     "code.i.": "1109",
+    "sentiment": 0.8547,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01109/NOW.804928/hk-stock-news",
     "title": "*瑞信：熱錢於內房派息除淨前炒作  可能不會長久  ",
-    "time": "2017/05/26 10:13",
     "text": "~阿思達克財經新聞網址: www.aastocks.com\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F1109%2F0%2Fhk-stock-news%2F1&cb=e06ebe7171",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01109/NOW.804928/hk-stock-news"
-  },
-  {
-    "code.i.": "1109",
-    "title": "《瑞信窩輪》騰訊回勇內險強勢，聯想績優內房抽升",
-    "time": "2017/05/26 09:24",
-    "text": "騰訊回勇內險強勢，留意騰訊購15657/中壽購27782美股近期轉趨強勢，道指連升5個交易日，周四高位曾升至21,100點以上，收市仍升約70點。標準普爾500指數及納斯達克指數更創收市新高。評級機構穆迪宣布，下調香港本...",
     "image": "http://plib.aastocks.com/aafnnews/image/20140626141709392_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01109/NOW.804888/hk-stock-news"
+    "time": "2017/05/26 10:13",
+    "keywords": ["新聞", "財經", "網址"]
   },
   {
     "code.i.": "1109",
-    "title": "中原：錦上路站第一期項目入標反應符預期",
-    "time": "2017/05/25 18:24",
-    "text": "西鐵錦上路站第一期物業發展項目，順延至今日截標，共接獲8份標書。中原測量師行執行董事張競達表示，項目享鐵路站優勢，具一定的吸引力，入標反應合符預期。今次主要是本地大型發展商及財團入標，中資只佔極少數，反映國內發展商對項目...",
+    "sentiment": 0.2607,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01109/NOW.804888/hk-stock-news",
+    "title": "《瑞信窩輪》騰訊回勇內險強勢，聯想績優內房抽升",
+    "text": "騰訊回勇內險強勢，留意騰訊購15657/中壽購27782美股近期轉趨強勢，道指連升5個交易日，周四高位曾升至21,100點以上，收市仍升約70點。標準普爾500指數及納斯達克指數更創收市新高。評級機構穆迪宣布，下調香港本...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170525143515100_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01109/NOW.804800/hk-stock-news"
+    "time": "2017/05/26 09:24",
+    "keywords": ["高", "點", "指數"]
   },
   {
     "code.i.": "1109",
-    "title": "港鐵(00066.HK)：錦上路站住宅項目共收8份標書",
-    "time": "2017/05/25 17:38",
-    "text": "港鐵(00066.HK)公布，今日(25日)截標的西鐵錦上路站上蓋第一期住宅項目共收到8份標書。據截標現場所見，會德豐(00020.HK)、恆地(00012.HK)及新世界(00017.HK)獨資入標；信置(00083....",
+    "sentiment": 0.3361,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01109/NOW.804800/hk-stock-news",
+    "title": "中原：錦上路站第一期項目入標反應符預期",
+    "text": "西鐵錦上路站第一期物業發展項目，順延至今日截標，共接獲8份標書。中原測量師行執行董事張競達表示，項目享鐵路站優勢，具一定的吸引力，入標反應合符預期。今次主要是本地大型發展商及財團入標，中資隻佔極少數，反映國內發展商對項目...",
     "image": "http://plib.aastocks.com/aafnnews/image/20150313145745303_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01109/NOW.804792/hk-stock-news"
+    "time": "2017/05/25 18:24",
+    "keywords": ["項目", "標", "發展"]
+  },
+  {
+    "code.i.": "1109",
+    "sentiment": 0.0958,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01109/NOW.804792/hk-stock-news",
+    "title": "港鐵(00066.HK)：錦上路站住宅項目共收8份標書",
+    "text": "港鐵(00066.HK)公布，今日(25日)截標的西鐵錦上路站上蓋第一期住宅項目共收到8份標書。據截標現場所見，會德豐(00020.HK)、恆地(00012.HK)及新世界(00017.HK)獨資入標；信置(00083....",
+    "image": "http://plib.aastocks.com/aafnnews/image/20140625181433937_mi.jpg",
+    "time": "2017/05/25 17:38",
+    "keywords": ["鐵", "截標", "標"]
   },
   {
     "code.i.": "1113",
+    "sentiment": 0.9098,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01113/NOW.804996/hk-stock-news",
     "title": "布少明：美聯統計海之戀新界區客源佔七成",
-    "time": "2017/05/26 13:07",
     "text": "長實地產(01113.HK)旗下荃灣海之戀今日開售，美聯物業住宅部行政總裁布少明表示，荃灣區過去幾年新盤供應有限，累積一定購買力，今日該行客戶出席率逾八成，當中約20%客人有意大手入市。他又指，以該行客戶統計，今次推售新...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170526132750235_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01113/NOW.804996/hk-stock-news"
+    "time": "2017/05/26 13:07",
+    "keywords": ["灣", "今日", "行政"]
   },
   {
     "code.i.": "1113",
+    "sentiment": 0.0043,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01113/NOW.804978/hk-stock-news",
     "title": "啟德商業地最少收12標",
-    "time": "2017/05/26 12:04",
     "text": "啟德第1F區2號商業地皮今午截標，據截標現場所見，政府最少收到12份標書。其中，華懋、華置(00127.HK)、會德豐(00020.HK)、長實地產(01113.HK)及南豐獨資入標；億京就夥拍資本策略(00497.HK...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170526115124511_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01113/NOW.804978/hk-stock-news"
+    "time": "2017/05/26 12:04",
+    "keywords": ["號", "標", "截標"]
   },
   {
     "code.i.": "1113",
+    "sentiment": 0.9964,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01113/NOW.804966/hk-stock-news",
     "title": "海之戀首日開售 趙國雄：年輕準買家佔約三分之二",
-    "time": "2017/05/26 11:30",
     "text": "長實地產(01113.HK)旗下荃灣西站上蓋樓盤「海之戀」首批496伙今日抽籤開售，執行董事趙國雄表示，對現場反應感到滿意，形容整體秩序良好。他又指，發展商不要求「一舖清袋」，選擇周五開售，因有全日時間讓買家選擇。趙氏又...",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F1113%2F0%2Fhk-stock-news%2F1&cb=f79540f735",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01113/NOW.804966/hk-stock-news"
-  },
-  {
-    "code.i.": "1113",
-    "title": "啟德商業地暫收8標",
-    "time": "2017/05/26 11:24",
-    "text": "啟德第1F區2號商業地皮今午截標，據截標現場所見，政府暫收到8份標書，其中，會德豐(00020.HK)、長實地產(01113.HK)及南豐獨資入標；中國海外(00688.HK)及世茂房地產(00813.HK)亦有派代表遞...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170525140957366_mi.JPG",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01113/NOW.804962/hk-stock-news"
+    "time": "2017/05/26 11:30",
+    "keywords": ["「", "」", "選擇"]
   },
   {
     "code.i.": "1113",
-    "title": "中原：錦上路站第一期項目入標反應符預期",
-    "time": "2017/05/25 18:24",
-    "text": "西鐵錦上路站第一期物業發展項目，順延至今日截標，共接獲8份標書。中原測量師行執行董事張競達表示，項目享鐵路站優勢，具一定的吸引力，入標反應合符預期。今次主要是本地大型發展商及財團入標，中資只佔極少數，反映國內發展商對項目...",
+    "sentiment": 0.0059,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01113/NOW.804962/hk-stock-news",
+    "title": "啟德商業地暫收8標",
+    "text": "啟德第1F區2號商業地皮今午截標，據截標現場所見，政府暫收到8份標書，其中，會德豐(00020.HK)、長實地產(01113.HK)及南豐獨資入標；中國海外(00688.HK)及世茂房地產(00813.HK)亦有派代表遞...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170525105614905_mi.JPG",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01113/NOW.804800/hk-stock-news"
+    "time": "2017/05/26 11:24",
+    "keywords": ["標", "號", "房地產"]
+  },
+  {
+    "code.i.": "1113",
+    "sentiment": 0.3361,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01113/NOW.804800/hk-stock-news",
+    "title": "中原：錦上路站第一期項目入標反應符預期",
+    "text": "西鐵錦上路站第一期物業發展項目，順延至今日截標，共接獲8份標書。中原測量師行執行董事張競達表示，項目享鐵路站優勢，具一定的吸引力，入標反應合符預期。今次主要是本地大型發展商及財團入標，中資隻佔極少數，反映國內發展商對項目...",
+    "image": "http://plib.aastocks.com/aafnnews/image/20170525140552194_mi.JPG",
+    "time": "2017/05/25 18:24",
+    "keywords": ["項目", "標", "發展"]
   },
   {
     "code.i.": "1299",
+    "sentiment": 0.6036,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01299/NOW.805020/hk-stock-news",
     "title": "《大行報告》大摩最新中港股票焦點股名單(表)",
-    "time": "2017/05/26 15:00",
     "text": "摩根士丹利發表報告，更新了該行的中港股票焦點股名單：股份│投資評級友邦(01299.HK)│增持中銀香港(02388.HK)│增持華晨中國(01114.HK)│增持 建設銀行(00939.HK)│增持中石化(00386....",
     "image": "http://plib.aastocks.com/aafnnews/image/20160408154959832_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01299/NOW.805020/hk-stock-news"
+    "time": "2017/05/26 15:00",
+    "keywords": ["增持", "焦點", "股"]
   },
   {
     "code.i.": "1299",
+    "sentiment": 0.0003,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01299/NOW.804705/hk-stock-news",
     "title": "友邦保險(01299.HK)延長與熱刺合作關係",
-    "time": "2017/05/25 12:05",
     "text": "友邦保險(01299.HK)宣布，延長及擴大與英超球會熱刺的合作夥伴關係。根據新協議，熱刺球員將會繼續穿著展示友邦保險的球衣出戰所有球賽，直至2021/22年賽季結束。隨著合作關係擴大，熱刺將會在亞洲長期派駐兩名精英教練...",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F1299%2F0%2Fhk-stock-news%2F1&cb=b7098e4e2f",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01299/NOW.804705/hk-stock-news"
-  },
-  {
-    "code.i.": "1299",
-    "title": "《匯豐輪證》 若覺得美加息有助提振友邦股價  可留意購16063 / 牛60429",
-    "time": "2017/05/25 11:27",
-    "text": "聯儲會議紀錄顯示，委員認為經濟前景面對的短期風險大致平衡，全球經濟風險正在減弱，根據彭博數據，利率期貨走勢顯示市場料6月有近乎100%機會加息。外圍氣氛持續好轉，美股造好標普500指數創收市新高。港股再創近兩年高位，友邦...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170512130624466_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01299/NOW.804700/hk-stock-news"
+    "time": "2017/05/25 12:05",
+    "keywords": ["會", "刺", "熱"]
   },
   {
     "code.i.": "1299",
-    "title": "《瑞信窩輪》港交向好、友邦整固，留意港交購28061 / 友邦購29240",
-    "time": "2017/05/17 11:30",
-    "text": "憧憬已久，人民銀行及金管局就「債券通」發聯合公告，初期先開通北向，無額度限制。港交所周三早段靠穩，重上198元並創一個月高，即市向上阻力留意200元心理關口，支持參考50天線約194元。周二有逾230萬元流入港交所認購證...",
+    "sentiment": 0.9999,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01299/NOW.804700/hk-stock-news",
+    "title": "《匯豐輪證》 若覺得美加息有助提振友邦股價  可留意購16063 / 牛60429",
+    "text": "聯儲會議紀錄顯示，委員認為經濟前景面對的短期風險大致平衡，全球經濟風險正在減弱，根據彭博數據，利率期貨走勢顯示市場料6月有近乎100%機會加息。外圍氣氛持續好轉，美股造好標普500指數創收市新高。港股再創近兩年高位，友邦...",
     "image": "http://plib.aastocks.com/aafnnews/image/20160815151415767_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01299/NOW.803170/hk-stock-news"
+    "time": "2017/05/25 11:27",
+    "keywords": ["顯示", "風險", "經濟"]
   },
   {
     "code.i.": "1299",
-    "title": "《中銀窩輪》瑞聲跌勢喘定，留意貼價購14569 /輕微價外購13496",
-    "time": "2017/05/16 11:38",
-    "text": "中銀國際股票衍生產品聯席董事葉匯豪：本港股市連升六個交易日後，今早表現反覆。恆指曾升至25400點以上，再升至廿二個月高位；之後由升轉跌。如看好恆指仍然強勢，可留意恆指認購證(29635)，行使價25100點，9月到期，...",
+    "sentiment": 0.0034,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01299/NOW.803170/hk-stock-news",
+    "title": "《瑞信窩輪》港交向好、友邦整固，留意港交購28061 / 友邦購29240",
+    "text": "憧憬已久，人民銀行及金管局就「債券通」發聯合公告，初期先開通北向，無額度限制。港交所周三早段靠穩，重上198元並創一個月高，即市向上阻力留意200元心理關口，支持參考50天線約194元。周二有逾230萬元流入港交所認購證...",
     "image": "http://plib.aastocks.com/aafnnews/image/20140926102455477_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01299/NOW.802896/hk-stock-news"
+    "time": "2017/05/17 11:30",
+    "keywords": ["元", "港", "上"]
+  },
+  {
+    "code.i.": "1299",
+    "sentiment": 0.9995,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01299/NOW.802896/hk-stock-news",
+    "title": "《中銀窩輪》瑞聲跌勢喘定，留意貼價購14569 /輕微價外購13496",
+    "text": "中銀國際股票衍生產品聯席董事葉匯豪：本港股市連升六個交易日後，今早表現反覆。恆指曾升至25400點以上，再升至廿二個月高位；之後由升轉跌。如看好恆指仍然強勢，可留意恆指認購證(29635)，行使價25100點，9月到期，...",
+    "image": "http://plib.aastocks.com/aafnnews/image/20160412161531341_mi.jpg",
+    "time": "2017/05/16 11:38",
+    "keywords": ["指", "恆", "月"]
   },
   {
     "code.i.": "1398",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01398/NOW.805038/hk-stock-news",
     "title": "《瑞銀窩輪》資金追捧內銀認購證  留意建行購15021中行購11865",
-    "time": "2017/05/26 16:30",
     "text": "內地股市上週四出現突破，上證指數上試3100點水平，主要受內銀和內險等金融股所帶動，而本港上市的內地金融股走勢亦強勁，平保(2318)上週五一度高見50.9港元的近兩年高位，建行(0939)週五亦一度上試本年的阻力位6....",
     "image": "http://plib.aastocks.com/aafnnews/image/20160106181546864_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01398/NOW.805038/hk-stock-news"
+    "time": "2017/05/26 16:30",
+    "keywords": ["試", "上", "金融"]
   },
   {
     "code.i.": "1398",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01398/NOW.805026/hk-stock-news",
     "title": "內地確實考慮在中間價報價模型引入逆週期因子",
-    "time": "2017/05/26 15:33",
     "text": "中國外匯交易中心自律機制秘書處就中間價報價有關問題回應指，中國確實考慮在人民幣對美元匯率中間價報價模型中引入逆週期因子，主要目的是適度對沖市場情緒的順周期波動，緩解外匯市場可能存在的「羊群效應」。該中心表示，當前中國外匯...",
     "image": "http://plib.aastocks.com/aafnnews/image/20140721154417851_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01398/NOW.805026/hk-stock-news"
+    "time": "2017/05/26 15:33",
+    "keywords": ["市場", "價", "報價"]
   },
   {
     "code.i.": "1398",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01398/NOW.804925/hk-stock-news",
     "title": "《中銀窩輪》內銀發力，留意建行購15585 /工行購14651 /中行購15586",
-    "time": "2017/05/26 10:08",
     "text": "中銀國際股票衍生產品聯席董事葉匯豪：美股繼續造好，標準普爾500指數與納斯達克指數創新高。本港股市今早承接升勢，恆生指數突破25700點水平，再向兩年高位進發。如繼續看好恆指，可留意恆指認購證(29637)，行使價258...",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F1398%2F0%2Fhk-stock-news%2F1&cb=3b5265cabe",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01398/NOW.804925/hk-stock-news"
-  },
-  {
-    "code.i.": "1398",
-    "title": "工行(01398.HK)首四個月網絡融資增600多億人幣",
-    "time": "2017/05/26 10:04",
-    "text": "工行(01398.HK)公布，截至4月末，網絡融資餘額已達6,904億元人民幣(下同)，較年初增長612億元，增幅達9.7%。在傳統貸款業務網絡化改造方面，工行加快將信貸資料收集、調查、審批、貸款發放的一些流程和環節向線...",
     "image": "http://plib.aastocks.com/aafnnews/image/20140627170521671_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01398/NOW.804926/hk-stock-news"
+    "time": "2017/05/26 10:08",
+    "keywords": ["指數", "指", "恆"]
   },
   {
     "code.i.": "1398",
-    "title": "《中銀窩輪》港股上試兩年高位，留意騰訊購16077 /平保購15718",
-    "time": "2017/05/26 09:21",
-    "text": "中銀國際股票衍生產品聯席董事葉匯豪：評級機構穆迪調低中國主權信貸評級對大市的影響短暫。美股回升，標準普爾500指數創收市新高；港股承接升勢升至廿二個月新高。恆生指數收報25630點，升202點。全日大市成交822億元。如...",
+    "sentiment": 0.2767,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01398/NOW.804926/hk-stock-news",
+    "title": "工行(01398.HK)首四個月網絡融資增600多億人幣",
+    "text": "工行(01398.HK)公布，截至4月末，網絡融資餘額已達6,904億元人民幣(下同)，較年初增長612億元，增幅達9.7%。在傳統貸款業務網絡化改造方面，工行加快將信貸資料收集、調查、審批、貸款發放的一些流程和環節向線...",
     "image": "http://plib.aastocks.com/aafnnews/image/20150508110300779_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01398/NOW.804883/hk-stock-news"
+    "time": "2017/05/26 10:04",
+    "keywords": ["貸款", "達", "億"]
+  },
+  {
+    "code.i.": "1398",
+    "sentiment": 0.1336,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01398/NOW.804883/hk-stock-news",
+    "title": "《中銀窩輪》港股上試兩年高位，留意騰訊購16077 /平保購15718",
+    "text": "中銀國際股票衍生產品聯席董事葉匯豪：評級機構穆迪調低中國主權信貸評級對大市的影響短暫。美股回升，標準普爾500指數創收市新高；港股承接升勢升至廿二個月新高。恆生指數收報25630點，升202點。全日大市成交822億元。如...",
+    "image": "http://plib.aastocks.com/aafnnews/image/20140626141918156_mi.jpg",
+    "time": "2017/05/26 09:21",
+    "keywords": ["市", "評級", "指數"]
   },
   {
     "code.i.": "1880",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01880/NOW.802925/hk-stock-news",
     "title": "百麗(01880.HK)首席執行官盛百椒：私有化後僅會留任兩至三年",
-    "time": "2017/05/16 13:03",
     "text": "百麗國際(01880.HK)首席執行官盛百椒指，公司面對現時局面，自己要承擔所有責任，認清自己未能把握轉型的機遇，亦不敢為了長遠目標而放棄短期利益，即使現時線上銷售表現不差，但仍未能彌補線下銷售的萎縮。他希望私有化後，公...",
     "image": "http://plib.aastocks.com/aafnnews/image/20161025131318471_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01880/NOW.802925/hk-stock-news"
+    "time": "2017/05/16 13:03",
+    "keywords": ["銷售", "不", "首席"]
   },
   {
     "code.i.": "1880",
+    "sentiment": 0.0114,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01880/NOW.802766/hk-stock-news",
     "title": "《藍籌業績》百麗(01880.HK)全年少賺18%至24億人幣 派息6分",
-    "time": "2017/05/16 08:08",
     "text": "百麗國際(01880.HK)公布截至今年2月底止年度業績顯示，股東應佔盈利24.03億元人民幣(下同)，按年跌18.09%，每股基本盈利29.38分，派末期息6分。期內，收入為417.07億元，按年升2.25%。毛利率由...",
     "image": "http://plib.aastocks.com/aafnnews/image/20160311142619281_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01880/NOW.802766/hk-stock-news"
+    "time": "2017/05/16 08:08",
+    "keywords": ["盈利", "按年", "億"]
   },
   {
     "code.i.": "1880",
+    "sentiment": 0.9865,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01880/NOW.802696/hk-stock-news",
     "title": "傳美銀美林正為百麗(01880.HK)私有化作280億聯貸安排",
-    "time": "2017/05/15 15:37",
     "text": "《路透》報道，美銀美林正為百麗(01880.HK)私有化安排280億元的聯貸，正尋求至少30億元的包銷承諾。提出私有化的要約人包括集團行政管理層、及包括高瓴HHBH、高瓴HHBG及SCBL在內的股權投資者，涉資531億元...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170511154714683_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01880/NOW.802696/hk-stock-news"
+    "time": "2017/05/15 15:37",
+    "keywords": ["億", "元", "私有化"]
   },
   {
     "code.i.": "1880",
+    "sentiment": 0.999,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01880/NOW.800346/hk-stock-news",
     "title": "《大行報告》瑞銀升百麗(01880.HK)評級至「買入」 料投資者接受私有化建議",
+    "text": "瑞銀發表研究報告，指百麗(01880.HK)的私有化方案，提出的價格為6.3元，溢價高達約20%，相信大部份的投資者都會接受要約，新目標價為6.3元，與要約價一致。該行指，目前大部份百麗的商店都隻有一名銷售員工，故再進一...",
+    "image": "http://plib.aastocks.com/aafnnews/image/20160311142619281_mi.jpg",
     "time": "2017/05/02 14:04",
-    "text": "瑞銀發表研究報告，指百麗(01880.HK)的私有化方案，提出的價格為6.3元，溢價高達約20%，相信大部份的投資者都會接受要約，新目標價為6.3元，與要約價一致。該行指，目前大部份百麗的商店都只有一名銷售員工，故再進一...",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F1880%2F0%2Fhk-stock-news%2F1&cb=742dc5f884",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01880/NOW.800346/hk-stock-news"
+    "keywords": ["價", "都", "百麗"]
   },
   {
     "code.i.": "1880",
+    "sentiment": 0.8547,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01880/NOW.800344/hk-stock-news",
     "title": "*瑞銀升百麗(01880.HK)評級至「買入」 料投資者接受私有化建議",
-    "time": "2017/05/02 13:57",
     "text": "~阿思達克財經新聞網址: www.aastocks.com\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
     "image": "http://plib.aastocks.com/aafnnews/image/20160311142619281_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01880/NOW.800344/hk-stock-news"
+    "time": "2017/05/02 13:57",
+    "keywords": ["新聞", "財經", "網址"]
   },
   {
     "code.i.": "1928",
+    "sentiment": 0.9999,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01928/NOW.804960/hk-stock-news",
     "title": "《大行報告》瑞信對濠賭股最新評級及目標價(表)",
-    "time": "2017/05/26 11:13",
     "text": "瑞信發表報告表示，更新了對濠賭股投資評級及目標價，表列如下。股份│投資評級│目標價(港元)銀河娛樂(00027.HK)│跑贏大市│49->58.5元新濠國際(00200.HK)│跑贏大市│18.2->25.5...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170117160518685_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01928/NOW.804960/hk-stock-news"
+    "time": "2017/05/26 11:13",
+    "keywords": ["濠", "跑", "贏大"]
   },
   {
     "code.i.": "1928",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01928/NOW.804965/hk-stock-news",
     "title": "《大行報告》瑞信料澳門今明兩年賭收可升18%及15% 上調濠賭股目標價",
-    "time": "2017/05/26 11:12",
     "text": "瑞信發表報告表示，濠賭股股價自早前頂部已回落4%至9%，估值沒有之前般高，認為是時候對相關股份重新審視。從基本面而言，澳門博彩收入已連續九個月呈現復甦(料澳門今年第二季賭收可如期達到20%增長)，同時對行業高毛利中場業務...",
     "image": "http://plib.aastocks.com/aafnnews/image/20150527095611809_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01928/NOW.804965/hk-stock-news"
+    "time": "2017/05/26 11:12",
+    "keywords": ["已", "高", "澳門"]
   },
   {
     "code.i.": "1928",
+    "sentiment": 0.9919,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01928/NOW.804503/hk-stock-news",
     "title": "《瑞銀窩輪》憧憬五月賭收高增長   留意銀娛購15471、金沙購15480",
-    "time": "2017/05/24 15:12",
     "text": "有券商為澳門的博彩業做了統計，指過去一星期日均收入按週大升26%，主要是澳門賭場及娛樂場所在全國人大委員長張德江訪問後開始回復正常，而近期的增長更加多來自貴賓廳收入，假如趨勢持續，本月的日均賭收有機會上升至6.9億元澳門...",
     "image": "http://plib.aastocks.com/aafnnews/image/20140626155835564_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01928/NOW.804503/hk-stock-news"
+    "time": "2017/05/24 15:12",
+    "keywords": ["澳門", "收入", "機會"]
   },
   {
     "code.i.": "1928",
+    "sentiment": 0.9978,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01928/NOW.804490/hk-stock-news",
     "title": "《大行報告》花旗引述銀娛(00027.HK)管理層：或考慮重建澳門百老匯",
-    "time": "2017/05/24 14:25",
     "text": "花旗發表報告，昨天舉行澳門博彩業投資者日，邀請了多間濠賭營運商的管理層參加，該行亦整理了相關股份管理層的最新看法。就銀河娛樂(00027.HK)管理層指，料旗下澳門新一期項目(包括酒店、博彩、會展等原素)建築工程快將啟動...",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F1928%2F0%2Fhk-stock-news%2F1&cb=d401432eb3",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01928/NOW.804490/hk-stock-news"
+    "image": "http://plib.aastocks.com/aafnnews/image/20140626155752277_mi.jpg",
+    "time": "2017/05/24 14:25",
+    "keywords": ["管理層", "博彩", "澳門"]
   },
   {
     "code.i.": "1928",
+    "sentiment": 0.0245,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01928/NOW.804408/hk-stock-news",
     "title": "澳門首四月博彩稅收入按年升11.5%",
-    "time": "2017/05/24 09:58",
     "text": "澳門財政局日前公布今年首四個月公共財政帳目，公共財政收入359億澳門元(下同)，按年升10.6%；當中博彩稅收入達299億元，按年升11.5%，該項稅收佔總收入83%。首四月，澳門公共財政開支為168.2億元，按年減4....",
-    "image": "http://plib.aastocks.com/aafnnews/image/20140626155752277_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/01928/NOW.804408/hk-stock-news"
+    "image": "http://plib.aastocks.com/aafnnews/image/20150527095637215_mi.jpg",
+    "time": "2017/05/24 09:58",
+    "keywords": ["按年", "億", "公共"]
   },
   {
     "code.i.": "2018",
+    "sentiment": 0.9504,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02018/NOW.804967/hk-stock-news",
     "title": "《摩通輪證》內險股突破年內高位  平保購14766 / 國壽購15769",
-    "time": "2017/05/26 11:34",
     "text": "外圍股市穩步向上，支持港繼續攀升，港股踏入「五窮」月未見回吐，突破25000點關口，後市或進一步挑戰26000點。市場聚焦下月美聯儲議息會議，5月會議紀要顯示不少決策者認為很快再次加息，按目前利率期貨市場預期，下月加息的...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170524121832073_s.JPG",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02018/NOW.804967/hk-stock-news"
+    "time": "2017/05/26 11:34",
+    "keywords": ["月", "點", "會議"]
   },
   {
     "code.i.": "2018",
+    "sentiment": 0.7318,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02018/NOW.804451/hk-stock-news",
     "title": "瑞聲(02018.HK)：現專注澄清公告工作 無與葛咸城聯繫",
-    "time": "2017/05/24 11:31",
     "text": "瑞聲科技(02018.HK)董事總經理莫祖權於股東會後指，目前正努力澄清公告工作，會盡快刊登，重申強烈否認沽空報告的陳述。他指，至今無與沽空機構葛咸城有任何聯繫，亦無意推測其下一份報告推出時間，但會保留對其法律責任的權利...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170524121653089_s.JPG",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02018/NOW.804451/hk-stock-news"
+    "time": "2017/05/24 11:31",
+    "keywords": ["空", "報告", "莫"]
   },
   {
     "code.i.": "2018",
+    "sentiment": 0.002,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02018/NOW.804448/hk-stock-news",
     "title": "瑞聲(02018.HK)：沽空報告極有誤導性 內容不屬實",
-    "time": "2017/05/24 11:27",
     "text": "瑞聲(02018.HK)行政總裁潘政民於股東會後，重申強烈否認沽空報告的內容，指有關內容是不屬實及極有誤導性。他指，公司一直跟隨聯交所的規定，目前正進行調查，並準備澄清公告，會盡快刊登，當中會包括有力回應，對於股東問題會...",
     "image": "http://plib.aastocks.com/aafnnews/image/20140626141733071_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02018/NOW.804448/hk-stock-news"
+    "time": "2017/05/24 11:27",
+    "keywords": ["會", "內容", "總裁"]
   },
   {
     "code.i.": "2018",
+    "sentiment": 0.981,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02018/NOW.804439/hk-stock-news",
     "title": "《大行報告》瑞信：iPhone 升級周期 首選舜宇(02382.HK)及ASM太平洋(00522.HK)",
-    "time": "2017/05/24 10:47",
     "text": "瑞信發表報告，預期蘋果新一代iPhone將於9月推出，惟OLED或延期1至2個月出貨，料2017/18/19年iPhone出貨量為2.29億部、2.5億部及2.7億部。ASM太平洋(00522.HK)和舜宇(02382....",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F2018%2F0%2Fhk-stock-news%2F1&cb=4019117b18",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02018/NOW.804439/hk-stock-news"
+    "time": "2017/05/24 10:47",
+    "keywords": ["iPhone", "出", "月"]
   },
   {
     "code.i.": "2018",
+    "sentiment": 0.8547,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02018/NOW.804409/hk-stock-news",
     "title": "*瑞信：iPhone 升級周期  首選舜宇(02382.HK)及ASM太平洋(00522.HK)",
-    "time": "2017/05/24 10:03",
     "text": "~阿思達克財經新聞網址: www.aastocks.com\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02018/NOW.804409/hk-stock-news"
+    "time": "2017/05/24 10:03",
+    "keywords": ["新聞", "財經", "網址"]
   },
   {
     "code.i.": "2318",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02318/NOW.805038/hk-stock-news",
     "title": "《瑞銀窩輪》資金追捧內銀認購證  留意建行購15021中行購11865",
-    "time": "2017/05/26 16:30",
     "text": "內地股市上週四出現突破，上證指數上試3100點水平，主要受內銀和內險等金融股所帶動，而本港上市的內地金融股走勢亦強勁，平保(2318)上週五一度高見50.9港元的近兩年高位，建行(0939)週五亦一度上試本年的阻力位6....",
     "image": "http://plib.aastocks.com/aafnnews/image/20140627170521671_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02318/NOW.805038/hk-stock-news"
+    "time": "2017/05/26 16:30",
+    "keywords": ["試", "上", "金融"]
   },
   {
     "code.i.": "2318",
+    "sentiment": 0.9504,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02318/NOW.804967/hk-stock-news",
     "title": "《摩通輪證》內險股突破年內高位  平保購14766 / 國壽購15769",
-    "time": "2017/05/26 11:34",
     "text": "外圍股市穩步向上，支持港繼續攀升，港股踏入「五窮」月未見回吐，突破25000點關口，後市或進一步挑戰26000點。市場聚焦下月美聯儲議息會議，5月會議紀要顯示不少決策者認為很快再次加息，按目前利率期貨市場預期，下月加息的...",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F2318%2F0%2Fhk-stock-news%2F1&cb=962374066d",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02318/NOW.804967/hk-stock-news"
-  },
-  {
-    "code.i.": "2318",
-    "title": "《高盛認股證牛熊證》內銀股急起追落後 看好可留意低街貨高槓桿建行購14375、中行購15606；平保創兩年新高，看好可考慮熱門條款平安購14875",
-    "time": "2017/05/26 11:16",
-    "text": "今早恆指窄幅上落，反觀內銀股走勢比較突出，普遍跑贏大市，建設銀行(0939)現報6.48元，上升0.06元或0.94%，成交金額約6.48億元。另一隻內銀股中國銀行(3988)現報3.9元，升0.02元或0.52%，成交...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170525143515100_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02318/NOW.804959/hk-stock-news"
+    "time": "2017/05/26 11:34",
+    "keywords": ["月", "點", "會議"]
   },
   {
     "code.i.": "2318",
-    "title": "《瑞信窩輪》騰訊回勇內險強勢，聯想績優內房抽升",
-    "time": "2017/05/26 09:24",
-    "text": "騰訊回勇內險強勢，留意騰訊購15657/中壽購27782美股近期轉趨強勢，道指連升5個交易日，周四高位曾升至21,100點以上，收市仍升約70點。標準普爾500指數及納斯達克指數更創收市新高。評級機構穆迪宣布，下調香港本...",
+    "sentiment": 0.0006,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02318/NOW.804959/hk-stock-news",
+    "title": "《高盛認股證牛熊證》內銀股急起追落後 看好可留意低街貨高槓桿建行購14375、中行購15606；平保創兩年新高，看好可考慮熱門條款平安購14875",
+    "text": "今早恆指窄幅上落，反觀內銀股走勢比較突出，普遍跑贏大市，建設銀行(0939)現報6.48元，上升0.06元或0.94%，成交金額約6.48億元。另一隻內銀股中國銀行(3988)現報3.9元，升0.02元或0.52%，成交...",
     "image": "http://plib.aastocks.com/aafnnews/image/20160816151109190_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02318/NOW.804888/hk-stock-news"
+    "time": "2017/05/26 11:16",
+    "keywords": ["元", "現報", "6.48"]
   },
   {
     "code.i.": "2318",
+    "sentiment": 0.2607,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02318/NOW.804888/hk-stock-news",
+    "title": "《瑞信窩輪》騰訊回勇內險強勢，聯想績優內房抽升",
+    "text": "騰訊回勇內險強勢，留意騰訊購15657/中壽購27782美股近期轉趨強勢，道指連升5個交易日，周四高位曾升至21,100點以上，收市仍升約70點。標準普爾500指數及納斯達克指數更創收市新高。評級機構穆迪宣布，下調香港本...",
+    "time": "2017/05/26 09:24",
+    "keywords": ["高", "點", "指數"]
+  },
+  {
+    "code.i.": "2318",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02318/NOW.804744/hk-stock-news",
     "title": "《大行報告》花旗料中國可避免大型金融危機 籲增持內險及內銀股",
-    "time": "2017/05/25 15:02",
     "text": "花旗發表研究報告，指中國政府自3月底收緊金融監管，影響中國實體經濟及金融市場。4月經濟數據轉弱、商品被拋售、融資市場利率上升、債息倒掛及A股市場下跌。但該行認為，有關事件對中國經濟影響僅屬輕微，因人民銀行有足夠彈藥應對。...",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02318/NOW.804744/hk-stock-news"
+    "time": "2017/05/25 15:02",
+    "keywords": ["經濟", "中國", "月"]
   },
   {
     "code.i.": "2319",
+    "sentiment": 0.7516,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02319/NOW.803575/hk-stock-news",
     "title": "蒙牛(02319.HK)發1.95億美元債券 可交換為現代牧業(01117.HK)股份",
-    "time": "2017/05/19 08:34",
     "text": "蒙牛(02319.HK)公布，發行本金總額約為1.95億美元無息債券，該債券可交換為現代牧業(01117.HK)股份。如果該債券按照初步名義交換價，每股2.1995元全數交換為現代牧業股份，將可換取6.89億股現代牧業股...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170511161111780_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02319/NOW.803575/hk-stock-news"
+    "time": "2017/05/19 08:34",
+    "keywords": ["億", "現代牧業", "交換"]
   },
   {
     "code.i.": "2319",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02319/NOW.801891/hk-stock-news",
     "title": "中國奶業協會：首季全國乳製品抽檢合格率達100%",
-    "time": "2017/05/11 08:23",
     "text": "據《證券日報》引述中國奶業協會會長高鴻賓在一論壇上表示，今年第一季度，全國乳製品抽檢合格率達到100%。在全球貿易自由化的今日，中國乳業面臨的挑戰不是進口奶的衝擊，而是來自國內消費者的消費信心。(ta/lf)~阿思達克財...",
     "image": "http://plib.aastocks.com/aafnnews/image/20140729141019647_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02319/NOW.801891/hk-stock-news"
+    "time": "2017/05/11 08:23",
+    "keywords": ["奶", "中國", "會長"]
   },
   {
     "code.i.": "2319",
+    "sentiment": 0.9981,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02319/NOW.798337/hk-stock-news",
     "title": "中糧集團啟動旗下金融板塊專業化公司中糧資本混改項目",
-    "time": "2017/04/21 08:46",
     "text": "中糧集團日前正式啟動了旗下金融板塊專業化公司中糧資本的混改項目，通過「增資+售股」，引入社會資本和員工持股，成為中糧集團加速混改的重要標誌。於4月19日，北京產權交易所披露了中糧資本投資有限公司的增資項目。中糧資本項目擬...",
     "image": "http://plib.aastocks.com/aafnnews/image/20140625181258923_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02319/NOW.798337/hk-stock-news"
+    "time": "2017/04/21 08:46",
+    "keywords": ["糧", "中", "資本"]
   },
   {
     "code.i.": "2319",
+    "sentiment": 0,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02319/NOW.797658/hk-stock-news",
     "title": "捏造蒙牛假新聞 造謠者內地被捕",
-    "time": "2017/04/18 11:46",
     "text": "國家食品藥品監督管理總局公布，一名涉嫌製作假新聞誣陷企業的犯罪嫌疑人日前被內蒙古和林警方抓獲。事件涉及蒙牛集團的謠言視頻。經警方調查發現，一段標有「剛剛發生、黃曲霉素超標、牛奶又出事了」等標題的視頻被大量轉載。此篇文章最...",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F2319%2F0%2Fhk-stock-news%2F1&cb=4b9daa1e02",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02319/NOW.797658/hk-stock-news"
+    "image": "http://plib.aastocks.com/aafnnews/image/20140625181258923_mi.jpg",
+    "time": "2017/04/18 11:46",
+    "keywords": ["警方", "日前", "嫌疑人"]
   },
   {
     "code.i.": "2319",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02319/NOW.796185/hk-stock-news",
     "title": "《大行報告》花旗薦中資六大主題投資(包括雄安新區)股份名單(表)",
-    "time": "2017/04/07 12:00",
     "text": "花旗發表報告，列出中資股六大主題投資，包括去產能、國企改革、雄安新區崛起、中美貿易爭執潛在輸家、消費升級、研發贏家的股份名單：(1)去產能(贏家)股份：洋河股份(002304.SZ)玖龍紙業(02689.HK)安徽海螺水...",
-    "image": "http://plib.aastocks.com/aafnnews/image/20140625181258923_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02319/NOW.796185/hk-stock-news"
+    "image": "http://plib.aastocks.com/aafnnews/image/20140729141019647_mi.jpg",
+    "time": "2017/04/07 12:00",
+    "keywords": ["家", "股份", "去產能"]
   },
   {
     "code.i.": "2388",
+    "sentiment": 5.4933e-06,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02388/NOW.805096/hk-stock-news",
     "title": "緊接渣打步伐 匯豐、中銀齊加H按息",
-    "time": "2017/05/27 10:24",
     "text": "繼渣打銀行昨日(26日)宣布下周一(29日)起上調H按息率10點子，至H加1.4厘後，匯豐銀行午夜公布，同日起，上調新造H按息率0.1厘，至H+1.4厘。該行稱，會繼續遵照該局規定，確保按揭業務審慎經營。此外，中銀香港(...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170525143515100_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02388/NOW.805096/hk-stock-news"
+    "time": "2017/05/27 10:24",
+    "keywords": ["H", "銀行", "按息"]
   },
   {
     "code.i.": "2388",
+    "sentiment": 0.6036,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02388/NOW.805020/hk-stock-news",
     "title": "《大行報告》大摩最新中港股票焦點股名單(表)",
-    "time": "2017/05/26 15:00",
     "text": "摩根士丹利發表報告，更新了該行的中港股票焦點股名單：股份│投資評級友邦(01299.HK)│增持中銀香港(02388.HK)│增持華晨中國(01114.HK)│增持 建設銀行(00939.HK)│增持中石化(00386....",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F2388%2F0%2Fhk-stock-news%2F1&cb=bb28dcfc2c",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02388/NOW.805020/hk-stock-news"
-  },
-  {
-    "code.i.": "2388",
-    "title": "中銀：穆迪降級未反映中港經濟實況 料影響有限",
-    "time": "2017/05/25 18:09",
-    "text": "評級機構穆迪昨日(24日)將中國的主權債務評級從「Aa3」下調一級到「A1」，同日晚上，再將香港的長期信用評級由「Aa1」下調至「Aa2」。中銀香港(02388.HK)首席經濟學家鄂志寰撰文指出，穆迪下調內地和香港評級的...",
     "image": "http://plib.aastocks.com/aafnnews/image/20161128104707083_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02388/NOW.804799/hk-stock-news"
+    "time": "2017/05/26 15:00",
+    "keywords": ["增持", "焦點", "股"]
   },
   {
     "code.i.": "2388",
-    "title": "恆指升幅擴至逾200點逼近25,700  中資金融內房股領漲",
-    "time": "2017/05/25 13:45",
-    "text": "恆指在中資金融及地產股帶動午後升幅擴至249點或近1%，報25,678，成交額501億元。中金建議內房股逢低吸納，分別給予潤地(01109.HK)及中國海外(00688.HK)目標價30.03元及31.62元，兩者股價續...",
+    "sentiment": 0.9991,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02388/NOW.804799/hk-stock-news",
+    "title": "中銀：穆迪降級未反映中港經濟實況 料影響有限",
+    "text": "評級機構穆迪昨日(24日)將中國的主權債務評級從「Aa3」下調一級到「A1」，同日晚上，再將香港的長期信用評級由「Aa1」下調至「Aa2」。中銀香港(02388.HK)首席經濟學家鄂志寰撰文指出，穆迪下調內地和香港評級的...",
     "image": "http://plib.aastocks.com/aafnnews/image/20141006172041905_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02388/RUM.170525_134531/hk-stock-news"
+    "time": "2017/05/25 18:09",
+    "keywords": ["評級", "香港", "下調"]
   },
   {
     "code.i.": "2388",
-    "title": "中銀香港(02388.HK)：跨境區塊鏈技術貿易融資  需與其他地區就法規進行討論",
-    "time": "2017/05/24 17:08",
-    "text": "中銀香港(02388.HK)應用區塊鏈技術於貿易融資上，該行交易銀行部副總經理蘇夢麟表示，冀未來可推廣至跨境貿易，以省卻文件傳送的時間。惟他表示，若涉及跨境貿易則牽涉不同地方之法規，目前金管局已牽頭與鄰近地區進行討論。有...",
+    "sentiment": 0.9947,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02388/RUM.170525_134531/hk-stock-news",
+    "title": "恆指升幅擴至逾200點逼近25,700  中資金融內房股領漲",
+    "text": "恆指在中資金融及地產股帶動午後升幅擴至249點或近1%，報25,678，成交額501億元。中金建議內房股逢低吸納，分別給予潤地(01109.HK)及中國海外(00688.HK)目標價30.03元及31.62元，兩者股價續...",
     "image": "http://plib.aastocks.com/aafnnews/image/20140923093352304_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02388/NOW.804535/hk-stock-news"
+    "time": "2017/05/25 13:45",
+    "keywords": ["元", "價", "海外"]
+  },
+  {
+    "code.i.": "2388",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02388/NOW.804535/hk-stock-news",
+    "title": "中銀香港(02388.HK)：跨境區塊鏈技術貿易融資  需與其他地區就法規進行討論",
+    "text": "中銀香港(02388.HK)應用區塊鏈技術於貿易融資上，該行交易銀行部副總經理蘇夢麟表示，冀未來可推廣至跨境貿易，以省卻文件傳送的時間。惟他表示，若涉及跨境貿易則牽涉不同地方之法規，目前金管局已牽頭與鄰近地區進行討論。有...",
+    "image": "http://plib.aastocks.com/aafnnews/image/20140626141941537_mi.jpg",
+    "time": "2017/05/24 17:08",
+    "keywords": ["貿易", "跨境", "鏈"]
   },
   {
     "code.i.": "2628",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02628/NOW.805038/hk-stock-news",
     "title": "《瑞銀窩輪》資金追捧內銀認購證  留意建行購15021中行購11865",
-    "time": "2017/05/26 16:30",
     "text": "內地股市上週四出現突破，上證指數上試3100點水平，主要受內銀和內險等金融股所帶動，而本港上市的內地金融股走勢亦強勁，平保(2318)上週五一度高見50.9港元的近兩年高位，建行(0939)週五亦一度上試本年的阻力位6....",
     "image": "http://plib.aastocks.com/aafnnews/image/20140627170521671_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02628/NOW.805038/hk-stock-news"
+    "time": "2017/05/26 16:30",
+    "keywords": ["試", "上", "金融"]
   },
   {
     "code.i.": "2628",
+    "sentiment": 0.9504,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02628/NOW.804967/hk-stock-news",
     "title": "《摩通輪證》內險股突破年內高位  平保購14766 / 國壽購15769",
-    "time": "2017/05/26 11:34",
     "text": "外圍股市穩步向上，支持港繼續攀升，港股踏入「五窮」月未見回吐，突破25000點關口，後市或進一步挑戰26000點。市場聚焦下月美聯儲議息會議，5月會議紀要顯示不少決策者認為很快再次加息，按目前利率期貨市場預期，下月加息的...",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F2628%2F0%2Fhk-stock-news%2F1&cb=75489a3622",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02628/NOW.804967/hk-stock-news"
-  },
-  {
-    "code.i.": "2628",
-    "title": "《瑞信窩輪》騰訊回勇內險強勢，聯想績優內房抽升",
-    "time": "2017/05/26 09:24",
-    "text": "騰訊回勇內險強勢，留意騰訊購15657/中壽購27782美股近期轉趨強勢，道指連升5個交易日，周四高位曾升至21,100點以上，收市仍升約70點。標準普爾500指數及納斯達克指數更創收市新高。評級機構穆迪宣布，下調香港本...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170525143515100_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02628/NOW.804888/hk-stock-news"
+    "time": "2017/05/26 11:34",
+    "keywords": ["月", "點", "會議"]
   },
   {
     "code.i.": "2628",
-    "title": "《大行報告》花旗料中國可避免大型金融危機 籲增持內險及內銀股",
-    "time": "2017/05/25 15:02",
-    "text": "花旗發表研究報告，指中國政府自3月底收緊金融監管，影響中國實體經濟及金融市場。4月經濟數據轉弱、商品被拋售、融資市場利率上升、債息倒掛及A股市場下跌。但該行認為，有關事件對中國經濟影響僅屬輕微，因人民銀行有足夠彈藥應對。...",
+    "sentiment": 0.2607,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02628/NOW.804888/hk-stock-news",
+    "title": "《瑞信窩輪》騰訊回勇內險強勢，聯想績優內房抽升",
+    "text": "騰訊回勇內險強勢，留意騰訊購15657/中壽購27782美股近期轉趨強勢，道指連升5個交易日，周四高位曾升至21,100點以上，收市仍升約70點。標準普爾500指數及納斯達克指數更創收市新高。評級機構穆迪宣布，下調香港本...",
     "image": "http://plib.aastocks.com/aafnnews/image/20160816151109190_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02628/NOW.804744/hk-stock-news"
+    "time": "2017/05/26 09:24",
+    "keywords": ["高", "點", "指數"]
   },
   {
     "code.i.": "2628",
-    "title": "《瑞銀窩輪》內地金融股強勢   留意建行購15223、平保購15698、A中購14658",
-    "time": "2017/05/25 14:51",
-    "text": "內地股市午後出現突破，上證指數上試3100點水平，主要受內銀和內險等金融股所帶動，而本港上市的內地金融股走勢亦強勁，平保(2318)挑戰50港元關口，國壽(2628)守穩25港元後再圖突破，建行(0939)升近6.5港元...",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02628/NOW.804744/hk-stock-news",
+    "title": "《大行報告》花旗料中國可避免大型金融危機 籲增持內險及內銀股",
+    "text": "花旗發表研究報告，指中國政府自3月底收緊金融監管，影響中國實體經濟及金融市場。4月經濟數據轉弱、商品被拋售、融資市場利率上升、債息倒掛及A股市場下跌。但該行認為，有關事件對中國經濟影響僅屬輕微，因人民銀行有足夠彈藥應對。...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170405164816555_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02628/NOW.804742/hk-stock-news"
+    "time": "2017/05/25 15:02",
+    "keywords": ["經濟", "中國", "月"]
+  },
+  {
+    "code.i.": "2628",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/02628/NOW.804742/hk-stock-news",
+    "title": "《瑞銀窩輪》內地金融股強勢   留意建行購15223、平保購15698、A中購14658",
+    "text": "內地股市午後出現突破，上證指數上試3100點水平，主要受內銀和內險等金融股所帶動，而本港上市的內地金融股走勢亦強勁，平保(2318)挑戰50港元關口，國壽(2628)守穩25港元後再圖突破，建行(0939)升近6.5港元...",
+    "time": "2017/05/25 14:51",
+    "keywords": ["港元", "金融", "股"]
   },
   {
     "code.i.": "3328",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/03328/NOW.804744/hk-stock-news",
     "title": "《大行報告》花旗料中國可避免大型金融危機 籲增持內險及內銀股",
-    "time": "2017/05/25 15:02",
     "text": "花旗發表研究報告，指中國政府自3月底收緊金融監管，影響中國實體經濟及金融市場。4月經濟數據轉弱、商品被拋售、融資市場利率上升、債息倒掛及A股市場下跌。但該行認為，有關事件對中國經濟影響僅屬輕微，因人民銀行有足夠彈藥應對。...",
     "image": "http://plib.aastocks.com/aafnnews/image/20140627170521671_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/03328/NOW.804744/hk-stock-news"
+    "time": "2017/05/25 15:02",
+    "keywords": ["經濟", "中國", "月"]
   },
   {
     "code.i.": "3328",
+    "sentiment": 0,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/03328/NOW.804650/hk-stock-news",
     "title": "穆迪下調農行(01288.HK)及三間政策性銀行評級",
-    "time": "2017/05/25 09:25",
     "text": "評級機構穆迪表示，下調一家中資銀行、三家政策性銀行和一家租賃公司的評級，並將一家銀行和兩家租賃公司的評級列入下調的複評名單。穆迪維持中國銀行(03988.HK)、建設銀行(00939.HK)及工商銀行(01398.HK)...",
     "image": "http://plib.aastocks.com/aafnnews/image/20140626141918156_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/03328/NOW.804650/hk-stock-news"
+    "time": "2017/05/25 09:25",
+    "keywords": ["銀行", "評級", "下調"]
   },
   {
     "code.i.": "3328",
+    "sentiment": 0.2693,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/03328/NOW.804237/hk-stock-news",
     "title": "摩通李晶：拆息上升不利小型內銀",
-    "time": "2017/05/23 15:52",
     "text": "近期上海銀行間同業拆放(SHIBOR)持續高企，摩根大通董事總經理兼亞太區副主席李晶表示，SHIBOR高企與流動性略緊有關，認為對大型內銀影響不大，但小型銀行短期流動性、資金成本、未來貸款增長或有影響。她指，大型銀行有龐...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170523153623703_s.JPG",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/03328/NOW.804237/hk-stock-news"
+    "time": "2017/05/23 15:52",
+    "keywords": ["銀行", "流動性", "影響"]
   },
   {
     "code.i.": "3328",
+    "sentiment": 0.5349,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/03328/NOW.804233/hk-stock-news",
     "title": "《瑞銀窩輪》招行跑贏內銀同業  留意認購15005",
-    "time": "2017/05/23 15:38",
     "text": "近日內險股顯著造好，內銀股板塊則相對落後，但其中招商銀行(3968)今個月走勢凌厲，月初股價20港元水平失而復得，本週二(23日)短短2個多星期便升最多接近2成，高見23.55港元。招急短升急升並跑贏同業，受惠有分析師唱...",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F3328%2F0%2Fhk-stock-news%2F1&cb=1f13508f05",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/03328/NOW.804233/hk-stock-news"
+    "image": "http://plib.aastocks.com/aafnnews/image/20170522150251290_mi.jpg",
+    "time": "2017/05/23 15:38",
+    "keywords": ["月", "股", "港元"]
   },
   {
     "code.i.": "3328",
+    "sentiment": 0.0001,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/03328/NOW.804097/hk-stock-news",
     "title": "據報深圳建行取消首套房貸利率9折優惠",
-    "time": "2017/05/23 09:06",
     "text": "據《證券時報》報道，建行(00939.HK)(601939.SH)深圳分行自昨日(22日)起，首套住房貸款利率按不低於基準利率執行，取消早前9折的優惠政策，顯示深圳地區商業銀行放貸業務收緊跡象明顯。據了解，目前中國銀行(...",
-    "image": "http://plib.aastocks.com/aafnnews/image/20170522150251290_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/03328/NOW.804097/hk-stock-news"
+    "image": "http://plib.aastocks.com/aafnnews/image/20170511154254340_mi.jpg",
+    "time": "2017/05/23 09:06",
+    "keywords": ["深圳", "利率", "銀行"]
   },
   {
     "code.i.": "3988",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/03988/NOW.805038/hk-stock-news",
     "title": "《瑞銀窩輪》資金追捧內銀認購證  留意建行購15021中行購11865",
-    "time": "2017/05/26 16:30",
     "text": "內地股市上週四出現突破，上證指數上試3100點水平，主要受內銀和內險等金融股所帶動，而本港上市的內地金融股走勢亦強勁，平保(2318)上週五一度高見50.9港元的近兩年高位，建行(0939)週五亦一度上試本年的阻力位6....",
     "image": "http://plib.aastocks.com/aafnnews/image/20140627170521671_s.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/03988/NOW.805038/hk-stock-news"
+    "time": "2017/05/26 16:30",
+    "keywords": ["試", "上", "金融"]
   },
   {
     "code.i.": "3988",
+    "sentiment": 0.0006,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/03988/NOW.804959/hk-stock-news",
     "title": "《高盛認股證牛熊證》內銀股急起追落後 看好可留意低街貨高槓桿建行購14375、中行購15606；平保創兩年新高，看好可考慮熱門條款平安購14875",
-    "time": "2017/05/26 11:16",
     "text": "今早恆指窄幅上落，反觀內銀股走勢比較突出，普遍跑贏大市，建設銀行(0939)現報6.48元，上升0.06元或0.94%，成交金額約6.48億元。另一隻內銀股中國銀行(3988)現報3.9元，升0.02元或0.52%，成交...",
-    "image": "http://hkg8.aastocks.com/ad/delivery/lg.php?bannerid=16656&campaignid=8546&zoneid=620&loc=http%3A%2F%2Fwww.aastocks.com%2Ftc%2Fstocks%2Fanalysis%2Fstock-aafn%2F3988%2F0%2Fhk-stock-news%2F1&cb=d85ed0699f",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/03988/NOW.804959/hk-stock-news"
-  },
-  {
-    "code.i.": "3988",
-    "title": "《中銀窩輪》內銀發力，留意建行購15585 /工行購14651 /中行購15586",
-    "time": "2017/05/26 10:08",
-    "text": "中銀國際股票衍生產品聯席董事葉匯豪：美股繼續造好，標準普爾500指數與納斯達克指數創新高。本港股市今早承接升勢，恆生指數突破25700點水平，再向兩年高位進發。如繼續看好恆指，可留意恆指認購證(29637)，行使價258...",
     "image": "http://plib.aastocks.com/aafnnews/image/20140626141918156_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/03988/NOW.804925/hk-stock-news"
+    "time": "2017/05/26 11:16",
+    "keywords": ["元", "現報", "6.48"]
   },
   {
     "code.i.": "3988",
-    "title": "《大行報告》花旗料中國可避免大型金融危機 籲增持內險及內銀股",
-    "time": "2017/05/25 15:02",
-    "text": "花旗發表研究報告，指中國政府自3月底收緊金融監管，影響中國實體經濟及金融市場。4月經濟數據轉弱、商品被拋售、融資市場利率上升、債息倒掛及A股市場下跌。但該行認為，有關事件對中國經濟影響僅屬輕微，因人民銀行有足夠彈藥應對。...",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/03988/NOW.804925/hk-stock-news",
+    "title": "《中銀窩輪》內銀發力，留意建行購15585 /工行購14651 /中行購15586",
+    "text": "中銀國際股票衍生產品聯席董事葉匯豪：美股繼續造好，標準普爾500指數與納斯達克指數創新高。本港股市今早承接升勢，恆生指數突破25700點水平，再向兩年高位進發。如繼續看好恆指，可留意恆指認購證(29637)，行使價258...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170523153623703_mi.JPG",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/03988/NOW.804744/hk-stock-news"
+    "time": "2017/05/26 10:08",
+    "keywords": ["指數", "指", "恆"]
   },
   {
     "code.i.": "3988",
-    "title": "《瑞銀窩輪》內地金融股強勢   留意建行購15223、平保購15698、A中購14658",
-    "time": "2017/05/25 14:51",
-    "text": "內地股市午後出現突破，上證指數上試3100點水平，主要受內銀和內險等金融股所帶動，而本港上市的內地金融股走勢亦強勁，平保(2318)挑戰50港元關口，國壽(2628)守穩25港元後再圖突破，建行(0939)升近6.5港元...",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/03988/NOW.804744/hk-stock-news",
+    "title": "《大行報告》花旗料中國可避免大型金融危機 籲增持內險及內銀股",
+    "text": "花旗發表研究報告，指中國政府自3月底收緊金融監管，影響中國實體經濟及金融市場。4月經濟數據轉弱、商品被拋售、融資市場利率上升、債息倒掛及A股市場下跌。但該行認為，有關事件對中國經濟影響僅屬輕微，因人民銀行有足夠彈藥應對。...",
     "image": "http://plib.aastocks.com/aafnnews/image/20170522150251290_mi.jpg",
-    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/03988/NOW.804742/hk-stock-news"
+    "time": "2017/05/25 15:02",
+    "keywords": ["經濟", "中國", "月"]
+  },
+  {
+    "code.i.": "3988",
+    "sentiment": 1,
+    "links": "http://www.aastocks.com/tc/stocks/analysis/stock-aafn-content/03988/NOW.804742/hk-stock-news",
+    "title": "《瑞銀窩輪》內地金融股強勢   留意建行購15223、平保購15698、A中購14658",
+    "text": "內地股市午後出現突破，上證指數上試3100點水平，主要受內銀和內險等金融股所帶動，而本港上市的內地金融股走勢亦強勁，平保(2318)挑戰50港元關口，國壽(2628)守穩25港元後再圖突破，建行(0939)升近6.5港元...",
+    "image": "http://plib.aastocks.com/aafnnews/image/20140625104855222_mi.jpg",
+    "time": "2017/05/25 14:51",
+    "keywords": ["港元", "金融", "股"]
   }
 ]

@@ -1,4 +1,6 @@
 import json
+import io
+
 
 users = {
  'carson': {
@@ -11,5 +13,5 @@ users = {
  }
 }
 
-with open('news_v2.json') as data_file:
+with io.open('news_v2.json','r',encoding='utf8') as data_file:
     news = json.load(data_file)
