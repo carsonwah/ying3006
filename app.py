@@ -66,6 +66,7 @@ def buy():
     share = request.form['share']
     model.update_user_by_code(session['user']['id'], code, float(share))
     model.update()
+    print model.R
     prediction = model.predict(session['user']['id'])
     session['prediction_indexes'] = prediction.columns.values.tolist()
     session['prediction_values'] = prediction.values.tolist()[0]
@@ -86,8 +87,8 @@ def sell():
 def get_user_portfolio(userid):
     user_row = model.R[userid]
     user_portfolio_index = []
-    for i in xrange(len(user_row)):
-        if user_row[i] != 0:
+    for i in xrange(len(user_row)): # filter out stocks that did not buy
+        if user_row[i] >= 0.01:
             user_portfolio_index += [i]
     user_portfolio = {}
     for index in user_portfolio_index:

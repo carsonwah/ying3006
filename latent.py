@@ -63,7 +63,7 @@ class LatentFactorModel():
         previous_e = 0
         # R = numpy.divide(R, R.sum(axis=1)[:,None], where=R.sum(axis=1)[:,None]>=0.01)
         new_R = []
-        for row in R:
+        for row in numpy.copy(R):
             if sum(row) <= 0.01:
                 new_R.append(row)
             else:
@@ -108,6 +108,10 @@ class LatentFactorModel():
     def update_user_by_code(self, user, code, share):
         index = self.codes.index(code)
         value = share * float(self.prices[index])
+        print 'update user', user
+        print 'share:', share
+        print 'price:', float(self.prices[index])
+        print 'new value is: ', value
         self.R[user][index] += share
         if self.R[user][index] < 0.0:
             self.R[user][index] = 0
