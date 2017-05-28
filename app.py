@@ -65,6 +65,7 @@ def buy():
     share = request.form['share']
     model.update_user_by_code(session['user']['id'], code, float(share))
     model.update()
+    prediction = model.predict(session['user']['id'])
     session['prediction_indexes'] = prediction.columns.values.tolist()
     session['prediction_values'] = prediction.values.tolist()[0]
     print 'New prediction: ', session['prediction_indexes']
