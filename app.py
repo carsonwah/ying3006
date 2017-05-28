@@ -15,12 +15,14 @@ def index():
         user_portfolio = get_user_portfolio(session['user']['id'])
         user_suggestion = get_user_suggestion()
         result = []
+        user_holding_news = []
         for i in xrange(5):
             for code in user_portfolio:
                 result += [db.news[code][i]]
+                user_holding_news += [db.news[code][i]]
             for suggestion in user_suggestion:
                 result += [db.news[suggestion][i]]
-        return render_template('news_feed.html', user=session['user'], news=result, other_news=db.news)
+        return render_template('news_feed.html', user=session['user'], news=result, other_news=db.news, user_holding_news=user_holding_news)
     else:
         return redirect(url_for('login'))
 
