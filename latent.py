@@ -112,7 +112,7 @@ class LatentFactorModel():
         print 'share:', share
         print 'price:', float(self.prices[index])
         print 'new value is: ', value
-        self.R[user][index] += share
+        self.R[user][index] += value
         if self.R[user][index] < 0.0:
             self.R[user][index] = 0
 
