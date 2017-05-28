@@ -84,6 +84,9 @@ def sell():
     share = request.form['share']
     model.update_user_by_code(session['user']['id'], code, -float(share))
     model.update()
+    print '>>>>>>>> model.R: <<<<<<<<'
+    print model.R
+    print model.approximate_df
     prediction = model.predict(session['user']['id'])
     session['prediction_indexes'] = prediction.columns.values.tolist()
     session['prediction_values'] = prediction.values.tolist()[0]
