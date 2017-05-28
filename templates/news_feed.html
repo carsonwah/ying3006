@@ -1,5 +1,9 @@
 {% extends "base.html" %}
 
+{% block title %}股匯{% endblock %}
+
+{% block subtitle %}熱點新聞{% endblock %}
+
 {% block main %}
 <style>
 .demo-card-wide.mdl-card {
@@ -22,7 +26,7 @@
         <div class="mdl-tabs__panel is-active" id="tab1-panel">
           <div class="mdl-grid">
             {% for n in news %}
-            <div class="mdl-cell">
+            <div class="mdl-cell mdl-cell--4-col mdl-cell--8-col-tablet mdl-cell--4-col-phone">
               <div class="demo-card-wide mdl-card mdl-shadow--2dp">
                 <div class="mdl-card__title" style="background: url('{{ n['image'] }}') center / cover;">
                   <h2 class="mdl-card__title-text" style="font-size:18px; background-color: rgba(18, 33, 0, 0.4);">{{ n['title'] }}</h2>
@@ -32,11 +36,6 @@
                   <div style="text-align:right;">
                     {{ n['time'] }}
                   </div>
-                </div>
-                <div class="mdl-card__actions mdl-card--border">
-                  <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
-                    Get Started
-                  </a>
                 </div>
                 <div class="mdl-card__menu">
                   <button class="mdl-button mdl-button--icon mdl-js-button mdl-js-ripple-effect">
@@ -62,11 +61,6 @@
                     <div style="text-align:right;">
                       {{ n['time'] }}
                     </div>
-                  </div>
-                  <div class="mdl-card__actions mdl-card--border">
-                    <a class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
-                      Get Started
-                    </a>
                   </div>
                   <div class="mdl-card__menu">
                     <button class="mdl-button mdl-button--icon mdl-js-button mdl-js-ripple-effect">
