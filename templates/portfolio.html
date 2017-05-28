@@ -9,23 +9,6 @@
 }
 </style>
 
-<div class="mdl-grid">
-  <h4>持有股票</h4>
-  <table class="full-width mdl-data-table mdl-js-data-table mdl-data-table--selectable mdl-shadow--2dp">
-    <tbody>
-      {% for code in portfolios %}
-      <tr>
-        <td class="mdl-data-table__cell--non-numeric">
-          <h4>{{ portfolios[code]['name'] }}</h4>
-          <div>{{ code }}</div>
-        </td>
-        <td>{{ portfolios[code]['price'] }}</td>
-        <td><i class="fa {{ 'fa-arrow-up' if portfolios[code]['percentage_change'] > 0 else 'fa-arrow-down'}}"></i> {{ portfolios[code]['percentage_change'] if portfolios[code]['percentage_change'] > 0 else portfolios[code]['percentage_change'] * -1 }}%</td>
-      </tr>
-      {% endfor %}
-    </tbody>
-  </table>
-</div>
 
 <div class="mdl-grid">
   <h4>股票交易</h4>
@@ -51,7 +34,14 @@
 
 <div class="mdl-grid">
   <h4>你可能有興趣的股票</h4>
-  <table class="full-width mdl-data-table mdl-js-data-table mdl-data-table--selectable mdl-shadow--2dp">
+  <table class="full-width mdl-data-table mdl-js-data-table mdl-shadow--2dp">
+    <thead>
+      <tr>
+        <th style="text-align:center;">股票</th>
+        <th style="text-align:center;">股價</th>
+        <th style="text-align:center;">升跌</th>
+      </tr>
+    </thead>
     <tbody>
       {% for code in suggestions %}
       <tr>
@@ -59,8 +49,35 @@
           <h4>{{suggestions[code]['name']}}</h4>
           <div>{{ code }}</div>
         </td>
-        <td>{{ suggestions[code]['price'] }}</td>
-        <td><i class="fa {{ 'fa-arrow-up' if suggestions[code]['percentage_change'] > 0 else 'fa-arrow-down'}}"></i> {{ suggestions[code]['percentage_change'] if suggestions[code]['percentage_change'] > 0 else suggestions[code]['percentage_change'] * -1 }}%</td>
+        <td>${{ suggestions[code]['price'] }}</td>
+        <td><i class="fa {{ 'fa-arrow-up' if suggestions[code]['percentage_change'] >= 0 else 'fa-arrow-down'}}"></i> {{ suggestions[code]['percentage_change'] if suggestions[code]['percentage_change'] >= 0 else suggestions[code]['percentage_change'] * -1 }}%</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+
+<div class="mdl-grid">
+  <h4>持有股票</h4>
+  <table class="full-width mdl-data-table mdl-js-data-table mdl-shadow--2dp">
+    <thead>
+      <tr>
+        <th style="text-align:center;">股票</th>
+        <th style="text-align:center;">持有</th>
+        <th style="text-align:center;">股價</th>
+        <th style="text-align:center;">升跌</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for code in portfolios %}
+      <tr>
+        <td class="mdl-data-table__cell--non-numeric">
+          <h4>{{ portfolios[code]['name'] }}</h4>
+          <div>{{ code }}</div>
+        </td>
+        <td>${{ portfolios[code]['value_bought'] }}</td>
+        <td>${{ portfolios[code]['price'] }}</td>
+        <td><i class="fa {{ 'fa-arrow-up' if portfolios[code]['percentage_change'] >= 0 else 'fa-arrow-down'}}"></i> {{ portfolios[code]['percentage_change'] if portfolios[code]['percentage_change'] >= 0 else portfolios[code]['percentage_change'] * -1 }}%</td>
       </tr>
       {% endfor %}
     </tbody>
