@@ -3,3 +3,9 @@
 # how to start
 
 `python app.py`
+
+# Dependencies
+
+* numpy
+* pandas
+* flask
