@@ -34,7 +34,7 @@ def login():
         print 'Initial prediction: ', session['prediction_indexes']
         return redirect(url_for('index'))
     else:
-        return render_template('login.html', user=false)
+        return render_template('login.html')
 
 @app.route('/logout')
 def logout():

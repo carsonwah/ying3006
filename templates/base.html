@@ -9,6 +9,11 @@
 
     <!--Let browser know website is optimized for mobile-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <style media="screen">
+      body {
+        background-color: #ececec;
+      }
+    </style>
   </head>
   <body>
     <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
@@ -26,11 +31,12 @@
         </div>
       </header>
       <div class="mdl-layout__drawer">
-        <span class="mdl-layout-title">Title</span>
         <nav class="mdl-navigation">
           {% if user %}
           <a class="mdl-navigation__link" href="#"><i class="fa fa-user"></i> &nbsp; &nbsp;{{ user['username'] }}</a>
+          <a class="mdl-navigation__link" href="/logout">Logout</a>
           {% endif %}
+          <hr>
           <a class="mdl-navigation__link" href="/">News Feed</a>
           <a class="mdl-navigation__link" href="/portfolio">Portfolio</a>
         </nav>
