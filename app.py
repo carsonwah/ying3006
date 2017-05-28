@@ -18,7 +18,8 @@ def index():
         for i in xrange(5):
             for code in user_portfolio:
                 result += [db.news[code][i]]
-
+            for suggestion in user_suggestion:
+                result += [db.news[suggestion][i]]
         return render_template('news_feed.html', user=session['user'], news=result, other_news=db.news)
     else:
         return redirect(url_for('login'))
@@ -69,7 +70,7 @@ def buy():
     session['prediction_indexes'] = prediction.columns.values.tolist()
     session['prediction_values'] = prediction.values.tolist()[0]
     print 'New prediction: ', session['prediction_indexes']
-    return 'ok'
+    return redirect(url_for('portfolio'))
 
 def sell():
     code = request.form['code']
@@ -80,7 +81,7 @@ def sell():
     session['prediction_indexes'] = prediction.columns.values.tolist()
     session['prediction_values'] = prediction.values.tolist()[0]
     print 'New prediction: ', session['prediction_indexes']
-    return 'ok'
+    return redirect(url_for('portfolio'))
 
 def get_user_portfolio(userid):
     user_row = model.R[userid]
@@ -94,7 +95,8 @@ def get_user_portfolio(userid):
         stock_name = names[index]
         stock_price = prices[index]
         stock_percentage_change = float(percentage_changes[index])
-        user_portfolio[stock_code] = {'name':stock_name,'price':stock_price,'percentage_change':stock_percentage_change}
+        value_bought = user_row[index]
+        user_portfolio[stock_code] = {'name':stock_name,'price':stock_price,'percentage_change':stock_percentage_change,'value_bought':value_bought}
     return user_portfolio
 
 # set the secret key.  keep this really secret:

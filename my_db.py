@@ -3,12 +3,24 @@ import io
 
 
 users = {
+ 'terence': {
+   'id': 1,
+   'username': 'terence'
+ },
  'carson': {
    'id': 2,
    'username': 'carson'
  },
- 'john':{
+ 'handason':{
    'id': 3,
+   'username': 'handason'
+ },
+ 'chris':{
+   'id': 4,
+   'username': 'chris'
+ },
+ 'john':{
+   'id': 5,
    'username': 'john'
  }
 }
