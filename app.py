@@ -65,10 +65,13 @@ def transaction():
 
 def buy():
     code = request.form['code']
+    code = convert_into_valid_code(code)
     share = request.form['share']
     model.update_user_by_code(session['user']['id'], code, float(share))
     model.update()
+    print '>>>>>>>> model.R: <<<<<<<<'
     print model.R
+    print model.approximate_df
     prediction = model.predict(session['user']['id'])
     session['prediction_indexes'] = prediction.columns.values.tolist()
     session['prediction_values'] = prediction.values.tolist()[0]
@@ -77,6 +80,7 @@ def buy():
 
 def sell():
     code = request.form['code']
+    code = convert_into_valid_code(code)
     share = request.form['share']
     model.update_user_by_code(session['user']['id'], code, -float(share))
     model.update()
@@ -114,6 +118,10 @@ def get_user_suggestion():
         stock_percentage_change = float(percentage_changes[index])
         user_suggestion[stock_code] = {'name':stock_name,'price':stock_price,'percentage_change':stock_percentage_change}
     return user_suggestion
+
+def convert_into_valid_code(code):
+    num_of_zero_padding = 4-len(code)
+    return '0'*num_of_zero_padding+code
 
 if __name__ == "__main__":
     model = latent.LatentFactorModel()
