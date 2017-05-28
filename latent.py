@@ -24,7 +24,7 @@ class LatentFactorModel():
         # print(numpy.shape(numpy.array(self.R)))
         self.df = pd.DataFrame(self.R)
 
-        self.R = numpy.array(self.R)
+        self.R = numpy.array(self.R, dtype=numpy.float64)
 
         N = len(self.R)
         M = len(self.R[0])
@@ -61,12 +61,7 @@ class LatentFactorModel():
     def matrix_factorization(self, R, P, Q, K, steps=2000000, alpha=0.0002, beta=0.02):
         Q = Q.T
         previous_e = 0
-        # R = numpy.divide(R, R.sum(axis=1)[:,None], where=R.sum(axis=1)[:,None]!=0)
-        normalized_R = []
-        for row in R:
-            row = row/sum(row)
-            normalized_R = normalized_R + [row]
-        R = normalized_R
+        R = numpy.divide(R, R.sum(axis=1)[:,None], where=R.sum(axis=1)[:,None]!=0)
         for step in range(steps):
             for i in range(len(R)):
                 for j in range(len(R[i])):
