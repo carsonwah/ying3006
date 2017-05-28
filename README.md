@@ -2,4 +2,4 @@
 
 # how to start
 
-`python app.js`
+`python app.py`
