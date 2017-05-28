@@ -1,5 +1,6 @@
-This is a prototype for our portfolio recommendation news assistant(PRENA)
+This is a HTML prototype for our portfolio recommendation news assistant(PRENA)
 The prototype can be found at:
+
 This functionality, once embedded in stock brokeage account, takes advantage of the meta data of the firm to save clients' time in extracting portfolio-relevant news feed
 
 Mechanism:
