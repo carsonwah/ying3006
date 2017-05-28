@@ -49,6 +49,9 @@ def logout():
 @app.route('/portfolio', methods=['GET'])
 def portfolio():
     # return JSON: user's portfolio list, suggested top 5
+    prediction = model.predict(session['user']['id'])
+    session['prediction_indexes'] = prediction.columns.values.tolist()
+    session['prediction_values'] = prediction.values.tolist()[0]
     user_portfolio = get_user_portfolio(session['user']['id'])
     user_suggestion = get_user_suggestion()
     return render_template('portfolio.html', user=session['user'], name=session['user']['username'], portfolios=user_portfolio, suggestions=user_suggestion)
