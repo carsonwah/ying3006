@@ -51,14 +51,14 @@
   <h4>你可能有興趣的股票</h4>
   <table class="full-width mdl-data-table mdl-js-data-table mdl-data-table--selectable mdl-shadow--2dp">
     <tbody>
-      {% for i in range(3) %}
+      {% for code in suggestions %}
       <tr>
         <td class="mdl-data-table__cell--non-numeric">
-          <h4>TITLE {{ i+1 }}</h4>
-          <div>0700</div>
+          <h4>{{suggestions[code]['name']}}</h4>
+          <div>{{ code }}</div>
         </td>
-        <td>59.05</td>
-        <td>1%</td>
+        <td>{{ suggestions[code]['price'] }}</td>
+        <td><i class="fa {{ 'fa-arrow-up' if suggestions[code]['percentage_change'] > 0 else 'fa-arrow-down'}}"></i> {{ suggestions[code]['percentage_change'] if suggestions[code]['percentage_change'] > 0 else suggestions[code]['percentage_change'] * -1 }}%</td>
       </tr>
       {% endfor %}
     </tbody>

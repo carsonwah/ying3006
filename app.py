@@ -105,7 +105,7 @@ def get_user_suggestion():
         stock_code = codes[index]
         stock_name = names[index]
         stock_price = prices[index]
-        stock_percentage_change = percentage_changes[index]
+        stock_percentage_change = float(percentage_changes[index])
         user_suggestion[stock_code] = {'name':stock_name,'price':stock_price,'percentage_change':stock_percentage_change}
     return user_suggestion
 
