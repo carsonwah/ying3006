@@ -78,8 +78,10 @@ a {
                     <div style="text-align:right;">
                       {{ n['time'] }}
                     </div>
-                    <div style="text-align:right;">
-                      {{ n['sentiment'] }}
+                    <div class="sentiment {{ 'positive' if  n['sentiment'] >= 0.7 else ('negative' if  n['sentiment'] <= 0.3 else '') }}">
+                      <i class="fa fa-plus"></i>
+                      <span>/</span>
+                      <i class="fa fa-minus"></i>
                     </div>
                   </div>
                   <div class="mdl-card__menu">
